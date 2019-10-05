@@ -1,0 +1,51 @@
+\documentclass[12pt,twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage{amsmath}
+	\numberwithin{equation}{subsection}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage[english]{babel}
+\usepackage[nottoc]{tocbibind}
+
+
+\usepackage{fancyhdr}
+	\pagestyle{fancy}
+	\setlength{\headheight}{15pt}
+\usepackage{csquotes}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{ref.bib}
+
+\begin{document}
+\graphicspath{ {images/} }
+\input{title.tex}
+
+\chapter*{Abstract}
+In this thesis the extensive study of possible and surly optimal materials for Quantum Dot Solar Cells (QDSCs) will be provided to the reader. One will have the opportunity to develop a rather current image of the necessary parts in their architecture which will be supported with an abundant description of the important aspects in engineering a photovoltaic device. With an introduction of its kind we will try to convey a basic but sufficient knowledge of standard terms, light with matter interaction, light spectrum analysis, quantum dots description with their behaviour and a photovoltaic device operation theory with certainly needed quantities that one has to find in order to properly describe a solar cell. In many parts we will try to outline possible enlargement of that information. With the objective of creating a possibly competitive QDSC the description of methods that we used will be included with a related to them characteristics. One will also be able to use this paper as a review of today’s development phase and current technological state of the other scientific groups all around the world.  After a successful development of a solar cell, the analysis and comparison will definitely be provided.
+ 
+\chapter*{Dedication}
+I would like to dedicate ...
+
+\chapter*{Declaration}
+I declare
+
+\chapter*{Acknowledgments}
+Thanks 
+
+\tableofcontents
+\listoffigures 
+\listoftables
+
+\input{chapters/ch1}
+
+\input{chapters/ch2}
+
+\addcontentsline{toc}{chapter}{Bibliography}
+\printbibliography
+
+\end{document}
