@@ -19,6 +19,14 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{2011}{article}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{issue}{5602}
+      \field{journaltitle}{J. Am. Chem. Soc.}
+      \field{volume}{133}
+      \field{year}{2011}
+    \endentry
     \entry{Born1999}{book}{}
       \name{author}{1}{}{%
         {{hash=09a797a9e943029fffd6fb23cdacd8d6}{%
@@ -49,6 +57,28 @@
       \field{labeltitlesource}{title}
       \field{title}{https://ourworldindata.org/energy-production-and-changing-energy-sources}
       \field{year}{2019}
+    \endentry
+    \entry{Hu2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=812bb5ebb2644258b39385f07adb7fa1}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Andreas\bibnamedelimb Mandelism\bibnamedelimb Xinzheng\bibnamedelimb Lan\bibnamedelima Lilei},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{812bb5ebb2644258b39385f07adb7fa1}
+      \strng{fullhash}{812bb5ebb2644258b39385f07adb7fa1}
+      \strng{bibnamehash}{812bb5ebb2644258b39385f07adb7fa1}
+      \strng{authorbibnamehash}{812bb5ebb2644258b39385f07adb7fa1}
+      \strng{authornamehash}{812bb5ebb2644258b39385f07adb7fa1}
+      \strng{authorfullhash}{812bb5ebb2644258b39385f07adb7fa1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar Energy Materials and solar cells}
+      \field{title}{Imbalanced charge carrier mobility and Schottky junction induced anomalous current-voltage characteristics of excitonic PbS colloidal quantum dot solar cells}
+      \field{year}{2016}
     \endentry
     \entry{Insights2019}{report}{}
       \name{author}{1}{}{%
@@ -98,6 +128,30 @@
       \field{labeltitlesource}{title}
       \field{title}{Classical Electrodynamics}
     \endentry
+    \entry{Kamat2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=72f6d13e2551f45f24217c1dbd487d69}{%
+           family={Kamat},
+           familyi={K\bibinitperiod},
+           given={Prashant\bibnamedelima V.},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Journal of Physical Chemistry Letters}%
+      }
+      \strng{namehash}{72f6d13e2551f45f24217c1dbd487d69}
+      \strng{fullhash}{72f6d13e2551f45f24217c1dbd487d69}
+      \strng{bibnamehash}{72f6d13e2551f45f24217c1dbd487d69}
+      \strng{authorbibnamehash}{72f6d13e2551f45f24217c1dbd487d69}
+      \strng{authornamehash}{72f6d13e2551f45f24217c1dbd487d69}
+      \strng{authorfullhash}{72f6d13e2551f45f24217c1dbd487d69}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum Dot Solar Cells. The Next Big Thing in Photovoltaics}
+      \field{year}{2018}
+    \endentry
     \entry{1991-2010}{booklet}{}
       \name{author}{1}{}{%
         {{hash=0c3c2325ea3d80799602b485b57f4cd8}{%
@@ -114,6 +168,40 @@
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{year}{(1991-2010)}
+    \endentry
+    \entry{Aschcroft}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4c1ffc9ed48a29f7ee8bd18e7fe75ff4}{%
+           family={N.\bibnamedelimi W.\bibnamedelimi Ashcroft},
+           familyi={N\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={N.\bibnamedelimi D.\bibnamedelimi Mermin},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=73f3556e06c8adeb70c63f43d416aeb3}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={Cornell},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Saunders College Publishing}%
+      }
+      \strng{namehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{fullhash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{bibnamehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{authorbibnamehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{authornamehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{authorfullhash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
+      \strng{editorbibnamehash}{73f3556e06c8adeb70c63f43d416aeb3}
+      \strng{editornamehash}{73f3556e06c8adeb70c63f43d416aeb3}
+      \strng{editorfullhash}{73f3556e06c8adeb70c63f43d416aeb3}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solid state physics}
+      \field{year}{1976}
     \endentry
     \entry{Nasa2019}{online}{}
       \name{author}{1}{}{%
@@ -140,6 +228,53 @@
       \field{labeltitlesource}{title}
       \field{title}{{Renewables Information}}
       \field{year}{2018}
+    \endentry
+    \entry{Wang2017a}{article}{}
+      \name{author}{6}{}{%
+        {{hash=4d9f16c23cab4dd2bc0e9b623a342ec4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yongjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b0a7c35250b28d47a62efc18db228e2f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zeke},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=292e57f67acbacbc6a29d70208bd6498}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8eb3a01949b514eb5135ed9411e27734}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Guozheng},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10d2d9d2aaf55dc1336b697b164761ee}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Honghua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a61d19133656146edc853c94af4cace2}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Jun\bibnamedelimb Chen\bibnamedelima Kunyuan},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8274b163a259c616c2142b7f6a65158f}
+      \strng{fullhash}{8a03d07aaea83c3100d1fd57db72038a}
+      \strng{bibnamehash}{8274b163a259c616c2142b7f6a65158f}
+      \strng{authorbibnamehash}{8274b163a259c616c2142b7f6a65158f}
+      \strng{authornamehash}{8274b163a259c616c2142b7f6a65158f}
+      \strng{authorfullhash}{8a03d07aaea83c3100d1fd57db72038a}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Materials}
+      \field{title}{High-Efficiency PbS Quantum-Dot Solar Cells with Greatly Simplified Fabrication Processing via “Solvent-Curing”}
+      \field{year}{2017}
     \endentry
   \enddatalist
 \endrefsection

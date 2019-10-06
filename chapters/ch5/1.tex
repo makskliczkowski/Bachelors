@@ -1,17 +1,215 @@
-\subsection{Drude model of free carriers}
+A first insight of what can we do and what would be the challenges to overcome has been made due to creation of a first working solar cell. The cell was based on PbS QDs and it has shown a promising quantities for further development. The whole paper provides a comparison of Vimun silicon solar cell and our own QDSC.
 
-\subsection{Crystal structure and Bloch theorem}
+\subsection{PbS Quantum Dot Solar Cells}
 
-\subsection{Energy structure}
+The whole idea of all-solution processed QD solar cells is beginning to mark its footprint in modern photovoltaics. Within all of type III SC PbS QDs are promising candidates and certainly a field of quick improvement. Yet, what is so promising about them and what are the features that distinguish them from other types. 
+In case of PbS QDs it must be denoted that the main advantages that they provide are the high efficiency and wide bandgap tunability due to its direct link with quantum dot size. For photovoltaic purposes the next important thing would be the ability to multiple excitation through the band gap. 
+\begin{wrapfigure}{l}{0.601\textwidth}
+\center
+\includegraphics[width=0.6\textwidth]{ch5/Pbs-QDs1st_emm}
+\caption{Emission spectrum of PbS QDs \cite{2011}}
+\end{wrapfigure}
+They are used in many different structured solar cells, creating a numerous variations of junctions and quantum dot treatments and achieved over 11\% power PCE as for last few years. The main problems with them would be to conduct and choose a fine ligand passivation. In our case the halide anions from precursors of tetrabutylammonium iodide (TBAI) and 1,2-ethanedithiol (EDT) were used. Ligands from such precursors do not only, more or less precisely, passivate surface defects, which are of course bad for our case, but modify electronic properties of QDs as well. The PbS-EDT layer was used as hole transport and  PbS-TBAI, a main light harvesting layer,  has been reported to usually be a n-type semiconductor, probably owing to a) I¬  anions that are exchanged in PbS QDS with S¬2- and b) I- anions are bound to the surface and repulse a oxidative processes. The choice of those were due to rather improved stability of QDs comparing to other layer passivating (devices with TBAI and EDT bi-ligands have been shown to provide a much longer stability in air than others). Although a longer air-exposure provides undesirable consequences that downgrade the cell significantly, the short period exposure is suspected of creating a more efficient charge extraction. Nevertheless, the inner processes that allow that bi-layer structure to be one of the best, provided for those types of QDSCs, is still eluded and further improvements are expected if it becomes much more understood. For example, a greatly simplified deposition has been achieved by replacing methanol with acetonitrile, which consequently improved electrical properties of photovoltaic device as well. (The device structure was very similar to ours). There are irrefutable results in achieving fine results from synthetisation from the group. \cite{Wang2017a} \cite{Hu2016}
 
-\subsection{Bigger world of carriers}
 
-\subsection{Non-equilibrium processes}
+\begin{figure}[t]
+\center
+\includegraphics[width=0.7\textwidth]{ch5/3DStruct}
+\caption{3D structure of the device}
+\end{figure}
+\begin{figure}[H]
+\center
+\includegraphics[width=0.6\textwidth]{ch5/STRUCTURE}
+\caption{Energy structure of QDSC}
+\end{figure}
 
-\subsection{Carrier injectiion}	
 
-\subsection{Recombination}
+\subsection{Device fabrication}
+The support for a whole device was ITO-coated glass substrate that was cleaned with strong solvents and drained ultrasonically. After that a double layer of MgO was created by using a spin-coater and after annealing PbS QDs were fabricated using spin-coating as well. It is important to denote, that it was possible to create a multi-deposition layers of QDs, which means the structure isn’t eluted from the ground. The layers were successfully dried in vacuum. After that, a MoOx firm has been added for creating inside trapping states and 
+with sputtering process Al contacts were created on the device. As many heavy-metal QD semiconductors are toxic and degrade in air they must be also encapsulated in a stable polymer shell to avoid exposure. 
+\begin{figure}[h]
+\center
+\includegraphics[width=0.6\textwidth]{ch5/IstSC}
+\caption{Device and Quantum-Dots produced in our lab}
+\end{figure}
 
-\subsection{Semiconductor junctions}
 
-	
+\subsection{Results}
+\begin{wrapfigure}{l}{0.501\textwidth}
+\center
+\includegraphics[width=0.5\textwidth]{ch5/bb1stco}
+\caption{Comparison of Black Body photon counts and that of our light source}
+\end{wrapfigure}
+
+From the following calculations we were able to compare both of the solar cells to distinguish what shall be definitely improved to achieve better effects. Standard photovoltaic measurements were provided to create IV both IV characteristics. However, it has to be denoted that neither were the surfaces of both devices the same, nor were the lengths from the light source. 
+
+\noindent Therefore a certain calculations and assumptions were made. From the
+photo-diode detector which were illuminated from the light source from
+\(h_{d} = 400mm\) we calculate the \(P_{d}\)-power on the detector. We know that the photo-diode responsivity:
+
+\begin{equation}
+R_{\lambda} = \frac{I_{p}}{P} = \frac{I_{p}}{r_{p} \cdot \frac{\text{hc}}{\lambda}}
+\end{equation}
+
+
+\noindent where \(I_{p}\) is a photocurrent output, and P is a ratio of radiant
+energy incident on the photodiode, which directly enables to calculate
+\(r_{p} -\) photon flux(number of photons/sec). We also define quantum
+efficiency of a photodetector as:
+\begin{equation}
+\eta = \frac{r_{e}}{r_{p}}
+\end{equation}
+
+
+\noindent which is the number of light created electrons to number of incident
+photons. That depends on wavelength through absorption coefficient,
+thickness of layers etc. Therefore we can say that:
+
+\begin{equation}
+r_{e} = \eta r_{p} = \frac{\eta P}{\frac{hc}{\lambda}} \rightarrow I_{p} = \frac{e\eta P}{\frac{hc}{\lambda}}
+\end{equation}
+
+
+\noindent Therefore, responsivity may be written as:
+
+\begin{equation}
+R_{\lambda} = \frac{e\eta P}{hc}
+\end{equation}
+
+
+\noindent According to those calculations we now see that from:
+\begin{equation}
+J_{sc} = e\int_{\lambda}^{}{\Phi_{p}(\lambda ) \cdot \eta (\lambda) d \lambda }
+\end{equation}
+
+\noindent \(\Phi_{p} -\) is a photon flux now, for the sake of new calculations to
+distinguish the difference of photon counts and J­\textsubscript{sc} is
+a short-circuit current. From that of above we now can see that:
+\begin{equation}
+J_{\text{sc}} = \int_{\lambda}^{}{\Phi_{p}\left( \lambda \right) \cdot R_{\lambda } \cdot \frac{\text{hc}}{\lambda }d\lambda } \rightarrow
+\end{equation}
+
+\begin{equation}
+J_{\text{sc}}^{\text{rel}} = \int_{\lambda}^{}{\Phi_{p}^{\text{norm}}\left( \lambda \right) \cdot R_{\lambda} \cdot \frac{\text{hc}}{\lambda}d\lambda }
+\end{equation}
+
+
+\noindent where we have used relative value for short-circuit thanks to using a
+normalised values because of the fact that detector isn't ideal and that
+we can calculate the number of incident photons by simply using:
+\begin{equation}
+N_{p} = \frac{J_{sc}}{J_{sc}^{rel}}
+\end{equation}
+
+\noindent From now we can clearly say that:
+\begin{equation}
+P_{d} = \int_{\lambda}^{}{\Phi_{p}^{\text{norm}}\left( \lambda \right) \cdot N_{p} \cdot \frac{\text{hc}}{\lambda}d \lambda }
+\end{equation}
+
+\begin{figure}[H]
+\center
+\includegraphics[width=0.8\textwidth]{ch5/GHZOPT}
+\caption{. Original data from Gigahertz Optik Gmbh}
+\end{figure}
+
+\noindent From integration and minding that
+\(J_{\text{sc}} = 3,5 \cdot 10^{- 4}\text{mA\ }\)we achieved that:
+
+\[N_{p} \approx 1,73 \cdot 10^{24}\]
+
+\[P_{d} \approx 0,23\left( W \right)\ \]
+
+\noindent The calculations are very roughly approximated and are just a
+presentation of methods used, mainly due to the fact that the full
+spectral characteristics weren't absolutely known. We can now estimate
+\(P_{\text{density}} \approx \frac{P}{\Omega},\) where \(\Omega\) is a
+solid angle. Therefore in our case from the information from \ref{tab:1stparam} we can calculate PCEs of both
+photovoltaic devices by using:
+\begin{figure}[b]
+	\centering
+	\begin{subfigure}[b]{0.49\textwidth}
+	\centering
+	\includegraphics[width=0.93\textwidth]{ch5/istQDiv}
+	\caption{QDSC}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.49\textwidth}
+	\centering
+	\includegraphics[width=\textwidth]{ch5/istVIMiv}
+	\caption{Commercial solar cell}{}
+	\end{subfigure}
+	\caption{IV characteristics for QDSC and commercial cell }
+\end{figure}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c |c | c | c |}
+\hline
+& Detector & QDSC & Commercial Cell\\
+\hline
+Length from light source{[}mm{]} & 400 & 75 & 603\\
+\hline
+Surface{[}mm\textsuperscript{2}{]} & 36,32 & 27 & 462,8\\
+\hline
+Solid angle{[}sr{]} & 2,27E-04 & 4,80E-03 & 1,27E-03\\
+\hline
+Incident Power {[}W{]} & 2,30E-01 & 5,75E-03 & 1,53E-03\\
+\hline
+\end{tabular}
+\caption{Parameters of tested solar cells}
+\label{tab:1stparam}
+\end{table}
+
+\begin{equation}
+PCE = \frac{V_{m}J_{m}}{P_{\text{in}}}
+\end{equation}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c |c |c | c | c|}
+\hline
+& V\textsubscript{m}{[}V{]} & I\textsubscript{m}{[}A{]} &P\textsubscript{in}{[}W{]} & PCE\\
+\hline
+QDSC & 0,32 & 6E-05 & 5,75E-03 & 0,33$\%$\\
+\hline
+Commercial Cell & 1,45 & 7E-05 & 1,53E-03 & 6,65$\%$\\
+\hline
+\end{tabular}
+\caption{PCEs of photovoltaic devices}
+\label{tab:1stPCE}
+\end{table}
+\noindent Provided that producer of the Commercial Cell provides similar PCE
+compared to the given in \ref{tab:1stPCE} and the efficiency of our light
+source is aimed to be close to 10\%, and therefore its power is 150W we
+get circa 15W of light which we get by multiplying the power on the
+detector by a factor of $4\pi /\Omega $ , where $\Omega$ is the solid angle for the
+detector. This means that our, certainly course, calculations show
+reasonable results from which we can definitely draw some conclusions.
+
+\subsection{Conclusions and future prospects}
+
+As we can clearly see, the PCE of QDSC made is small compared to the
+current world efficiencies \cite{Kamat2018}. This can be caused by numerous reasons.
+Working with colloidal quantum dots is always connected with the careful
+arrangements of various parameters. The slightest change of just one may
+provide a drastic change in the final result. Therefore we may conclude
+that the reason of such an efficiency is mostly challenged by the
+optimal choice of the layer width, quick degradation of QDs in the
+presence of air or physical defects on the device structure. The large
+leakage current may suggest that there are many defects inside the
+device structure which simply create traps for moving electrons.
+Nevertheless, the prospect of creating competitive QDSC is definitely in
+our reach. For example, we can see that V\textsubscript{oc} is really
+large for device with such a small surface. Now, we have to deal with
+the improvement of our device. Optimization of the layer width and
+enlarging of CQDs stability will be the first things to do, but
+certainly not last. After testing those aspects, we may check if there
+is another way to exchange ligands in CQDs, which may provide major
+improvement in mobility, if there is growth of efficiency when changing
+or adding another transport layer in the device structure or if layer
+homogeneity can be further increased to stay comprehensive and
+competitive.
+
+
+
+

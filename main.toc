@@ -63,8 +63,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Results}{21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Future possibilities}{22}% 
+\contentsline {section}{\numberline {5.1}First device deposition}{21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion and outlook}{23}% 
+\contentsline {subsection}{\numberline {5.1.1}PbS Quantum Dot Solar Cells}{21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{23}% 
+\contentsline {subsection}{\numberline {5.1.2}Device fabrication}{23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Results}{23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Conclusions and future prospects}{26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Future possibilities}{27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Conclusion and outlook}{28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{28}% 
