@@ -1,1 +1,143 @@
-\subsection{halo}
+As in the photovoltaic physics we are constantly struggling with light itself we should be know what the light actually is and how it interacts with matter in many, rather curious and different ways. Why is that so that matter looks the way it does and what of its properties can we control. In this chapter we will embrace the phenomena just to create an image of what we are dealing with. 
+
+\subsection{Basic properties of electromagnetic field}
+
+\indent Before we actually begin we need to state some classic information about
+the physics of electric charges. The electromagnetic field is
+represented by two generally complex vectors, even though the physical
+result that we are expecting is ought to be real. Those vectors are
+\textbf{E} -- \emph{electric field} and \textbf{B} -- \emph{magnetic
+induction}. The properties of those fields are of course described by
+the \emph{Maxwell's equations}. For them we shall also introduce two
+more important quantities \(\rho\) -- \emph{the electric charge} density
+and \textbf{j} -- \emph{electric current density} vector.
+We can define them in this way:
+\begin{equation}
+e = \int\rho dV
+\end{equation}
+
+\begin{equation}
+I = \int_{S}^{}\mathbf{j \cdot dS}
+\end{equation}
+
+\noindent Where I is electric current.
+
+\noindent The four Maxwell equations in differential form are:
+\begin{equation}
+\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\mathbf{\rightarrow}
+\emph{Faraday's induction law}
+\end{equation}
+
+\begin{equation}
+\nabla \times \mathbf{B}=\mu_{0}\left( \mathbf{j +}\epsilon_{0}\frac{\partial\mathbf{E}}{\partial t} \right) \rightarrow
+\emph{Ampere's circuital law}
+\end{equation}
+
+\begin{equation}
+\nabla \cdot \mathbf{E}=\frac{\rho}{\epsilon_{0}}\mathbf{\rightarrow}
+\emph{Gauss's law}
+\end{equation}
+
+\begin{equation}
+\nabla \cdot \mathbf{B} =  0 \rightarrow \emph{Gauss's law for
+magnetism}
+\end{equation}
+
+To freely describe the properties of the fields interacting
+macroscopically with material objects we here we can also introduce
+standard auxiliary fields with polarization and magnetisation of a
+macroscopic medium. Those vectors are \textbf{D --} \emph{the electric
+displacement} and \textbf{H} -- \emph{the magnetic vector}. From Gauss's
+law for magnetism there is a straight implication that no magnetics
+monopoles exist and Gauss's law may be also treated as electric charge
+density definition.
+
+\begin{equation}
+\mathbf{D}\left( \mathbf{r,}t \right) = \epsilon_{0}\mathbf{E}\left( \mathbf{r,}t \right) + \mathbf{P(r,}t)
+\end{equation}
+
+\begin{equation}
+\mathbf{H}\left( \mathbf{r,}\text{\ t} \right) = \frac{1}{\mu_{0}}\mathbf{B}\left( \mathbf{r,\ }t \right) - M(\mathbf{r,\ }t)
+\end{equation}
+
+\noindent Where \textbf{P} is a \emph{polarization} \emph{vector} and \textbf{M}
+is \emph{magnetization vector}.
+
+\noindent And with them our former equations change to:
+
+\begin{equation}
+\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\mathbf{\rightarrow}
+\emph{Faraday's induction law}
+\end{equation}
+
+\begin{equation}
+\nabla \times \mathbf{H =}\left( \mathbf{j +}\frac{\partial\mathbf{D}}{\partial t} \right) \rightarrow
+\emph{Ampere's circuital law}
+\end{equation}
+
+\begin{equation}
+\nabla \cdot \mathbf{D =}\rho\mathbf{\rightarrow} \emph{Gauss's
+law}
+\end{equation}
+
+\begin{equation}
+\nabla \cdot \mathbf{B = \ 0 \rightarrow} \emph{Gauss's law for
+magnetism}
+\end{equation}
+
+If we put divergence on the Ampere's law, we can then place Gauss's
+theorem in the equation because of the exchangeability of partial
+derivatives and from that we can simply derive so called equation for
+\emph{charge conservation:}
+
+\begin{equation}
+\frac{\partial\rho}{\partial t} + \nabla \cdot \mathbf{j = 0}
+\end{equation}
+
+The field is said to be static if all quantities are independent of time
+and, of course, no currents are present. This is the special case but we
+cannot be so lucky every time. Optical fields are usually sources of
+very rapid time variety but one may deal with it thanks to the
+possibility to average the field over macroscopic time interval which is
+mostly the case in for photovoltaic needs, where for example the light
+source is a distant star.
+
+Relations for substances under influence of those fields can be very
+complicated. There is a special case that can make life easier as well.
+If the material is \emph{isotropic} (all its properties are identical in
+every direction) they take a simple form of:
+
+\begin{equation}
+\mathbf{j} = \sigma\mathbf{E \rightarrow} Ohm's law
+\end{equation}
+
+\begin{equation}
+\mathbf{D =}\epsilon\mathbf{E}
+\end{equation}
+
+\begin{equation}
+\mathbf{B =}\mu\mathbf{H}
+\end{equation}
+
+Here \(\sigma\) is called \emph{conductivity}, \(\epsilon\) is a
+\emph{dielectric constant} and \(\mu\) is \emph{magnetic permeability.}
+Normally, all of those are tensors. In the case of scalar conductivity
+we can separate macroscopic media in three different categories:
+conductors, semiconductors and isolators. The same goes for magnetic
+permeability. With \(\mu < 1\) the substance is said to be diamagnetic,
+\(\mu > 1\) paramagnetic and so with \(\mu \gg 1\) ferromagnetic.
+Obviously this description is rather intuitive and treated as a general
+theory. For example for exceptionally strong fields the area of
+non-linear optics is needed to be got into which provides higher power
+terms of fields in the above equations. Also, the case where we need to
+include relativistic effects by extracting previous values of E acting
+on charges is not included as well. The information will be expanded
+later when needed ,but if the reader wants to really expand following
+discussion understanding, it can be done via \cite{Born1999} \cite{Jackson}.
+
+\subsection{Boundary conditions at discontinuity}
+\subsection{Energy of electromagnetic field, the Poynting vector}
+\subsection{Wave equation}
+\subsection{Scalar waves and wave packets}
+\subsection{Vector waves}
+\subsection{Refraction and reflection of classical electromagnetic wave}

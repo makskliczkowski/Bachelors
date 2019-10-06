@@ -1,8 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 NEXT 64-bit) (preloaded format=pdflatex 2019.10.5)  5 OCT 2019 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.5)  6 OCT 2019 11:41
 entering extended mode
-**./title.tex
-(title.tex
-LaTeX2e <2018-12-01>
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**title.tex
+(./title.tex
+LaTeX2e <2019-10-01>
 
 ! LaTeX Error: Environment titlepage undefined.
 
@@ -34,9 +36,58 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
  []
 
 ! Undefined control sequence.
-<recently read> \huge 
+l.5 	   \includegraphics
+                        [width=\textwidth]{logopwr.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.5 	   \includegraphics[width=\textwidth]
+                                          {logopwr.pdf}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.5 	   \includegraphics[width=\textwidth]
+                                          {logopwr.pdf}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+! Undefined control sequence.
+<recently read> \Huge 
                       
-l.5 ...Type III solar cells based on quantum dots}
+l.9 ...Type III solar cells based on quantum dots}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -45,63 +96,53 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (25.72903pt too wide) in paragraph at lines 5--6
- \OT1/cmr/bx/n/10 Type 
+Overfull \hbox (25.72903pt too wide) in paragraph at lines 9--10
+ []\OT1/cmr/bx/n/10 Type 
  []
 
 
-Overfull \hbox (13.72214pt too wide) in paragraph at lines 5--6
+Overfull \hbox (13.72214pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 III 
  []
 
 
-Overfull \hbox (14.11935pt too wide) in paragraph at lines 5--6
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 so- 
  []
 
 
-Overfull \hbox (13.52075pt too wide) in paragraph at lines 5--6
+Overfull \hbox (13.52075pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 lar 
  []
 
 
-Overfull \hbox (21.30682pt too wide) in paragraph at lines 5--6
+Overfull \hbox (21.30682pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 cells 
  []
 
 
-Overfull \hbox (28.17482pt too wide) in paragraph at lines 5--6
+Overfull \hbox (28.17482pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 based 
  []
 
 
-Overfull \hbox (12.13882pt too wide) in paragraph at lines 5--6
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 on 
  []
 
 
-Overfull \hbox (28.27066pt too wide) in paragraph at lines 5--6
+Overfull \hbox (28.27066pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 quan- 
  []
 
 
-Overfull \hbox (20.44434pt too wide) in paragraph at lines 5--6
+Overfull \hbox (20.44434pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 tum 
  []
 
 
-Overfull \hbox (21.1471pt too wide) in paragraph at lines 5--6
+Overfull \hbox (21.1471pt too wide) in paragraph at lines 9--10
  \OT1/cmr/bx/n/10 dots 
- []
-
-
-Overfull \hbox (64.32738pt too wide) in paragraph at lines 9--10
- []\OT1/cmr/bx/n/10 Maksymilian 
- []
-
-
-Overfull \hbox (58.91078pt too wide) in paragraph at lines 9--10
- \OT1/cmr/bx/n/10 Kliczkowski 
  []
 
 ! Undefined control sequence.
@@ -129,64 +170,25 @@ Missing character: There is no E in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no I in font nullfont!
 Missing character: There is no S in font nullfont!
+
+Overfull \hbox (64.32738pt too wide) in paragraph at lines 17--19
+ []\OT1/cmr/bx/n/10 Maksymilian 
+ []
+
+
+Overfull \hbox (58.91078pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 Kliczkowski 
+ []
+
 ! Undefined control sequence.
-l.17        \includegraphics
-                            [width=\textwidth]{./images/logopwr.pdf}
+l.22        \small
+                   Faculty of Fundamental Problems of Technology\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no [ in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no = in font nullfont!
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.17        \includegraphics[width=\textwidth]
-                                              {./images/logopwr.pdf}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.17        \includegraphics[width=\textwidth]
-                                              {./images/logopwr.pdf}
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-Missing character: There is no ] in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no f in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -275,7 +277,7 @@ Missing character: There is no d in font nullfont!
 ! Undefined control sequence.
 <recently read> \today 
                        
-l.22        \today
+l.25        \today
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -290,7 +292,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \end{titlepage}
+l.28 \end{titlepage}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -298,17 +300,17 @@ or  <return>  to continue without it.
 
 )
 ! Emergency stop.
-<*> ./title.tex
-               
+<*> title.tex
+             
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 11 strings out of 492895
- 159 string characters out of 3133943
- 58122 words of memory out of 3000000
- 4027 multiletter control sequences out of 15000+200000
- 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 9 strings out of 492166
+ 162 string characters out of 6126303
+ 60011 words of memory out of 5000000
+ 4473 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 13i,1n,10p,94b,120s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 13i,1n,10p,92b,110s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

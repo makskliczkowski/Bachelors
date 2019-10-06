@@ -3,6 +3,7 @@
 \usepackage[english]{babel}
 
 \usepackage{graphicx}
+\usepackage{float}
 \usepackage{xcolor}
 \usepackage{textcomp}
 \usepackage{amsmath}
@@ -17,6 +18,10 @@
 \usepackage{fancyhdr}
 	\pagestyle{fancy}
 	\setlength{\headheight}{28pt}
+	\fancyhead{}
+	\fancyhead[RO,LE]{Chapter \thechapter}
+	\fancyfoot{}
+	\fancyfoot[CO,CE]{\thepage}
 \usepackage{csquotes}
 \usepackage[backend=biber]{biblatex}
 \addbibresource{ref.bib}
@@ -32,7 +37,25 @@ In this thesis the extensive study of possible and surly optimal materials for Q
 I would like to dedicate ...
 
 \chapter*{Declaration}
-I declare
+
+
+I hereby declare that the present bachelor's thesis was composed
+by myself and that the work contained herein is my own. I also confirm that I have only used the
+specified resources. All formulations and concepts taken verbatim or in substance from printed
+or unprinted material or from the Internet have been cited according to the rules of good
+scientific practice and indicated by footnotes or other exact references to the original source.
+
+\vline
+
+\noindent The present thesis has not been submitted to another university for the award of an academic
+degree in this form. This thesis has been submitted in printed and electronic form. I hereby
+confirm that the content of the digital version is the same as in the printed version.
+I understand that the provision of incorrect information may have legal consequences.
+\vfill
+
+(Signature)\hfill (Place, Date)
+\vspace{8.5cm}
+
 
 \chapter*{Acknowledgements}
 Thanks 

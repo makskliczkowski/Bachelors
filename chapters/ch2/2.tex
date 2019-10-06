@@ -1,143 +1,62 @@
-As in the photovoltaic physics we are constantly struggling with light itself we should be know what the light actually is and how it interacts with matter in many, rather curious and different ways. Why is that so that matter looks the way it does and what of its properties can we control. In this chapter we will embrace the phenomena just to create an image of what we are dealing with. 
 
-\subsection{Basic properties of electromagnetic field}
+\subsection{Physics and properties of solids}
+The most common distinction between solids is taking their resistivity as a criterion. We can distinguish three main categories for them - metals, semiconductors and isolators. Within that we can also provide temperature differences beneath them as for the metals, the resistivity goes down with the temperature increase and for the rest of them it is quite the opposite.
 
-Before we actually begin we need to state some classic information about
-the physics of electric charges. The electromagnetic field is
-represented by two generally complex vectors, even though the physical
-result that we are expecting is ought to be real. Those vectors are
-\textbf{E} -- \emph{electric field} and \textbf{B} -- \emph{magnetic
-induction}. The properties of those fields are of course described by
-the \emph{Maxwell's equations}. For them we shall also introduce two
-more important quantities \(\rho\) -- \emph{the electric charge} density
-and \textbf{j} -- \emph{electric current density} vector.
-We can define them in this way:
+Also, as it will be later extended, when we light a semiconductor or an isolator we can clearly observe so called \textit{absorption threshold}. 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.45]{Con_temp.pdf}
+\caption{Demonstrations of conductivity behaviour of different types of solids}
+\end{figure}
+\subsection{Drude model of free carriers}
+The discovery of electron in 1897 had the great impact on the first attempt to describe properties of solids. Fairly early, just three years later, Drude constructed his first theory which based on the usage of quite successful kinetic theory, which described the behaviour of gases. Starting with metals he imagined a gas of electrons which are identical solid spheres moving randomly in straight lines. They change directions by collisions and of course no other forces than that of the very quick collisions are taken into account. As metals are neutral, Drude deduced that much heavier and steady particles are compensating negative electron charge. Strictly, that kind of model provides us with the crystal structure but back then, Drude assumed (and for great deal of metals it's fairly true), that only valence electrons are important and they move freely through the whole metal. The basic assumptions for the model are:
+\begin{enumerate}
+\item Between collisions, interactions electron-electron and electron-ion are able to be neglected. The first one is called \textit{independent electron approximation} and the second is called \textit{free electron approximation}. 
+\item Only the collisions are important. They are approximately instantaneous events that alter the velocity of the electron. The electron-electron scattering is one of the least important scattering mechanisms in metals. Nevertheless with others, very often, in describing conducting electrons it is not important to describe all mechanisms deeply. 
+\item We can assume that the period in which an electron isn't making any collision is $\tau$ \textit{(relaxation time)} and thus the probability that electron is undergoing a collision in any infinitesimal time period dt is $\frac{dt}{\tau}$. This of course means that $\tau$ is average time and it is independent of both velocity and position $\rightarrow$ therefore also time. 
+\item Thermal equilibrium is achieved only through collisions.
+\end{enumerate}
+
+\subsubsection{Electrical Conductivity}
+
+Drude model can describe, with certain accuracy, the Ohm's law $V=IR$. Resistance R is a quantity which is dependent of the dimensions of the material, therefore resistivity, which has been mentioned before can be used.
 \begin{equation}
-e = \int\rho dV
+\mathbf{E}=\rho\mathbf{j}
 \end{equation}
-
+The current density \textit{j} is the same as in former section, when we were describing Maxwells equations. If n electrons move with velocity \textbf{v} in time period dt and through area A we get that charge connected with that quantities is $-nevAdt$ so current density is:
 \begin{equation}
-I = \int_{S}^{}\mathbf{j \cdot dS}
+\mathbf{j}=-ne\mathbf{v}
+\label{eq:curr_dens_drud}
 \end{equation}
-
-Where I is electric current.
-
-The four Maxwell equations in differential form are:
+and is just a net current because of random electron movement. 
+Also, let's assume that electron has a velocity $\mathbf{v_0}$ at time $t_0$ just after a collision and additional velocity $\frac{-\mathbf{E}e\tau}{m}$ from the external field, we can take average through long time period. The random velocity $\mathbf{v_0}$ disappears and therefore, connecting with \ref{eq:curr_dens_drud} we get that:
 \begin{equation}
-\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\mathbf{\rightarrow}
-\emph{Faraday's induction law}
+\mathbf{j}=\sigma\mathbf{E}
 \end{equation}
-
 \begin{equation}
-\nabla \times \mathbf{B}=\mu_{0}\left( \mathbf{j +}\epsilon_{0}\frac{\partial\mathbf{E}}{\partial t} \right) \rightarrow
-\emph{Ampere's circuital law}
+\sigma=\frac{ne^2\tau}{m}
 \end{equation}
+This tells us about the linear dependence of \textbf{j} on \textbf{E}. Note that $\tau = \frac{m}{\rhone^2}$ because $\tau = 1/\rho$.
+Drude model was a first and simple model used in describing solid state materials. As simple as it is, it can yet provide some accurate results. 
 
-\begin{equation}
-\nabla \cdot \mathbf{E}=\frac{\rho}{\epsilon_{0}}\mathbf{\rightarrow}
-\emph{Gauss's law}
-\end{equation}
 
-\begin{equation}
-\nabla \cdot \mathbf{B} =  0 \rightarrow \emph{Gauss's law for
-magnetism}
-\end{equation}
 
-To freely describe the properties of the fields interacting
-macroscopically with material objects we here we can also introduce
-standard auxiliary fields with polarization and magnetisation of a
-macroscopic medium. Those vectors are \textbf{D --} \emph{the electric
-displacement} and \textbf{H} -- \emph{the magnetic vector}. From Gauss's
-law for magnetism there is a straight implication that no magnetics
-monopoles exist and Gauss's law may be also treated as electric charge
-density definition.
 
-\begin{equation}
-\mathbf{D}\left( \mathbf{r,}t \right) = \epsilon_{0}\mathbf{E}\left( \mathbf{r,}t \right) + \mathbf{P(r,}t)
-\end{equation}
 
-\begin{equation}
-\mathbf{H}\left( \mathbf{r,}\text{\ t} \right) = \frac{1}{\mu_{0}}\mathbf{B}\left( \mathbf{r,\ }t \right) - M(\mathbf{r,\ }t)
-\end{equation}
 
-Where \textbf{P} is a \emph{polarization} \emph{vector} and \textbf{M}
-is \emph{magnetization vector}.
 
-And with them our former equations change to:
 
-\begin{equation}
-\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\mathbf{\rightarrow}
-\emph{Faraday's induction law}
-\end{equation}
+\subsection{Crystal structure and Bloch theorem}
 
-\begin{equation}
-\nabla \times \mathbf{H =}\left( \mathbf{j +}\frac{\partial\mathbf{D}}{\partial t} \right) \rightarrow
-\emph{Ampere's circuital law}
-\end{equation}
+\subsection{Energy structure}
 
-\begin{equation}
-\nabla \cdot \mathbf{D =}\rho\mathbf{\rightarrow} \emph{Gauss's
-law}
-\end{equation}
+\subsection{Bigger world of carriers}
 
-\begin{equation}
-\nabla \cdot \mathbf{B = \ 0 \rightarrow} \emph{Gauss's law for
-magnetism}
-\end{equation}
+\subsection{Non-equilibrium processes}
 
-If we put divergence on the Ampere's law, we can then place Gauss's
-theorem in the equation because of the exchangeability of partial
-derivatives and from that we can simply derive so called equation for
-\emph{charge conservation:}
+\subsection{Carrier injection}
 
-\begin{equation}
-\frac{\partial\rho}{\partial t} + \nabla \cdot \mathbf{j = 0}
-\end{equation}
+\subsection{Recombination}
 
-The field is said to be static if all quantities are independent of time
-and, of course, no currents are present. This is the special case but we
-cannot be so lucky every time. Optical fields are usually sources of
-very rapid time variety but one may deal with it thanks to the
-possibility to average the field over macroscopic time interval which is
-mostly the case in for photovoltaic needs, where for example the light
-source is a distant star.
+\subsection{Semiconductor junctions}
 
-Relations for substances under influence of those fields can be very
-complicated. There is a special case that can make life easier as well.
-If the material is \emph{isotropic} (all its properties are identical in
-every direction) they take a simple form of:
-
-\begin{equation}
-\mathbf{j} = \sigma\mathbf{E \rightarrow} Ohm's law
-\end{equation}
-
-\begin{equation}
-\mathbf{D =}\epsilon\mathbf{E}
-\end{equation}
-
-\begin{equation}
-\mathbf{B =}\mu\mathbf{H}
-\end{equation}
-
-Here \(\sigma\) is called \emph{conductivity}, \(\epsilon\) is a
-\emph{dielectric constant} and \(\mu\) is \emph{magnetic permeability.}
-Normally, all of those are tensors. In the case of scalar conductivity
-we can separate macroscopic media in three different categories:
-conductors, semiconductors and isolators. The same goes for magnetic
-permeability. With \(\mu < 1\) the substance is said to be diamagnetic,
-\(\mu > 1\) paramagnetic and so with \(\mu \gg 1\) ferromagnetic.
-Obviously this description is rather intuitive and treated as a general
-theory. For example for exceptionally strong fields the area of
-non-linear optics is needed to be got into which provides higher power
-terms of fields in the above equations. Also, the case where we need to
-include relativistic effects by extracting previous values of E acting
-on charges is not included as well. The information will be expanded
-later when needed ,but if the reader wants to really expand following
-discussion understanding, it can be done via \cite{Born1999} \cite{Jackson}.
-
-\subsection{Boundary conditions at discontinuity}
-\subsection{Energy of electromagnetic field, the Poynting vector}
-\subsection{Wave equation}
-\subsection{Scalar waves and wave packets}
-\subsection{Vector waves}
-\subsection{Refraction and reflection of classical electromagnetic wave}
