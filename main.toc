@@ -1,0 +1,52 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Theory}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Physics and properties of solids and semiconductors}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}halo}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Classical and semi classical theory of light and light with matter interaction}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Basic properties of electromagnetic field}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Boundary conditions at discontinuity}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Energy of electromagnetic field, the Poynting vector}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Wave equation}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Scalar waves and wave packets}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.6}Vector waves}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.7}Refraction and reflection of classical electromagnetic wave}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Quantum dots and nano-structures}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Introduction to quantum description of light}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Theory of photovoltaic devices}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Solar cell parameters}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Third generation solar cells, QDSCs and review}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Cell architecture}{16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Depositions and parameters}{17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Results}{18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Future possibilities}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Conclusion and outlook}{20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{20}% 

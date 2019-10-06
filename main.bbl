@@ -1,0 +1,147 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Born1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=09a797a9e943029fffd6fb23cdacd8d6}{%
+           family={Born},
+           familyi={B\bibinitperiod},
+           given={Emil\bibnamedelimb Wolf\bibnamedelima Max},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \strng{fullhash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \strng{bibnamehash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \strng{authorbibnamehash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \strng{authornamehash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \strng{authorfullhash}{09a797a9e943029fffd6fb23cdacd8d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of optics - electromagnetic theory of propagation, interference and diffraction of light}
+      \field{year}{1999}
+    \endentry
+    \entry{2019}{online}{}
+      \field{sortinit}{h}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labeltitlesource}{title}
+      \field{title}{https://ourworldindata.org/energy-production-and-changing-energy-sources}
+      \field{year}{2019}
+    \endentry
+    \entry{Insights2019}{report}{}
+      \name{author}{1}{}{%
+        {{hash=06ec01d5259c10941ba8de151620b48f}{%
+           family={Insights},
+           familyi={I\bibinitperiod},
+           given={Energy},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Insights, Energy}%
+      }
+      \list{publisher}{1}{%
+        {McKinsey}%
+      }
+      \strng{namehash}{06ec01d5259c10941ba8de151620b48f}
+      \strng{fullhash}{06ec01d5259c10941ba8de151620b48f}
+      \strng{bibnamehash}{06ec01d5259c10941ba8de151620b48f}
+      \strng{authorbibnamehash}{06ec01d5259c10941ba8de151620b48f}
+      \strng{authornamehash}{06ec01d5259c10941ba8de151620b48f}
+      \strng{authorfullhash}{06ec01d5259c10941ba8de151620b48f}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Global Energy Perspective 2019: Reference Case}}
+      \field{type}{techreport}
+      \field{year}{2019}
+    \endentry
+    \entry{Jackson}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bc51fc62aec5c2fb2968eb631d48cf2a}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \strng{fullhash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \strng{bibnamehash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \strng{authorbibnamehash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \strng{authornamehash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \strng{authorfullhash}{bc51fc62aec5c2fb2968eb631d48cf2a}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classical Electrodynamics}
+    \endentry
+    \entry{1991-2010}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=0c3c2325ea3d80799602b485b57f4cd8}{%
+           family={{Meteotest AG}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \strng{fullhash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \strng{bibnamehash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \strng{authorbibnamehash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \strng{authornamehash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \strng{authorfullhash}{0c3c2325ea3d80799602b485b57f4cd8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{year}{(1991-2010)}
+    \endentry
+    \entry{Nasa2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fd2e2024f2fc93ac7bc37d34cd5b2a09}{%
+           family={Nasa},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{fullhash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{bibnamehash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{authorbibnamehash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{authornamehash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{authorfullhash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{https://climate.nasa.gov/evidence/}
+      \field{year}{2019}
+    \endentry
+    \entry{2018}{booklet}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labeltitlesource}{title}
+      \field{title}{{Renewables Information}}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
