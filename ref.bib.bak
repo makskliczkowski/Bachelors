@@ -2,272 +2,272 @@
 
 @Article{C.Shi2017,
   author        = {C. Shi, J. Chen, G. Xiao and L. Li, Z. Zhang},
+  journal       = {Appl. Surf. Sci},
   year          = {2017},
   volume        = {410},
   __markedentry = {[maxgr:]},
-  publisher     = {Appl. Surf. Sci},
 }
 
 @Article{J.Qiu2013,
   author        = {J. Qiu, K. Yan and Zhu, S. Yang Z.},
+  journal       = {ACS Appl. Mater. Interfaces},
   year          = {2013},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Appl. Mater. Interfaces},
 }
 
 @Article{Y.Liu2014,
   author        = {Y. Liu, Y. Zhao, K. Chen Y. Cheng and Peng, W. Chen Z.},
+  journal       = {Electrochim. Acta},
   year          = {2014},
   volume        = {135},
   __markedentry = {[maxgr:]},
-  publisher     = {Electrochim. Acta},
 }
 
 @Article{I.Mora-Sero2014,
   author        = {I. Mora-Sero, Q. Shen, H. Zhang Y. Li K. Zhao J. Wang X. Zhong and Pan, J. Bisquert Z.},
+  journal       = {J. Am. Chem. Soc},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Article{H.Zhang2012,
   author        = {H. Zhang, K. Cheng, Y. Hou J. Hua and X. Zhong, Z. Pan},
+  journal       = {ACS Nano},
   year          = {2012},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Nano},
 }
 
 @Article{MikhailArtemyev2019,
   author        = {Mikhail Artemyev, Jin Wang and Du, Jianguo Tang Zhonglin},
   title         = {Performance Improvement Strategies for Quantum Dot Sensitized Solar Cells: A Review},
+  journal       = {Journal of Materials Chemistry A},
   year          = {2019},
   __markedentry = {[maxgr:]},
-  publisher     = {Journal of Materials Chemistry A},
 }
 
 @Article{MingjianYuan2016,
   author        = {Mingjian Yuan, Hui Li, Hui Yang Qing Zhou Huibiao Liu Xinzheng Lan Mengxia Liu Jizheng Wang Edward H. Sargent and Jin, Yuliang Li Zhiwen},
   title         = {Graphdiyne: An Efficient Hole Transporter for Stable High-Performance Colloidal Quantum Dot Solar Cells},
+  journal       = {Materials Views},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {Materials Views},
 }
 
 @Article{YuanRen2012,
   author        = {Yuan Ren, Sjoerd Hoogland, Oleksandr Voznyy Larissa Levina Philipp Stadler Xinzheng Lan David Zhitomirsky and Ning, Edward H. Sargent Zhijun},
   title         = {All-Inorganic Colloidal Quantum Dot Photovoltaics Employing Solution-Phase Halide Passivation},
+  journal       = {Advanced Materials},
   year          = {2012},
   __markedentry = {[maxgr:]},
-  publisher     = {Advanced Materials},
 }
 
 @Article{HuashangRao2018,
   author        = {Huashang Rao, Iva´n Mora-Sero´, Juan Bisquert and Pan, Xinhua Zhong Zhenxiao},
   title         = {Quantum dot-sensitized solar cells},
+  journal       = {Chem. Soc. Rev},
   year          = {2018},
   volume        = {47/7659},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Soc. Rev},
 }
 
 @Article{Fan,
   author        = {Fan, James Z. and Proppe, Andrew H. and de Arquer, F. Pelayo García and andOleksandr Voznyy, David Rossouw and Lan1, Xinzheng and Liu1, Min and Walters1, Grant and Quintero-Bermudez, Rafael and andSjoerd Hoogland, Bin Sun and Botton, Gianluigi A. and Yang, Shana O. Kelley Ed Zhenyu},
   title         = {Mixed-quantum-dot solar cells},
+  journal       = {Nature Communications},
   __markedentry = {[maxgr:]},
-  publisher     = {Nature Communications},
 }
 
 @Article{Yu2003,
   author        = {Yu, W. W. and Qu, L. and Guo, W. and Peng, X.},
   title         = {Experimental Determination of the Extinction Coefficient of CdTe, CdSe, and CdS Nanocrystals.},
+  journal       = {Chem. Mater},
   year          = {2003},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Mater},
 }
 
 @Article{Lee2009,
   author        = {Lee, Y.-L. and Lo, Y.-S.},
+  journal       = {Adv. Funct. Mater.,},
   year          = {2009},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Funct. Mater.,},
 }
 
 @Article{W.Q.Wu2015,
   author        = {W. Q. Wu, H.S. Rao, H. Y. Chen D. B. Kuang and Xu, C. Y. Su Y. F.},
+  journal       = {Nano Energy},
   year          = {2015},
   volume        = {11},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano Energy},
 }
 
 @Article{I.Mora-Sero2014a,
   author        = {I. Mora-Sero, F. De Angelis, J. Bisquert and Bai, P. Wang Y.},
+  journal       = {Chem. Rev},
   year          = {2014},
   volume        = {114},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Rev},
 }
 
 @Article{XinMeng2014,
   author        = {Xin Meng, Huijuan Cui, Suping Jia Jianhui Dong Jianfeng Zheng Jianghong Zhao Zhijian Wang Li Li Li Zhang and Zhu, Zhenping Zhu Yanyan},
   title         = {Graphene Frameworks Promoted Electron Transport in Quantum Dot-Sensitized Solar Cells},
+  journal       = {Appl. Mater. Interfaces},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {Appl. Mater. Interfaces},
 }
 
 @Article{OleksandrVoznyy2016,
   author        = {Oleksandr Voznyy, F. Pelayo García de Arquer, Mengxia Liu Jixian Xu Andrew H. Proppe Grant Walters Fengjia Fan Hairen Tan Min Liu Zhenyu Yang Sjoerd Hoogland and Lan, Edward H. Sargent Xinzheng},
   title         = {10.6% Certified Colloidal Quantum Dot Solar Cells via Solvent- Polarity-Engineered Halide Passivation},
+  journal       = {ACS Nano Letters},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Nano Letters},
 }
 
 @Article{PralayKantiSantra2017,
   author        = {Pralay Kanti Santra, Lei Tian, Malin B. Johansson Håkan Rensmo and Zhang, Erik M. J. Johansson Xiaoliang},
   title         = {Highly Efficient Flexible Quantum Dot Solar Cells with Improved Electron Extraction Using MgZnO Nanocrystals},
+  journal       = {ACS Nano},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Nano},
 }
 
 @Article{Cheng2017,
   author        = {Cheng, Xiaokun Yang. Long Hu . Hui Deng. Keke Qiao . Chao Hu . Zhiyong Liu . Shengjie Yuan . Jahangeer Khan . Dengbing Li. Jiang Tang . Haisheng Song . Chun},
   title         = {Improving the Performance of PbS Quantum Dot Solar Cells by Optimizing ZnO Window Layer},
+  journal       = {Nano-Mircro Lett},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano-Mircro Lett},
 }
 
 @Article{Y.Y.Feng2003,
   author        = {Y. Y. Feng, W. Knoll and Zhong, M. Y. Han X. H.},
+  journal       = {J. Am. Chem. Soc},
   year          = {2003},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Article{W.Feng2018,
   author        = {W. Feng, J. Du, W. Xue L. Zhang L. Zhao Y. Li and Wang, X. Zhong W.},
+  journal       = {Adv. Mater},
   year          = {2018},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Mater},
 }
 
 @Article{Y.Yu2008,
   author        = {Y. Yu, H.-Y. Pan, X.-F. Gao Q. Chen and Sun, L.-M. Peng W.-T.},
+  journal       = {J. Am. Chem. Soc},
   year          = {2008},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Article{Kubo2015,
   author        = {andTakaya Kubo, Haibin Wang and Saito, Koichiro and Nakazaki, Jotaro and andand Tetsu Tatsuma Tokuhisa Kawawaki, Hiroshi Segawa},
   title         = {Efficiency Enhancement of PbS Quantum Dot/ZnO Nanowire Bulk-Heterojunction Solar Cells by Plasmonic Silver Nanocubes},
+  journal       = {ACS Nano},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Nano},
 }
 
 @Article{Talapin2009,
   author        = {Talapin, D. V. and Lee, J.-S. and Kovalenko, M. V. and Shevchenko, E. V.},
   title         = {Prospects of Colloidal Nanocrystals for Electronic and Optoelectronic Applications.},
+  journal       = {Chemical Review},
   year          = {2009},
   volume        = {110},
   __markedentry = {[maxgr:]},
-  publisher     = {Chemical Review},
 }
 
 @Article{P.Zhao2015,
   author        = {P. Zhao, X. Zhao, L. Qu and Yang, X. Lai S.},
+  journal       = {J. Mater. Chem A.},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Mater. Chem A.},
 }
 
 @Article{F.Cheng2009,
   author        = {F. Cheng, J. Liang, Z. Tao and Peng, J. Chen S.},
+  journal       = {J. Alloys Compd.},
   year          = {2009},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Alloys Compd.},
 }
 
 @Article{J.Du2017,
   author        = {J. Du, Z. Du, D. Long W. Jiang Z. Pan Y. Li and Jiao, X. Zhong S.},
+  journal       = {J. Phys. Chem. Lett},
   year          = {2017},
   volume        = {8},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. Lett},
 }
 
 @Article{YongjieWang2017,
   author        = {Yong jie Wang, Qipeng Liu, Guozheng Shi Zeke Liu Kunyuan Lu Lu Han Xufeng Ling Han Zhang Si Cheng and Chen, Wanli Ma Si},
   title         = {Broadband Enhancement of PbS Quantum Dot Solar Cells by the Synergistic Effect of Plasmonic Gold Nanobipyramids and Nanospheres},
+  journal       = {Advanced Science News},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Advanced Science News},
 }
 
 @Article{GregoryF.Pach2017,
   author        = {Gregory F. Pach, J. Matthew Kurley, Ryan M. France Matthew O. Reese Sanjini U. Nanayakkara Bradley A. MacLeod Dmitri V. Talapin Matthew C. Beard and Crisp, Joseph M. Luther Ryan W.},
   title         = {Tandem solar cells from solution-processed CdTe and PbS quantum dots using a ZnTe/ZnO tunnel junction},
+  journal       = {Nano Letters},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano Letters},
 }
 
 @Article{Shang2016,
   author        = {Shang, Yuequn and andWenjia Zhou, Pongsakorn Kanjanaboos and Ning, Zhijun and Wang, Edward H. Sargent Ruili},
   title         = {Colloidal Quantum Dot Ligand Engineering for High Performance Solar Cells},
+  journal       = {Royal Society of Chemistry},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {Royal Society of Chemistry},
 }
 
 @Article{YuehuaYang2017,
   author        = {Yuehua Yang, Miaozi Li, Donghuan Qin Yangdong Zhang and Wu, Lintao Hou Rongfang},
   title         = {Solvent Engineering for High-Performance PbS Quantum Dots Solar Cells},
+  journal       = {Nanomaterials},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Nanomaterials},
 }
 
 @Article{Regulacio2010,
   author        = {Regulacio, M. D. and Han, M.-Y.},
   title         = {Composition-Tunable Alloyed Semiconductor Nanocrystals},
+  journal       = {Acc. Chem. Res.},
   year          = {2010},
   volume        = {43},
   __markedentry = {[maxgr:]},
-  publisher     = {Acc. Chem. Res.},
 }
 
 @Article{Bailey2003,
   author        = {Bailey, R. E. and Nie, S. M.},
+  journal       = {J. Am. Chem. Soc.,},
   year          = {2003},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc.,},
 }
 
 @Article{A.Yamada2010,
   author        = {A. Yamada, S. Tamura and Shen, T. Toyoda Q.},
+  journal       = {Appl. Phys. Lett.},
   year          = {2010},
   volume        = {97},
   __markedentry = {[maxgr:]},
-  publisher     = {Appl. Phys. Lett.},
 }
 
 @Article{K.Tvrdy2010,
   author        = {K. Tvrdy, D. R. Baker and Kamat, J. G. Radich P. V.},
+  journal       = {Chem. Rev.},
   year          = {2010},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Rev.},
 }
 
 @Article{T.Song2011,
   author        = {T. Song, D. H. Lee, I. Mora-Sero J. Bisquert M. Laudenslager W. M. Sigmund W. I. Park U. Paik and Y. S. Kang, P. Sudhagar},
+  journal       = {J. Phys. Chem. Lett},
   year          = {2011},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. Lett},
 }
 
 @Online{2019,
@@ -278,9 +278,9 @@
 
 @Article{T.Lana-Villarreal2009,
   author        = {T. Lana-Villarreal, I. Mora-Sero, J. Bisquert and Guijarro, R. Gomez N.},
+  journal       = {J. Phys. Chem. C},
   year          = {2009},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. C},
 }
 
 @Online{Nasa2019,
@@ -292,48 +292,48 @@
 
 @Article{X.Gao2017,
   author        = {X. Gao, X. Hong, Q. Liu C. He X. Liu and C. Lin, M. Ye},
+  journal       = {Sustainable Energy Fuels},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Sustainable Energy Fuels},
 }
 
 @Article{Gao2017,
   author        = {Gao, X. and Hong, X. and Liu, Q. and He, C. and Liu, X. and Lin, C. and Ye, M.},
+  journal       = {Sustainable Energy Fuels},
   year          = {2017},
   volume        = {1},
   __markedentry = {[maxgr:]},
   issue         = {1217-1231},
-  publisher     = {Sustainable Energy Fuels},
 }
 
 @Article{MuhammadAwaisAbbas2017,
   author        = {Muhammad Awais Abbas, Eun Sun Jung, Jin Ho Bang and Basit, Tae Joo Park1 Muhammad Abdul},
   title         = {Improved light absorbance and quantum-dot loading by macroporous TiO2},
+  journal       = {Matt. Chem. and Phys.},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Matt. Chem. and Phys.},
 }
 
 @Article{H.Kim2010,
   author        = {H. Kim, Y. Tak and Seol, K. Yong M.},
+  journal       = {Chem. Commun},
   year          = {2010},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Commun},
 }
 
 @Article{Ikeda2014,
   author        = {Ikeda, S. and andN. B. AhmadKhairudin, N. A. Ludin and Ghaffari, B. V. and Mat-Teridi, M. A. and Ibrahim, M. A. and M.Kouhnavard, S. Sepeaiand K. Sopian},
+  journal       = {Renewable Sustainable Energy Rev},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {Renewable Sustainable Energy Rev},
 }
 
 @Article{OleksandrVoznyy2014,
   author        = {Oleksandr Voznyy, David Zhitomirsky, Pongsakorn Kanjanaboos and Yuan, Edward H. Sargent Mingjian},
   title         = {ynergistic Doping of Fullerene Electron Transport Layer and Colloidal Quantum Dot Solids Enhances Solar Cell Performance},
+  journal       = {Adv. Mat.},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Mat.},
 }
 
 @Booklet{1991-2010,
@@ -345,190 +345,190 @@
 @Article{JunZhu2015,
   author        = {Jun Zhu, Yang Huang, Yi Li Zhipeng Shao Yafeng Xu and Lv, Songyuan Dai Mei},
   title         = {Colloidal CuInS2 Quantum Dots as Inorganic Hole-transporting},
+  journal       = {ACS Applied Materials \& Interfaces},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Applied Materials \& Interfaces},
 }
 
 @Article{Regulacio2010a,
   author        = {Regulacio, M. D. and Han, M.-Y.},
+  journal       = {Acc. Chem. Res},
   year          = {2010},
   __markedentry = {[maxgr:]},
-  publisher     = {Acc. Chem. Res},
 }
 
 @Book{Born1999,
   title         = {Principles of optics - electromagnetic theory of propagation, interference and diffraction of light},
-  publisher     = {Cambridge University Press},
   year          = {1999},
   author        = {Born, Emil Wolf Max},
   __markedentry = {[maxgr:]},
+  journal       = {Cambridge University Press},
 }
 
 @Article{G.D.Scholes2003,
   author        = {G.D. Scholes, M. A. Hines},
   title         = {Colloidal PbS nanocrystals with size-tunable near-infrared emission: observation of post-synthesis self-narrowing of the particle size distribution.},
+  journal       = {Adv. Mater},
   year          = {2003},
   volume        = {15},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Mater},
 }
 
 @Article{J.G.Radich2014,
   author        = {J. G. Radich, B. A. Bunker and Becker, P. V. Kamat M. A.},
+  journal       = {J. Phys. Chem. Lett},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. Lett},
 }
 
 @Article{ShujuanHuangb22019,
   author        = {Shujuan Huangb, Robert Pattersonb and Hua, Jonathan E. Halperta Long},
   title         = {Enhanced mobility in PbS quantum dot films via PbSe quantum dot mixing for optoelectronic applications},
+  journal       = {Journal of Materials Chemistry C},
   year          = {22019},
   __markedentry = {[maxgr:]},
-  publisher     = {Journal of Materials Chemistry C},
 }
 
 @Article{RobertJ.Patterson2017,
   author        = {Robert J. Patterson, Yicong Hu, Weijian Chen Zhilong Zhang Lin Yuan Zihan Chen Gavin J. Conibeer Gang Wang and Hu, Shujuan Huang Long},
   title         = {High Performance PbS Colloidal Quantum Dot Solar Cells by Employing Solution-Processed CdS Thin Films from a Single-Source Precursor as the Electron Transport Layer},
+  journal       = {Adv. fun. mat.},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. fun. mat.},
 }
 
 @Article{Liu2012,
   author        = {Liu, H. and Zhitomirsky, D. and Hoogland, S. and Tang, J. and Kramer, I. J. and Ning, Z. and Sargent, E. H.},
   title         = {Systematic Optimization of Quantum Junction Colloidal Quantum Dot Solar Cells.},
+  journal       = {Applied Physics Letters},
   year          = {2012},
   volume        = {101},
   __markedentry = {[maxgr:]},
-  publisher     = {Applied Physics Letters},
 }
 
 @Article{Mandelis2016,
   author        = {Mandelis, Andreas and Lan, Xinzheng and Melnikov, Alexander and Hoogland, Sjoerd and Edward H. Sargent Lilei, H.},
   title         = {Imbalanced charge carrier mobility and Schottky junction induced anomalous current-voltage characteristics of excitonic PbS colloidal quantum dot solar cells},
+  journal       = {Solar Energy Materials and Solar Cells},
   year          = {2016},
   volume        = {155},
   __markedentry = {[maxgr:]},
   issue         = {155-165},
-  publisher     = {Solar Energy Materials and Solar Cells},
 }
 
 @Article{Z.Pan2015,
   author        = {Z. Pan, I. Mora-Sero, E. Canovas H. Wang Y. Song X. Gong J. Wang M. Bonn J. Bisquert and X. Zhong, K. Zhao},
+  journal       = {J. Am. Chem. Soc},
   year          = {2015},
   volume        = {137},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Article{Zhang2013,
   author        = {Zhang, L. and Qiu, J. and Qiu, Y. and Zhu, Z. and Wang, J. and Yan, S. Yang K.},
+  journal       = {J. Am. Chem. Soc},
   year          = {2013},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Article{Wang2018,
   author        = {Wang, Yongjie and Liu, Zeke and Han, Lu and Shi, Guozheng and Fang, Honghua and Chen, Jun and Ye, Xingchen and Chen, Si and Yang, Fan and Shulga, Artem G. and Wu, Tian and Gu, Mengfan and Zhou, Sijie and Fan, Jian and andand Wanli Ma Kunyuan Lu, Maria Antonietta Loi},
   title         = {High-Efficiency PbS Quantum-Dot Solar Cells with Greatly Simplified Fabrication Processing via “Solvent-Curing”},
+  journal       = {Adv. Mat.},
   year          = {2018},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Mat.},
 }
 
 @Article{Kovalenko2009,
   author        = {Kovalenko, M. V. and Scheele, M. and Talapin, D. V.},
   title         = {Colloidal Nanocrystals with Molecular Metal Chalcogenide Surface Ligands.},
+  journal       = {Science},
   year          = {2009},
   volume        = {324},
   __markedentry = {[maxgr:]},
-  publisher     = {Science},
 }
 
 @Article{Konstantatos2006,
   author        = {Konstantatos, G. and Howard, I. and Fischer, A. and Hoogland, S. and Clifford, J. and Klem, E. and Levina, L. and Sargent, E. H.},
   title         = {Ultrasensitive Solution-Cast Quantum Dot Photodetectors},
+  journal       = {Nature},
   year          = {2006},
   volume        = {442},
   __markedentry = {[maxgr:]},
-  publisher     = {Nature},
 }
 
 @Article{Wang2015,
   author        = {Wang, J. and Zhao, K. and Izuishi, T. and Li, Y. and Shen, Q. and Yang, X. Zhong J.},
+  journal       = {J. Phys. Chem. C},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. C},
 }
 
 @Article{Chen2014,
   author        = {Chen, Z. and Zapien, J. A. and Lee, C. S. and Xu, W. Zhang J.},
+  journal       = {Adv. Matter},
   year          = {2014},
   volume        = {26},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Matter},
 }
 
 @Article{Yang2011,
   author        = {Yang, X. and Wang, H. and Chen, X. and Luan, C. and Xu, Z. and Lu, Z. and Roy, V. A. and Zhang, W. and Xu, C. S. Lee J.},
+  journal       = {Nano Lett.},
   year          = {2011},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano Lett.},
 }
 
 @Article{Song2017,
   author        = {Song, Jung Hoon and Jeong, Sohee},
   title         = {Colloidal quantum dot based solar cells: from materials to devices},
+  journal       = {Nano Convergence},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano Convergence},
 }
 
 @Article{Tian2015,
   author        = {Tian, J. and Cao, G.},
+  journal       = {J. Phys. Chem. Lett},
   year          = {2015},
   volume        = {6},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. Lett},
 }
 
 @Article{L.Lv2014,
   author        = {L. Lv, C. Fei and Y. Wang, X. Liu and Cao, J. Tian},
+  journal       = {J. Mater. Chem. A},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Mater. Chem. A},
 }
 
 @Article{L.Lv2014a,
   author        = {L. Lv, X. Wang, C. Fei X. Liu Z. Zhao Y. Wang and Tian, G. Cao J.},
+  journal       = {J. Phys. Chem. C,},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. C,},
 }
 
 @Article{Zhang2013a,
   author        = {Zhang, Q. and Uchaker, E. and Liang, Z. and Gao, R. and Qu, X. and Zhang, S. and Cao, G. and Tian, J.},
+  journal       = {J. Mater. Chem. A,},
   year          = {2013},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Mater. Chem. A,},
 }
 
 @Article{Zhang2013b,
   author        = {Zhang, Q. and Uchaker, E. and Gao, R. and Qu, X. and Zhang, S. and Tian, G. Cao J.},
+  journal       = {Energy Environ. Sci.,},
   year          = {2013},
   __markedentry = {[maxgr:]},
-  publisher     = {Energy Environ. Sci.,},
 }
 
 @Article{Jo2018,
   author        = {Jo, Jea Woong and de Arquer, F. Pelayo García and Zhao, Yong-Biao and Sun, Bin and Kim, Junghwan and Choi, Min-Jae and Baek, Se-Woong and Proppe, Andrew H. and Seifitokaldani, Ali and Nam, Dae-Hyun and Li, Peicheng and Ouellette, Olivier and Kim, Younghoon and Voznyy, Oleksandr and Choi, Sjoerd Hoogla Jongmin},
   title         = {Activated Electron-Transport Layers for Infrared Quantum Dot Optoelectronics},
+  journal       = {Adv. Matt.},
   year          = {2018},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Matt.},
 }
 
 @Book{Jackson,
@@ -540,102 +540,102 @@
 @Article{Yang2017,
   author        = {Yang, Xichuan and Wanga, Weihan and Li, Jiajia and Wang, Haoxin and Yua, Ze and Gong, Chenghuan and Wanga, Xiuna and An, Licheng Sun Jincheng},
   title         = {Stable and efficient PbS colloidal quantum dot solar cells incorporating low-temperature processed carbon paste counter electrodes},
+  journal       = {Solar Energy},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {Solar Energy},
 }
 
 @Article{Zhang2015,
   author        = {Zhang, Huihui and Tang, Qunwei and He, Benlin and Duan, Liangmin Yu Jialong},
   title         = {Recent advances of critical materials in quantum dot–sensitized solar cells. A review},
+  journal       = {Royal Society of Chemistry},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {Royal Society of Chemistry},
 }
 
 @Article{N.R.Peeples2014,
   author        = {N. R. Peeples, P. K. Santra and Radich, P. V. Kamat J. G.},
+  journal       = {J. Phys. Chem. C,},
   year          = {2014},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Phys. Chem. C,},
 }
 
 @Article{Du2016,
   author        = {Du, Z. and Hu, J. S. and Pan, Z. and Shen, Q. and Sun, J. and andH. Dong, D. Long and Sun, L. and Zhong, X. and Du, L. J. Wan J.},
+  journal       = {J. Am. Chem. Soc.},
   year          = {2016},
   volume        = {138},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc.},
 }
 
 @Article{Sambur2010,
   author        = {Sambur, J. B. and Parkinson, B. A.},
+  journal       = {J. Am. Chem. Soc.,},
   year          = {2010},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc.,},
 }
 
 @Article{Liu2014,
   author        = {Liu, J. and Son, W. and Jang, J. S. Talapin},
   title         = {Temperature-Dependent Hall and Field-Effect Mobility in Strongly Coupled All-Inorganic Nanocrystal Arrays.},
+  journal       = {Nano. Lett.},
   year          = {2014},
   volume        = {14},
   __markedentry = {[maxgr:]},
-  publisher     = {Nano. Lett.},
 }
 
 @Article{S.Gimenez2009,
   author        = {S. Gimenez, F. Fabregat-Santiago, R. Gomez Q. Shen T. Toyoda and J. Bisquert, I. Mora-Sero},
+  journal       = {Acc. Chem. Res},
   year          = {2009},
   volume        = {42},
   __markedentry = {[maxgr:]},
-  publisher     = {Acc. Chem. Res},
 }
 
 @Article{Cheng2012,
   author        = {Cheng, K. and Hou, Y. M. and Fang, Z. and Pan, Z. X. and Wu, W. J. and Hua, J. L. and Zhong, X. H. and Zhang, H.},
+  journal       = {Chem. Commun},
   year          = {2012},
   __markedentry = {[maxgr:]},
-  publisher     = {Chem. Commun},
 }
 
 @Article{W.U.Dittmer2002,
   author        = {W. U. Dittmer, J. J. Alivisatos Huynh},
   title         = {Hybrid Nanorod-Polymer Solar Cells.},
+  journal       = {Science},
   year          = {2002},
   volume        = {295},
   __markedentry = {[maxgr:]},
-  publisher     = {Science},
 }
 
 @Article{Huang2012,
   author        = {Huang, K. Y. and Lee, K.-M. and Yu, P. and andJ. H. Huang, S. C. Lin and Wu, C. G. and Cheng, J. Tang H. M.},
+  journal       = {Phys. Chem. Chem. Phys.},
   year          = {2012},
   __markedentry = {[maxgr:]},
-  publisher     = {Phys. Chem. Chem. Phys.},
 }
 
 @Article{Li2011,
   author        = {Li, W. and Hou, Q. and Liu, H. and Zhu, L. and Chen, H.},
+  journal       = {Electrochim},
   year          = {2011},
   __markedentry = {[maxgr:]},
-  publisher     = {Electrochim},
 }
 
 @Article{Gonzalez-Pedro2015,
   author        = {Gonzalez-Pedro, Victoria and Kubo, Takaya and andJuan Bisquert andYoshitaka Sanehira andJotaro Nakazaki, Francisco Fabregat-Santiago and Wang, Hiroshi Segawa Haibin},
   title         = {Enhanced Carrier Transport Distance in Colloidal PbS Quantum Dot-Based Solar Cells Using ZnO Nanowires},
+  journal       = {The Journal of Physical Chemistry},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {The Journal of Physical Chemistry},
 }
 
 @Article{Abdelhady2015,
   author        = {Abdelhady, Ahmed L. and Ning, Zhijun and Thon, Susanna M. and Bakr, Osman M. and Carey, Edward H. Sargent Graham H.},
   title         = {Colloidal Quantum Dot Solar Cells},
+  journal       = {Chemical Reviews},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {Chemical Reviews},
 }
 
 @TechReport{Insights2019,
@@ -644,76 +644,76 @@
   institution   = {Insights, Energy},
   year          = {2019},
   __markedentry = {[maxgr:]},
-  publisher     = {McKinsey},
+  journal       = {McKinsey},
 }
 
 @Article{Baker2009,
   author        = {Baker, P. V. Kamat D. R.},
+  journal       = {Adv. Funct. Mater},
   year          = {2009},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Funct. Mater},
 }
 
 @Article{Kamat2009,
   author        = {Kamat, D. R. Baker},
+  journal       = {Adv. Funct. Mater},
   year          = {2009},
   volume        = {19},
   __markedentry = {[maxgr:]},
-  publisher     = {Adv. Funct. Mater},
 }
 
 @Article{Maurano2016,
   author        = {Maurano, Andrea and Suh, Su Kyung and Kim, Donghun and Hwang, Gyu Weon and andVladimir Bulović, Jeffrey C. Grossman and Ko, Moungi G. Bawendi Dong-Kyun},
   title         = {Photovoltaic Performance of PbS Quantum Dots Treated with Metal Salts},
+  journal       = {ACS Nano},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Nano},
 }
 
 @Article{Balazs2018,
   author        = {Balazs, Daniel M. and Sukharevska, Nataliia V. and Shulga, Artem G. and Abdu-Aguye, Mustapha and Dirin, Dmitry N. and Kovalenko, Maksym V. and Bederak, Maria A. Loi Dmytro},
   title         = {Comparing Halide Ligands in PbS Colloidal Quantum Dots for Field- Effect Transistors and Solar Cells},
+  journal       = {ACS Applied nano materials},
   year          = {2018},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Applied nano materials},
 }
 
 @Article{Zhang2016,
   author        = {Zhang, Nanlin and Tazawa1, Yujiro and Jiang, Haibo and Neo, Gareth M. Hughes Darren C. J.},
   title         = {P3HT as a Hole Transport Layer for Colloidal},
+  journal       = {ACS Applied Materials \& Interfaces},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Applied Materials \& Interfaces},
 }
 
 @Article{Yang2013,
   author        = {Yang, L. and Xiao, J. and Wu, Y. C. and Sondergaard, M. and Luo, Y. and Li, D. and Meng, Q. and Li, B. B. Iversen C.},
+  journal       = {Phys. Chem. Chem. Phys},
   year          = {2013},
   __markedentry = {[maxgr:]},
-  publisher     = {Phys. Chem. Chem. Phys},
 }
 
 @Article{Chang2007,
   author        = {Chang, Y. L. Lee C. H.},
+  journal       = {Appl. Phys. Lett.,},
   year          = {2007},
   __markedentry = {[maxgr:]},
-  publisher     = {Appl. Phys. Lett.,},
 }
 
 @Article{Wang2017,
   author        = {Wang, Liang and Gao, Liang and Nam, Dahyun and Li, Dengbing and Li, Kanghua and Zhao, Yang and Ge, Cong and Cheong, Hyeonsik and Liu, Huan and Song, Haisheng and Chen, Jiang Tang Chao},
   title         = {6.5% Certified Sb2Se3 Solar Cells Using PbS Colloidal Quantum Dot Film as Hole Transporting Layer},
+  journal       = {ACS Energy Letters},
   year          = {2017},
   __markedentry = {[maxgr:]},
-  publisher     = {ACS Energy Letters},
 }
 
 @Article{Infante2015,
   author        = {Infante, Ivan and Fabiano, Eduardo and Grisorio, Roberto and Suranna, Gian Paolo and Giansante, Giuseppe Gigli Carlo},
   title         = {‘Darker-than-Black’ PbS Quantum Dots: Enhancing Optical Absorption of Colloidal Semiconductor Nanocrystals via Short Conjugated Ligands},
+  journal       = {Journal of the American Chemical Society},
   year          = {2015},
   __markedentry = {[maxgr:]},
-  publisher     = {Journal of the American Chemical Society},
 }
 
 @Article{Micic1998,
@@ -721,23 +721,22 @@
   journal       = {Langmuir},
   year          = {1998},
   __markedentry = {[maxgr:]},
-  publisher     = {Langmuir,},
 }
 
 @Article{Cordes2016,
   author        = {Cordes, Niklas and Siegler, Timothy D. and Docampo, Pablo and Ivanova, Alesja and Fominykh, Ksenia and Medina, Dana D. and Peterc, Laurence M. and Beina, Thomas and Jumabekov, Askhat N.},
   title         = {Passivation of PbS Quantum Dot Surface with L-glutathione in Solid-State Quantum-Dot-Sensitized Solar Cells},
+  journal       = {Applied Materials \& Interfaces},
   year          = {2016},
   __markedentry = {[maxgr:]},
-  publisher     = {Applied Materials \& Interfaces},
 }
 
 @Article{Tvrdy2008,
   author        = {Tvrdy, K. and Takechi, K. and Kuno, M. and Kongkanand, P. V. Kamat A.},
+  journal       = {J. Am. Chem. Soc},
   year          = {2008},
   volume        = {130},
   __markedentry = {[maxgr:]},
-  publisher     = {J. Am. Chem. Soc},
 }
 
 @Booklet{2018,
@@ -748,26 +747,26 @@
 
 @Article{M.A.Manthrammel2015,
   author        = {M. A. Manthrammel, W. A. Farooq, S. M. Ali and Fatehmulla, M. Atif A.},
+  journal       = {J. Nanomater.},
   year          = {2015},
   __markedentry = {[maxgr:]},
   issue         = {358063},
-  publisher     = {J. Nanomater.},
 }
 
 @Book{Aschcroft,
-  title     = {Solid state physics},
-  publisher = {Saunders College Publishing},
-  year      = {1976},
-  author    = {N. W. Ashcroft, N. D. Mermin},
-  editor    = {Cornell University},
+  title   = {Solid state physics},
+  year    = {1976},
+  author  = {N. W. Ashcroft, N. D. Mermin},
+  editor  = {Cornell University},
+  journal = {Saunders College Publishing},
 }
 
 @Article{Kamat2018,
   author        = {Kamat, Prashant V.},
   title         = {Quantum Dot Solar Cells. The Next Big Thing in Photovoltaics},
+  journal       = {The Journal of Physical Chemistry Letters},
   year          = {2018},
   __markedentry = {[maxgr:6]},
-  publisher     = {The Journal of Physical Chemistry Letters},
 }
 
 @Article{Hu2016,
@@ -792,6 +791,72 @@
   volume        = {133},
   __markedentry = {[maxgr:6]},
   issue         = {5602},
+}
+
+@Article{GavinCon,
+  author  = {Gavin Conibeer},
+  title   = {Third-generation photovoltaics},
+  journal = {Materialstoday},
+  year    = {2007},
+}
+
+@Article{PerovRev,
+  author  = {C.H.Ng, H.N.Lim, S. Hayase},
+  title   = {Photovoltaic performances of mono- and mixed-halide structures for perovskite solar cell: A review},
+  journal = {Renewable and Sustainable Energy Reviews},
+  year    = {2018},
+}
+
+@Article{revPerold,
+  author  = {Guangda Niu, Xudong Guoa, Liduo Wang},
+  title   = {Review of recent progress in chemical stability of perovskite solar cells},
+  journal = {Journal of Materials Chemistry A},
+  year    = {2014},
+}
+
+@Article{Polymer,
+  author  = {Etxebarria, Ikerne and Ajuria, Jon and Pacios, Roberto},
+  title   = {Polymer:fullerene solar cells: materials, processing issues, and cell layouts to reach power conversion efficiency over 10%, a review},
+  journal = {J. of Photonics for Energy},
+  year    = {2015},
+}
+
+@Article{DyeSent,
+  author  = {Jiawei Gong, K. Sumathy and Qiquan Qiao, Zhengping Zhou},
+  title   = {Review on dye-sensitized solar cells (dsscs): advanced techniques and research trends},
+  journal = {Renewable and Sustainable Energy Reviews},
+  year    = {2017},
+}
+
+@PhdThesis{phdsemi,
+  author = {Nikola Prodanovic},
+  title  = {Semiconductor Quantum Dots: Intraband Electronic, Optical and Carrier Dynamical Properties},
+  school = {The University of Leeds School of Electronic and Electrical Engineering},
+  year   = {2014},
+  month  = jan,
+  groups = {Institute of Microwaves and Photonics�},
+}
+
+@Book{Klimov,
+  title     = {Nanocrystal quantum dots},
+  publisher = {CRC Press},
+  author    = {Victor i. Klimov},
+}
+
+@Book{crystal,
+  title     = {Crystallization and growth of colloidal nanocrystals},
+  publisher = {Springer},
+  year      = {2012},
+  author    = {E. R. Leite, C. Ribeiro},
+}
+
+@Article{tranSupLat,
+  author  = {Guyot-Sionnest, P.},
+  title   = {Electrical transport in colloidal quantum dot films.},
+  journal = {J. Phys. Chem. Lett.},
+  year    = {2012},
+  volume  = {3},
+  pages   = {1169–1175},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

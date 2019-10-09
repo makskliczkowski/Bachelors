@@ -27,6 +27,48 @@
       \field{volume}{133}
       \field{year}{2011}
     \endentry
+    \entry{Abdelhady2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8d513fcbefa5b24c2a45d4e324927e75}{%
+           family={Abdelhady},
+           familyi={A\bibinitperiod},
+           given={Ahmed\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c92b1bdebc0be46d32e4d1072a290e91}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=06e4ff064dcd24f4b324580da5a136fd}{%
+           family={Thon},
+           familyi={T\bibinitperiod},
+           given={Susanna\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0ba76568a8e9882c2f919ff28d3b4494}{%
+           family={Bakr},
+           familyi={B\bibinitperiod},
+           given={Osman\bibnamedelima M.},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2e085395093337db4f0e7363276cf86e}{%
+           family={Carey},
+           familyi={C\bibinitperiod},
+           given={Edward\bibnamedelimb H.\bibnamedelimi Sargent\bibnamedelimb Graham\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a01f170da15a3cd8b341e28ee3622ce}
+      \strng{fullhash}{fa973f04ebed452765fd253b5d3b185e}
+      \strng{bibnamehash}{2a01f170da15a3cd8b341e28ee3622ce}
+      \strng{authorbibnamehash}{2a01f170da15a3cd8b341e28ee3622ce}
+      \strng{authornamehash}{2a01f170da15a3cd8b341e28ee3622ce}
+      \strng{authorfullhash}{fa973f04ebed452765fd253b5d3b185e}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Reviews}
+      \field{title}{Colloidal Quantum Dot Solar Cells}
+      \field{year}{2015}
+    \endentry
     \entry{Born1999}{book}{}
       \name{author}{1}{}{%
         {{hash=09a797a9e943029fffd6fb23cdacd8d6}{%
@@ -34,9 +76,6 @@
            familyi={B\bibinitperiod},
            given={Emil\bibnamedelimb Wolf\bibnamedelima Max},
            giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
       }
       \strng{namehash}{09a797a9e943029fffd6fb23cdacd8d6}
       \strng{fullhash}{09a797a9e943029fffd6fb23cdacd8d6}
@@ -48,8 +87,151 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge University Press}
       \field{title}{Principles of optics - electromagnetic theory of propagation, interference and diffraction of light}
       \field{year}{1999}
+    \endentry
+    \entry{PerovRev}{article}{}
+      \name{author}{1}{}{%
+        {{hash=174f69dfc5c5ce55b6738686da99584d}{%
+           family={C.H.Ng},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi Hayase},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffix={H.N.Lim},
+           suffixi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{174f69dfc5c5ce55b6738686da99584d}
+      \strng{fullhash}{174f69dfc5c5ce55b6738686da99584d}
+      \strng{bibnamehash}{174f69dfc5c5ce55b6738686da99584d}
+      \strng{authorbibnamehash}{174f69dfc5c5ce55b6738686da99584d}
+      \strng{authornamehash}{174f69dfc5c5ce55b6738686da99584d}
+      \strng{authorfullhash}{174f69dfc5c5ce55b6738686da99584d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Photovoltaic performances of mono- and mixed-halide structures for perovskite solar cell: A review}
+      \field{year}{2018}
+    \endentry
+    \entry{GavinCon}{article}{}
+      \name{author}{1}{}{%
+        {{hash=32cbc501df5ea666c5b2e39bcdd74366}{%
+           family={Conibeer},
+           familyi={C\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \strng{fullhash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \strng{bibnamehash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \strng{authorbibnamehash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \strng{authornamehash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \strng{authorfullhash}{32cbc501df5ea666c5b2e39bcdd74366}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materialstoday}
+      \field{title}{Third-generation photovoltaics}
+      \field{year}{2007}
+    \endentry
+    \entry{crystal}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0db9f5492e91048dea7bab19067d0a3a}{%
+           family={E.\bibnamedelimi R.\bibnamedelimi Leite},
+           familyi={E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={C.\bibnamedelimi Ribeiro},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0db9f5492e91048dea7bab19067d0a3a}
+      \strng{fullhash}{0db9f5492e91048dea7bab19067d0a3a}
+      \strng{bibnamehash}{0db9f5492e91048dea7bab19067d0a3a}
+      \strng{authorbibnamehash}{0db9f5492e91048dea7bab19067d0a3a}
+      \strng{authornamehash}{0db9f5492e91048dea7bab19067d0a3a}
+      \strng{authorfullhash}{0db9f5492e91048dea7bab19067d0a3a}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crystallization and growth of colloidal nanocrystals}
+      \field{year}{2012}
+    \endentry
+    \entry{G.D.Scholes2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=659aae21d34d1a9f50d11e711ff2a6fe}{%
+           family={G.D.\bibnamedelimi Scholes},
+           familyi={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={M.\bibnamedelimi A.\bibnamedelimi Hines},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \strng{fullhash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \strng{bibnamehash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \strng{authorbibnamehash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \strng{authornamehash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \strng{authorfullhash}{659aae21d34d1a9f50d11e711ff2a6fe}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Adv. Mater}
+      \field{title}{Colloidal PbS nanocrystals with size-tunable near-infrared emission: observation of post-synthesis self-narrowing of the particle size distribution.}
+      \field{volume}{15}
+      \field{year}{2003}
+    \endentry
+    \entry{revPerold}{article}{}
+      \name{author}{1}{}{%
+        {{hash=723c5d78ce229cfb00260649626ac255}{%
+           family={Guangda\bibnamedelima Niu},
+           familyi={G\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Liduo\bibnamedelima Wang},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           suffix={Xudong\bibnamedelima Guoa},
+           suffixi={X\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{723c5d78ce229cfb00260649626ac255}
+      \strng{fullhash}{723c5d78ce229cfb00260649626ac255}
+      \strng{bibnamehash}{723c5d78ce229cfb00260649626ac255}
+      \strng{authorbibnamehash}{723c5d78ce229cfb00260649626ac255}
+      \strng{authornamehash}{723c5d78ce229cfb00260649626ac255}
+      \strng{authorfullhash}{723c5d78ce229cfb00260649626ac255}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Materials Chemistry A}
+      \field{title}{Review of recent progress in chemical stability of perovskite solar cells}
+      \field{year}{2014}
+    \endentry
+    \entry{tranSupLat}{article}{}
+      \name{author}{1}{}{%
+        {{hash=97c62fc8f3b143d80c935e0c505f40af}{%
+           family={Guyot-Sionnest},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{97c62fc8f3b143d80c935e0c505f40af}
+      \strng{fullhash}{97c62fc8f3b143d80c935e0c505f40af}
+      \strng{bibnamehash}{97c62fc8f3b143d80c935e0c505f40af}
+      \strng{authorbibnamehash}{97c62fc8f3b143d80c935e0c505f40af}
+      \strng{authornamehash}{97c62fc8f3b143d80c935e0c505f40af}
+      \strng{authorfullhash}{97c62fc8f3b143d80c935e0c505f40af}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Phys. Chem. Lett.}
+      \field{title}{Electrical transport in colloidal quantum dot films.}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{1169\bibrangedash 1175}
+      \range{pages}{7}
     \endentry
     \entry{2019}{online}{}
       \field{sortinit}{h}
@@ -80,6 +262,36 @@
       \field{title}{Imbalanced charge carrier mobility and Schottky junction induced anomalous current-voltage characteristics of excitonic PbS colloidal quantum dot solar cells}
       \field{year}{2016}
     \endentry
+    \entry{HuashangRao2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8dc2e63e0564a83c77a9c98fe99aa80e}{%
+           family={Huashang\bibnamedelima Rao},
+           familyi={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Juan\bibnamedelima Bisquert},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           suffix={Iva´n\bibnamedelima Mora-Sero´},
+           suffixi={I\bibinitperiod\bibinitdelim M\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=d0c31de9f35010917fa18d11e6fd04fb}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Xinhua\bibnamedelimb Zhong\bibnamedelima Zhenxiao},
+           giveni={X\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \strng{fullhash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \strng{bibnamehash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \strng{authorbibnamehash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \strng{authornamehash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \strng{authorfullhash}{ee54c1953c00a5e3fda0dd23d19a9878}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Soc. Rev}
+      \field{title}{Quantum dot-sensitized solar cells}
+      \field{volume}{47/7659}
+      \field{year}{2018}
+    \endentry
     \entry{Insights2019}{report}{}
       \name{author}{1}{}{%
         {{hash=06ec01d5259c10941ba8de151620b48f}{%
@@ -91,9 +303,6 @@
       \list{institution}{1}{%
         {Insights, Energy}%
       }
-      \list{publisher}{1}{%
-        {McKinsey}%
-      }
       \strng{namehash}{06ec01d5259c10941ba8de151620b48f}
       \strng{fullhash}{06ec01d5259c10941ba8de151620b48f}
       \strng{bibnamehash}{06ec01d5259c10941ba8de151620b48f}
@@ -104,6 +313,7 @@
       \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{McKinsey}
       \field{title}{{Global Energy Perspective 2019: Reference Case}}
       \field{type}{techreport}
       \field{year}{2019}
@@ -136,9 +346,6 @@
            given={Prashant\bibnamedelima V.},
            giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {The Journal of Physical Chemistry Letters}%
-      }
       \strng{namehash}{72f6d13e2551f45f24217c1dbd487d69}
       \strng{fullhash}{72f6d13e2551f45f24217c1dbd487d69}
       \strng{bibnamehash}{72f6d13e2551f45f24217c1dbd487d69}
@@ -149,8 +356,32 @@
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry Letters}
       \field{title}{Quantum Dot Solar Cells. The Next Big Thing in Photovoltaics}
       \field{year}{2018}
+    \endentry
+    \entry{Klimov}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a8117d691c9300e65464aa5e842adc9a}{%
+           family={Klimov},
+           familyi={K\bibinitperiod},
+           given={Victor\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{a8117d691c9300e65464aa5e842adc9a}
+      \strng{fullhash}{a8117d691c9300e65464aa5e842adc9a}
+      \strng{bibnamehash}{a8117d691c9300e65464aa5e842adc9a}
+      \strng{authorbibnamehash}{a8117d691c9300e65464aa5e842adc9a}
+      \strng{authornamehash}{a8117d691c9300e65464aa5e842adc9a}
+      \strng{authorfullhash}{a8117d691c9300e65464aa5e842adc9a}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nanocrystal quantum dots}
     \endentry
     \entry{1991-2010}{booklet}{}
       \name{author}{1}{}{%
@@ -184,9 +415,6 @@
            given={Cornell},
            giveni={C\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Saunders College Publishing}%
-      }
       \strng{namehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
       \strng{fullhash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
       \strng{bibnamehash}{4c1ffc9ed48a29f7ee8bd18e7fe75ff4}
@@ -200,6 +428,7 @@
       \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Saunders College Publishing}
       \field{title}{Solid state physics}
       \field{year}{1976}
     \endentry
@@ -221,6 +450,33 @@
       \field{labeltitlesource}{title}
       \field{title}{https://climate.nasa.gov/evidence/}
       \field{year}{2019}
+    \endentry
+    \entry{phdsemi}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=74d89a1cdedc1f874669ab6f3be81b86}{%
+           family={Prodanovic},
+           familyi={P\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {The University of Leeds School of Electronic}%
+        {Electrical Engineering}%
+      }
+      \strng{namehash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \strng{fullhash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \strng{bibnamehash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \strng{authorbibnamehash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \strng{authornamehash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \strng{authorfullhash}{74d89a1cdedc1f874669ab6f3be81b86}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Semiconductor Quantum Dots: Intraband Electronic, Optical and Carrier Dynamical Properties}
+      \field{type}{phdthesis}
+      \field{year}{2014}
     \endentry
     \entry{2018}{booklet}{}
       \field{sortinit}{R}
@@ -275,6 +531,43 @@
       \field{journaltitle}{Advanced Materials}
       \field{title}{High-Efficiency PbS Quantum-Dot Solar Cells with Greatly Simplified Fabrication Processing via “Solvent-Curing”}
       \field{year}{2017}
+    \endentry
+    \entry{Yu2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=24232cf89fb275652bf19e3435a402f7}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d9f27edff015a10ff33b56b90864b079}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e313f35522a5fbabdce43b506313ccb3}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e7990653ea17402e665ad27a139dd172}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3cc0e8d169a3bc02d2c1ba1246d13e1}
+      \strng{fullhash}{29ce52ab9a8625b5c66e453cd3106abd}
+      \strng{bibnamehash}{c3cc0e8d169a3bc02d2c1ba1246d13e1}
+      \strng{authorbibnamehash}{c3cc0e8d169a3bc02d2c1ba1246d13e1}
+      \strng{authornamehash}{c3cc0e8d169a3bc02d2c1ba1246d13e1}
+      \strng{authorfullhash}{29ce52ab9a8625b5c66e453cd3106abd}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Mater}
+      \field{title}{Experimental Determination of the Extinction Coefficient of CdTe, CdSe, and CdS Nanocrystals.}
+      \field{year}{2003}
     \endentry
   \enddatalist
 \endrefsection
