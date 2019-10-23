@@ -1,22 +1,20 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[79] biber-MSWIN32:315> INFO - === 
-[111] Biber.pm:375> INFO - Reading 'main.bcf'
-[364] Biber.pm:905> INFO - Found 25 citekeys in bib section 0
-[394] Biber.pm:4196> INFO - Processing section 0
-[397] Utils.pm:75> INFO - Globbing data source 'ref.bib'
-[414] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
-[435] Biber.pm:4373> INFO - Looking for bibtex format file 'ref.bib' for section 0
-[446] bibtex.pm:1462> INFO - LaTeX decoding ...
-[630] bibtex.pm:1281> INFO - Found BibTeX data source 'ref.bib'
-[661] Utils.pm:300> WARN - year field '(1991-2010)' in entry '1991-2010' is not an integer - this will probably not sort properly.
-[673] Utils.pm:316> ERROR - Name "Etxebarria, Ikerne, Ajuria, Jon, Pacios, Roberto" has too many commas, skipping entry 'Polymer'
-[676] Utils.pm:316> ERROR - Name "Jiawei Gong, K. Sumathy, Qiquan Qiao, Zhengping Zhou" has too many commas, skipping entry 'DyeSent'
-[797] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[797] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[797] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[798] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[836] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[852] bbl.pm:751> INFO - Output to main.bbl
-[855] Biber.pm:110> INFO - WARNINGS: 1
-[855] Biber.pm:114> INFO - ERRORS: 2
+[82] biber-MSWIN32:315> INFO - === 
+[116] Biber.pm:375> INFO - Reading 'main.bcf'
+[401] Biber.pm:905> INFO - Found 75 citekeys in bib section 0
+[432] Biber.pm:4196> INFO - Processing section 0
+[435] Utils.pm:75> INFO - Globbing data source 'ref.bib'
+[452] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
+[473] Biber.pm:4373> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[484] bibtex.pm:1462> INFO - LaTeX decoding ...
+[667] bibtex.pm:1281> INFO - Found BibTeX data source 'ref.bib'
+[702] Utils.pm:300> WARN - year field '(1991-2010)' in entry '1991-2010' is not an integer - this will probably not sort properly.
+[1257] Utils.pm:300> WARN - I didn't find a database entry for 'Wang2017a' (section 0)
+[1414] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1415] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1416] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1417] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[1580] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1661] bbl.pm:751> INFO - Output to main.bbl
+[1664] Biber.pm:110> INFO - WARNINGS: 2

@@ -13,17 +13,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.1}Basic properties of electromagnetic field}{14}{subsection.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Boundary conditions at discontinuity}{16}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.2}Energy of electromagnetic field, the Poynting vector}{16}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Energy of electromagnetic field, the Poynting vector}{16}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.3}Wave equation}{16}{subsection.2.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Wave equation}{16}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.4}Scalar waves, wave packets and Vector waves}{16}{subsection.2.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.5}Scalar waves and wave packets}{16}{subsection.2.1.5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.6}Vector waves}{16}{subsection.2.1.6}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.7}Refraction and reflection of classical electromagnetic wave}{16}{subsection.2.1.7}% 
+\contentsline {subsection}{\numberline {2.1.5}Refraction and reflection of classical electromagnetic wave}{16}{subsection.2.1.5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Physics and properties of solids and semiconductors}{16}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
@@ -47,9 +43,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.9}Semiconductor junctions}{19}{subsection.2.2.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Quantum dots and nano-structures}{19}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Introduction to quantum description of light}{19}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Semiconducting Quantum Dots}{19}{subsection.2.3.1}% 
+\contentsline {section}{\numberline {2.4}Theory of photovoltaic devices}{19}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Solar cell parameters}{19}{section.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Quantum Dots and QDSCs - review}{19}{section.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Semiconducting Quantum Dots}{19}{subsection.2.6.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Colloidal Quantum Dots}{19}{section*.12}% 
 \defcounter {refsection}{0}\relax 
@@ -57,38 +59,50 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Quantum dot shape}{20}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Core-shell CQDs}{20}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.6.2}Core-shell CQDs}{20}{subsection.2.6.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}CQD super-crystal}{21}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.6.3}CQD super-crystal}{21}{subsection.2.6.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further reading}{21}{section*.17}% 
+\contentsline {subsubsection}{Further reading for CQDs}{21}{section*.17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Introduction to quantum description of light}{21}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.6.4}Principles of QDSCs}{21}{subsection.2.6.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Theory of photovoltaic devices}{21}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.6.5}Materials and performance development for QDSSC - a review}{23}{subsection.2.6.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Solar cell parameters}{21}{section.2.6}% 
+\contentsline {chapter}{\numberline {3}Preparation and deposition methods and experimental parameters}{29}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Third generation solar cells, QDSCs and review}{21}{section.2.7}% 
+\contentsline {section}{\numberline {3.1}Quantum dots purification}{29}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Cell architecture}{22}{chapter.3}% 
+\contentsline {subsection}{\numberline {3.1.1}Purification method}{29}{subsection.3.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Depositions and parameters}{23}{chapter.4}% 
+\contentsline {subsection}{\numberline {3.1.2}Method's properties}{30}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Results}{24}{chapter.5}% 
+\contentsline {subsubsection}{First device PbS QDs purification}{30}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}First device deposition}{24}{section.5.1}% 
+\contentsline {section}{\numberline {3.2}Depositions parameters and methods}{30}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}PbS Quantum Dot Solar Cells}{24}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {3.2.1}Glass contact cleaning}{30}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Device fabrication}{26}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {3.2.2}Spin Coating}{30}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.3}Results}{26}{subsection.5.1.3}% 
+\contentsline {subsection}{\numberline {3.2.3}Glovebox}{31}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.4}Conclusions and future prospects}{29}{subsection.5.1.4}% 
+\contentsline {subsection}{\numberline {3.2.4}Sputter deposition}{32}{subsection.3.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Future possibilities}{30}{chapter.6}% 
+\contentsline {chapter}{\numberline {4}Results}{33}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion and outlook}{31}{chapter.7}% 
+\contentsline {section}{\numberline {4.1}PbS Quantum Dot Solar Cells}{33}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{31}{chapter.7}% 
+\contentsline {subsection}{\numberline {4.1.1}First device deposition}{34}{subsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Device fabrication}{35}{section*.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Results}{36}{section*.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusions and future prospects}{38}{section*.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion and outlook}{40}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Future possibilities}{41}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{41}{chapter.6}% 

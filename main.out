@@ -4,38 +4,41 @@
 \BOOKMARK [0][-]{chapter.2}{Theory}{}% 4
 \BOOKMARK [1][-]{section.2.1}{Classical and semi classical theory of light and light with matter interaction}{chapter.2}% 5
 \BOOKMARK [2][-]{subsection.2.1.1}{Basic properties of electromagnetic field}{section.2.1}% 6
-\BOOKMARK [2][-]{subsection.2.1.2}{Boundary conditions at discontinuity}{section.2.1}% 7
-\BOOKMARK [2][-]{subsection.2.1.3}{Energy of electromagnetic field, the Poynting vector}{section.2.1}% 8
-\BOOKMARK [2][-]{subsection.2.1.4}{Wave equation}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.5}{Scalar waves and wave packets}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.6}{Vector waves}{section.2.1}% 11
-\BOOKMARK [2][-]{subsection.2.1.7}{Refraction and reflection of classical electromagnetic wave}{section.2.1}% 12
-\BOOKMARK [1][-]{section.2.2}{Physics and properties of solids and semiconductors}{chapter.2}% 13
-\BOOKMARK [2][-]{subsection.2.2.1}{Physics and properties of solids}{section.2.2}% 14
-\BOOKMARK [2][-]{subsection.2.2.2}{Drude model of free carriers}{section.2.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.3}{Crystal structure and Bloch theorem}{section.2.2}% 16
-\BOOKMARK [2][-]{subsection.2.2.4}{Energy structure}{section.2.2}% 17
-\BOOKMARK [2][-]{subsection.2.2.5}{Bigger world of carriers}{section.2.2}% 18
-\BOOKMARK [2][-]{subsection.2.2.6}{Non-equilibrium processes}{section.2.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.7}{Carrier injection}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.8}{Recombination}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.9}{Semiconductor junctions}{section.2.2}% 22
-\BOOKMARK [1][-]{section.2.3}{Quantum dots and nano-structures}{chapter.2}% 23
-\BOOKMARK [2][-]{subsection.2.3.1}{Semiconducting Quantum Dots}{section.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.3.2}{Core-shell CQDs}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.3}{CQD super-crystal}{section.2.3}% 26
-\BOOKMARK [1][-]{section.2.4}{Introduction to quantum description of light}{chapter.2}% 27
-\BOOKMARK [1][-]{section.2.5}{Theory of photovoltaic devices}{chapter.2}% 28
-\BOOKMARK [1][-]{section.2.6}{Solar cell parameters}{chapter.2}% 29
-\BOOKMARK [1][-]{section.2.7}{Third generation solar cells, QDSCs and review}{chapter.2}% 30
-\BOOKMARK [0][-]{chapter.3}{Cell architecture}{}% 31
-\BOOKMARK [0][-]{chapter.4}{Depositions and parameters}{}% 32
-\BOOKMARK [0][-]{chapter.5}{Results}{}% 33
-\BOOKMARK [1][-]{section.5.1}{First device deposition}{chapter.5}% 34
-\BOOKMARK [2][-]{subsection.5.1.1}{PbS Quantum Dot Solar Cells}{section.5.1}% 35
-\BOOKMARK [2][-]{subsection.5.1.2}{Device fabrication}{section.5.1}% 36
-\BOOKMARK [2][-]{subsection.5.1.3}{Results}{section.5.1}% 37
-\BOOKMARK [2][-]{subsection.5.1.4}{Conclusions and future prospects}{section.5.1}% 38
-\BOOKMARK [0][-]{chapter.6}{Future possibilities}{}% 39
-\BOOKMARK [0][-]{chapter.7}{Conclusion and outlook}{}% 40
-\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 41
+\BOOKMARK [2][-]{subsection.2.1.2}{Energy of electromagnetic field, the Poynting vector}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.3}{Wave equation}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.4}{Scalar waves, wave packets and Vector waves}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.5}{Refraction and reflection of classical electromagnetic wave}{section.2.1}% 10
+\BOOKMARK [1][-]{section.2.2}{Physics and properties of solids and semiconductors}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.1}{Physics and properties of solids}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{Drude model of free carriers}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.3}{Crystal structure and Bloch theorem}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.4}{Energy structure}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.5}{Bigger world of carriers}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.6}{Non-equilibrium processes}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.7}{Carrier injection}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.8}{Recombination}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.9}{Semiconductor junctions}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Introduction to quantum description of light}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.4}{Theory of photovoltaic devices}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.5}{Solar cell parameters}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.6}{Quantum Dots and QDSCs - review}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.6.1}{Semiconducting Quantum Dots}{section.2.6}% 25
+\BOOKMARK [2][-]{subsection.2.6.2}{Core-shell CQDs}{section.2.6}% 26
+\BOOKMARK [2][-]{subsection.2.6.3}{CQD super-crystal}{section.2.6}% 27
+\BOOKMARK [2][-]{subsection.2.6.4}{Principles of QDSCs}{section.2.6}% 28
+\BOOKMARK [2][-]{subsection.2.6.5}{Materials and performance development for QDSSC - a review}{section.2.6}% 29
+\BOOKMARK [0][-]{chapter.3}{Preparation and deposition methods and experimental parameters}{}% 30
+\BOOKMARK [1][-]{section.3.1}{Quantum dots purification}{chapter.3}% 31
+\BOOKMARK [2][-]{subsection.3.1.1}{Purification method}{section.3.1}% 32
+\BOOKMARK [2][-]{subsection.3.1.2}{Method's properties}{section.3.1}% 33
+\BOOKMARK [1][-]{section.3.2}{Depositions parameters and methods}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.2.1}{Glass contact cleaning}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.2}{Spin Coating}{section.3.2}% 36
+\BOOKMARK [2][-]{subsection.3.2.3}{Glovebox}{section.3.2}% 37
+\BOOKMARK [2][-]{subsection.3.2.4}{Sputter deposition}{section.3.2}% 38
+\BOOKMARK [0][-]{chapter.4}{Results}{}% 39
+\BOOKMARK [1][-]{section.4.1}{PbS Quantum Dot Solar Cells}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.1.1}{First device deposition}{section.4.1}% 41
+\BOOKMARK [0][-]{chapter.5}{Conclusion and outlook}{}% 42
+\BOOKMARK [0][-]{chapter.6}{Future possibilities}{}% 43
+\BOOKMARK [0][-]{chapter.6}{Bibliography}{}% 44
