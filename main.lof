@@ -3,45 +3,55 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Energy sources contribution in world scale \cite {2019}\relax }}{11}{figure.caption.8}% 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Energy sources contribution in world scale \cite {2019}\relax }}{13}{figure.caption.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Annual yearly sum of Global Horizontal Irradiation \cite {1991-2010}\relax }}{12}{figure.caption.9}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Demonstrations of conductivity behaviour of different types of solids\relax }}{17}{figure.caption.10}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands (\url {https://www.wikiwand.com/en/Quantum_dot})\relax }}{20}{figure.caption.13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. (\url {https://commons.wikimedia.org/wiki/File:Core-shell_types.png})\relax }}{21}{figure.caption.16}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{22}{figure.caption.18}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Annual yearly sum of Global Horizontal Irradiation \cite {1991-2010}\relax }}{14}{figure.caption.10}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{31}{figure.caption.20}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Demonstrations of conductivity behaviour of different types of solids\relax }}{19}{figure.caption.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{31}{figure.caption.21}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The broadening of energy levels as atomic orbitals cross each other when they are getting closer\cite {fox}\relax }}{21}{figure.caption.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{32}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Density of states behaviour\cite {DOS}\relax }}{23}{figure.caption.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{32}{figure.caption.22}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Band diagram for intrinsic semiconductor and Fermi-Dirac function in $T>0K$ - there is a possibility that electron will be excited to higher state \cite {popko}\relax }}{24}{figure.caption.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces For p-type material(right) we can excite valence band electrons into acceptor state easier so we have holes in the valence band and for n-type material(left) we can extract electrons from the donor level and have carries in the conduction band\cite {hyper}\relax }}{24}{figure.caption.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Band diagram for n type semiconductor when in equilibrium(left) and applying field(right)\cite {popko}\relax }}{25}{figure.caption.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{27}{figure.caption.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{28}{figure.caption.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{29}{figure.caption.24}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{33}{figure.caption.24}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{38}{figure.caption.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{34}{figure.caption.25}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{38}{figure.caption.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{34}{figure.caption.26}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{39}{figure.caption.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{35}{figure.caption.28}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{39}{figure.caption.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{36}{figure.caption.30}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{37}{figure.caption.31}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{40}{figure.caption.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{38}{figure.caption.32}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{41}{figure.caption.31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{41}{figure.caption.32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{42}{figure.caption.34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{42}{figure.caption.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{44}{figure.caption.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{44}{figure.caption.38}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

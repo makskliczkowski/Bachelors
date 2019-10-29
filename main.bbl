@@ -27,6 +27,56 @@
       \field{volume}{133}
       \field{year}{2011}
     \endentry
+    \entry{DOS}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/post/How_does_dimensionality_for_density_of_states_works
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/post/How_does_dimensionality_for_density_of_states_works
+      \endverb
+    \endentry
+    \entry{hyper}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/dsem.html
+      \endverb
+      \verb{url}
+      \verb http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/dsem.html
+      \endverb
+    \endentry
+    \entry{pv}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb pveducation.org
+      \endverb
+      \verb{url}
+      \verb pveducation.org
+      \endverb
+    \endentry
+    \entry{qd}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://www.wikiwand.com/en/Quantum_dot
+      \endverb
+      \verb{url}
+      \verb https://www.wikiwand.com/en/Quantum_dot
+      \endverb
+    \endentry
+    \entry{coreshell}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Core-shell_types.png
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Core-shell_types.png
+      \endverb
+    \endentry
     \entry{Abdelhady2015}{article}{}
       \name{author}{3}{}{%
         {{hash=1a4f130aa8306fb74bb6748eaff73f14}{%
@@ -478,6 +528,29 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Communications}
       \field{title}{Mixed-quantum-dot solar cells}
+    \endentry
+    \entry{fox}{book}{}
+      \name{author}{1}{}{%
+        {{hash=680093a59b4a8752bda6dd5544fc97b4}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{680093a59b4a8752bda6dd5544fc97b4}
+      \strng{fullhash}{680093a59b4a8752bda6dd5544fc97b4}
+      \strng{bibnamehash}{680093a59b4a8752bda6dd5544fc97b4}
+      \strng{authorbibnamehash}{680093a59b4a8752bda6dd5544fc97b4}
+      \strng{authornamehash}{680093a59b4a8752bda6dd5544fc97b4}
+      \strng{authorfullhash}{680093a59b4a8752bda6dd5544fc97b4}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optical properties of Solids}
     \endentry
     \entry{G.D.Scholes2003}{article}{}
       \name{author}{1}{}{%
@@ -1489,6 +1562,27 @@
       \field{journaltitle}{J. Mater. Chem A.}
       \field{year}{2015}
     \endentry
+    \entry{popko}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=f2efdef7399d45ab3290caf2867c4b92}{%
+           family={Placzek-Popko},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Ewa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2efdef7399d45ab3290caf2867c4b92}
+      \strng{fullhash}{f2efdef7399d45ab3290caf2867c4b92}
+      \strng{bibnamehash}{f2efdef7399d45ab3290caf2867c4b92}
+      \strng{authorbibnamehash}{f2efdef7399d45ab3290caf2867c4b92}
+      \strng{authornamehash}{f2efdef7399d45ab3290caf2867c4b92}
+      \strng{authorfullhash}{f2efdef7399d45ab3290caf2867c4b92}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Politechnika Wroclawska}
+      \field{title}{Wykład II Fotoluminescencja}
+    \endentry
     \entry{phdsemi}{thesis}{}
       \name{author}{1}{}{%
         {{hash=74d89a1cdedc1f874669ab6f3be81b86}{%
@@ -2353,7 +2447,6 @@
       \field{year}{2013}
     \endentry
   \enddatalist
-  \missing{Wang2017a}
 \endrefsection
 \endinput
 

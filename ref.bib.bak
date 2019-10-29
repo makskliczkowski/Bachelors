@@ -853,4 +853,24 @@
   doi       = {10.1007/978-1-4614-8148-5},
 }
 
+@Book{fox,
+  title     = {Optical properties of Solids},
+  publisher = {Springer},
+  author    = {Mark Fox},
+}
+
+@Misc{DOS,
+  url = {https://www.researchgate.net/post/How_does_dimensionality_for_density_of_states_works},
+}
+
+@Unpublished{popko,
+  author = {Ewa Placzek-Popko},
+  title  = {Wykład II Fotoluminescencja},
+  note   = {Politechnika Wroclawska},
+}
+
+@Misc{hyper,
+  url = {http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/dsem.html},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

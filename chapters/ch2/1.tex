@@ -1,6 +1,6 @@
 As in the photovoltaic physics we are constantly struggling with light itself we should be know what the light actually is and how it interacts with matter in many, rather curious and different ways. Why is that so that matter looks the way it does and what of its properties can we control. In this chapter we will embrace the phenomena just to create an image of what we are dealing with. 
 
-\subsection{Basic properties of electromagnetic field}
+\subsection{ELECTROMAGNETIC FIELD}
 
 \indent Before we actually begin we need to state some classic information about
 the physics of electric charges. The electromagnetic field is
@@ -68,11 +68,13 @@ is \emph{magnetization vector}.
 \begin{equation}
 \nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\mathbf{\rightarrow}
 \emph{Faraday's induction law}
+\label{Faraday}
 \end{equation}
 
 \begin{equation}
 \nabla \times \mathbf{H =}\left( \mathbf{j +}\frac{\partial\mathbf{D}}{\partial t} \right) \rightarrow
 \emph{Ampere's circuital law}
+\label{Ampere}
 \end{equation}
 
 \begin{equation}
@@ -136,7 +138,51 @@ later when needed, but if the reader wants to really expand following
 discussion understanding, it can be done via \cite{Born1999} \cite{Jackson}.
 
 
-\subsection{Energy of electromagnetic field, the Poynting vector}
-\subsection{Wave equation}
-\subsection{Scalar waves, wave packets and Vector waves}
-\subsection{Refraction and reflection of classical electromagnetic wave}
+\subsection{ENERGY OF ELECTROMAGNETIC FIELD, THE POYNTING VECTOR}
+
+One might say that light is a transporter of energy itself, and the light intensity is easily interpreted as the energy flux of the electromagnetic field. All of the following equations can be beautifully derived via Lagrangian mathematics but we will just provide quick view derived from the Maxwell's equations. 
+
+From both Maxwell equations connecting rotations Eq.\ref{Ampere} and Eq.\ref{Faraday}(they will be provided in \textbf{CGI} units now to show that we can use both) we can get:
+\begin{equation}
+\mathbf{E}\cdot \nabla \times \mathbf{H} - \mathbf{H} \times \nabla \times \mathbf{E} = \frac{4\pi}{c}\mathbf{j}\cdot \mathbf{E} + \frac{1}{c}\mathbf{E} \cdot \frac{\partial \mathbf{D}}{\partial t} + \frac{1}{c} \mathbf{H} \cdot \frac{\partial \mathbf{B}}{\partial t}
+\end{equation}
+
+Then after using vector identities, integrating around some volume, using Gauss's theorem and introducing unit vector normal to the plane \textbf{n} we get:
+$$
+\frac{1}{4\pi} \int (\mathbf{E} \cdot  \frac{\partial \mathbf{D}}{\partial t}) + (\mathbf{H} \cdot \frac{\partial \mathbf{B}}{\partial t})dV + \int \mathbf{j} \cdot \mathbf{E} dV + \frac{c}{4\pi }\int  (\mathbf{E}\times \mathbf{H}) \cdot \mathbf{n} dS = 0
+$$
+Where the medium is thought to be isotropic. After taking material equations directly and introducing:
+\begin{equation}
+w_e = \frac{1}{8\pi}\mathbf{E} \cdot \mathbf{D}
+\end{equation}
+
+\begin{equation}
+w_m = \frac{1}{8\pi}\mathbf{H} \cdot \mathbf{B}
+\end{equation}
+
+and 
+\begin{equation}
+W = \int (w_e + w_m) dV
+\end{equation}
+
+We now have:
+
+
+
+$$
+\frac{dW}{dt} + \int \mathbf{j} \cdot \mathbf{E}dV + \frac{c}{4\pi } \int  ( \mathbf{E} \times \mathbf{H} )  \cdot \mathbf{n} dS = 0
+$$
+
+
+And W represents total energy contained in the arbitrary volume so therefore $w_e$ and $w_m$ are electric and magnetic energy densities respectively. From that after introducing total work needed to displace charges A we get:
+
+$$
+\frac{dW}{dt} = -\frac{\delta A}{\delta t} - Q - \int \mathbf{S} \cdot \mathbf{n} dS
+$$
+
+where Q is total charge and S is a Poynting vector interpreted as a density of energy flow and is equal:
+
+\begin{equation}
+\mathbf{S} = \frac{c}{4\pi}(\mathbf{E} \times \mathbf{H})
+\end{equation}
+
