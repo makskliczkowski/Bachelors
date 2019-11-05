@@ -3,94 +3,108 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{List of Figures}{10}{chapter*.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Tables}{11}{chapter*.8}% 
+\contentsline {chapter}{List of Tables}{12}{chapter*.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}INTRODUCTION}{12}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{13}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}THEORY}{15}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}THEORY}{16}{chapter.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}CLASSICAL CONCEPTS OF LIGHT}{15}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}\formatsection {CLASSICAL CONCEPTS OF LIGHT}}{16}{section.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}ELECTROMAGNETIC FIELD}{15}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.1}\formatsubsection {ELECTROMAGNETIC FIELD}}{16}{subsection.2.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}ENERGY OF ELECTROMAGNETIC FIELD, THE POYNTING VECTOR}{17}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.2}\formatsubsection {ENERGY OF ELECTROMAGNETIC FIELD, THE POYNTING VECTOR}}{18}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}PHYSICS AND PROPERTIES OF SOLIDS AND SEMICONDUCTORS}{18}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}\formatsection {PHYSICS AND PROPERTIES OF SOLIDS AND SEMICONDUCTORS}}{19}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}PHYSICS AND PROPERTIES OF SOLIDS}{18}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}\formatsubsection {PHYSICS AND PROPERTIES OF SOLIDS}}{19}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}DRUDE MODEL OF FREE CARRIERS}{19}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.2}\formatsubsection {DRUDE MODEL OF FREE CARRIERS}}{20}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Electrical Conductivity}{20}{section*.12}% 
+\contentsline {subsubsection}{Electrical Conductivity}{21}{section*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}CRYSTAL STRUCTURE AND BLOCH THEOREM}{20}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.3}\formatsubsection {CRYSTAL STRUCTURE AND BLOCH THEOREM}}{21}{subsection.2.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}ENERGY STRUCTURE}{21}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.4}\formatsubsection {ENERGY STRUCTURE}}{22}{subsection.2.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}BIGGER WORLD OF CARRIERS}{22}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.5}\formatsubsection {BIGGER WORLD OF CARRIERS}}{23}{subsection.2.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.6}NON-EQUILIBRIUM EFFECTS AND CARRIER INJECTION}{25}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.6}\formatsubsection {NON-EQUILIBRIUM EFFECTS AND CARRIER INJECTION}}{26}{subsection.2.2.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.7}SEMICONDUCTOR JUNCTIONS}{26}{subsection.2.2.7}% 
+\contentsline {subsubsection}{QUASI-FERMI LEVELS}{27}{section*.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}LIGHT WITH MATTER INTERACTION}{26}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.2.7}\formatsubsection {SEMICONDUCTOR JUNCTIONS}}{28}{subsection.2.2.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}PHOTOVOLTAIC DEVICES AND SOLAR CELL PARAMETERS}{26}{section.2.4}% 
+\contentsline {subsubsection}{P-N JUNCTION}{28}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}QUANTUM DOTS AND QDSSC}{26}{section.2.5}% 
+\contentsline {section}{\numberline {2.3}\formatsection {LIGHT WITH MATTER INTERACTION}}{30}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.1}SEMICONDUCTING QUANTUM DOTS}{26}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.3.1}\formatsubsection {Interband absorption}}{31}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{COLLOIDAL QUANTUM DOTS}{27}{section*.18}% 
+\contentsline {subsection}{\numberline {2.3.2}\formatsubsection {Excitons}}{32}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quantum dot size}{27}{section*.20}% 
+\contentsline {subsection}{\numberline {2.3.3}\formatsubsection {Photoluminescence}}{32}{subsection.2.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Quantum dot shape}{28}{section*.21}% 
+\contentsline {subsection}{\numberline {2.3.4}\formatsubsection {Quantum Confinement}}{34}{subsection.2.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.2}CORE-SHELL CQDS}{28}{subsection.2.5.2}% 
+\contentsline {subsubsection}{The Particle in a box}{35}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.3}CQD SUPER-CRYSTAL}{28}{subsection.2.5.3}% 
+\contentsline {section}{\numberline {2.4}\formatsection {PHOTOVOLTAIC DEVICES AND SOLAR CELL PARAMETERS}}{36}{section.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further reading for CQDs}{28}{section*.23}% 
+\contentsline {section}{\numberline {2.5}\formatsection {QUANTUM DOTS AND QDSSC}}{36}{section.2.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.4}PRINCIPLES OF QDSCS}{28}{subsection.2.5.4}% 
+\contentsline {subsection}{\numberline {2.5.1}\formatsubsection {SEMICONDUCTING QUANTUM DOTS}}{36}{subsection.2.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.5}MATERIALS AND PERFORMANCE DEVELOPMENT OF QDSSC - A REVIEW}{30}{subsection.2.5.5}% 
+\contentsline {subsubsection}{COLLOIDAL QUANTUM DOTS}{37}{section*.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}PREPARATION, DEPOSITION AND OTHER EXPERIMENTAL METHODS}{36}{chapter.3}% 
+\contentsline {subsubsection}{Quantum dot size}{38}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Quantum dots purification}{36}{section.3.1}% 
+\contentsline {subsubsection}{Quantum dot shape}{38}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Purification method}{36}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {2.5.2}\formatsubsection {CORE-SHELL CQDS}}{38}{subsection.2.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Method's properties}{37}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {2.5.3}\formatsubsection {CQD SUPER-CRYSTAL}}{38}{subsection.2.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{First device PbS QDs purification}{37}{section*.25}% 
+\contentsline {subsubsection}{Further reading for CQDs}{38}{section*.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Depositions parameters and methods}{37}{section.3.2}% 
+\contentsline {subsection}{\numberline {2.5.4}\formatsubsection {PRINCIPLES OF QDSCS}}{39}{subsection.2.5.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Glass contact cleaning}{37}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {2.5.5}\formatsubsection {MATERIALS AND PERFORMANCE DEVELOPMENT OF QDSSC - A REVIEW}}{40}{subsection.2.5.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Spin Coating}{37}{subsection.3.2.2}% 
+\contentsline {chapter}{\numberline {3}PREPARATION, DEPOSITION AND OTHER EXPERIMENTAL METHODS}{46}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Glovebox}{38}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.1}\formatsection {Quantum dots purification}}{46}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Sputter deposition}{39}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.1.1}\formatsubsection {Purification method}}{46}{subsection.3.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}RESULTS}{40}{chapter.4}% 
+\contentsline {subsection}{\numberline {3.1.2}\formatsubsection {Method's properties}}{47}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}PbS Quantum Dot Solar Cells}{40}{section.4.1}% 
+\contentsline {section}{\numberline {3.2}\formatsection {Depositions parameters and methods}}{47}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}First device deposition}{41}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {3.2.1}\formatsubsection {Glass contact cleaning}}{47}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Device fabrication}{42}{section*.33}% 
+\contentsline {subsection}{\numberline {3.2.2}\formatsubsection {Spin Coating}}{47}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Results}{42}{section*.35}% 
+\contentsline {subsection}{\numberline {3.2.3}\formatsubsection {Glovebox}}{48}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Conclusions and future prospects}{45}{section*.41}% 
+\contentsline {subsection}{\numberline {3.2.4}\formatsubsection {Sputter deposition}}{49}{subsection.3.2.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}CONCLUSION AND OUTLOOK}{46}{chapter.5}% 
+\contentsline {chapter}{\numberline {4}RESULTS}{50}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}FUTURE POSSIBILITIES}{47}{chapter.6}% 
+\contentsline {section}{\numberline {4.1}\formatsection {PbS Quantum Dot Solar Cells}}{50}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{BIBLIOGRAPHY}{47}{chapter.6}% 
+\contentsline {subsection}{\numberline {4.1.1}\formatsubsection {First device deposition}}{51}{subsection.4.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Device fabrication}{52}{section*.40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Results}{52}{section*.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conclusions and future prospects}{55}{section*.48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}\formatsubsection {Second device manufacture}}{55}{subsection.4.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}CONCLUSION AND OUTLOOK}{58}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}FUTURE POSSIBILITIES}{59}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{BIBLIOGRAPHY}{59}{chapter.6}% 

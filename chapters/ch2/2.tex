@@ -236,5 +236,54 @@ We can say that there are three processes of recombination in the bulk:
 \end{itemize}
 
 More about recombination will be said   concerning quantum dots.\cite{popko} \cite{pv}
+
+\subsubsection{QUASI-FERMI LEVELS}
+It is worth to be noted now, that when in equilibrium the thermal generation of carriers is compensated by the recombination processes so equilibrium concentrations of both electrons and holes don't change on their own. The situation changes drastically when we provide the light source to create the light-induced carrier generation. Then, concentrations n and p will increase. Providing that excessive concentrations for holes and electrons are the same(no traps are included) we can calculate the non-equilibrium carrier concentrations as:
+
+\begin{equation}
+n = n_ie^(F_n-E_i)/kT
+\end{equation}
+
+\begin{equation}
+p = n_ie^(E_i-F_p)/kT
+\end{equation}
+
+where $F_n$ and $F_p$ are quasi-Fermi levels of electrons and holes receptively. Their shift from $E_F$, induced by excessive carriers, is the way to distinguish how the equilibrium concentrations have changed. 
 \subsection{SEMICONDUCTOR JUNCTIONS}
 
+After stating previous information, let's imagine now that we connect two semiconducting materials together(no matter what technique with). Both of them have its own Fermi level. Then, after connecting them, the Fermi level gradient becomes $\frac{dE_F}{dx}=0$. If, additionally, we provide the non-equilibrium process, such us electric field or light induced carrier injection, the quasi-Fermi levels gradients become non-zero. For electron current only, induced with gradient concentration and electric field polarisation in the x direction we get: 
+
+\begin{equation}
+J_n(x) = q\mu _n n(x)\epsilon (x)+ qD_n\frac{dn(x)}{dx}
+\end{equation}
+
+Then after taking the excessive concentrations with quasi-Fermi levels included we get:
+
+\begin{equation}
+J_n(x) = \frac{\sigma _n (x)}{q}\frac{dF_n}{dx}
+\end{equation}
+
+where we can see that net current is strictly connected with the gradient of quasi-Fermi level. (Same can be done for holes)
+
+\subsubsection{P-N JUNCTION}
+A quick insight into p-n junction physics shall be put as it is in the principles of photovoltaic physics. Nevertheless, it would be just a reminder to the concept and more information can be obtained from f.e \cite{sze}
+After connecting two semiconductors together, we know that for the equilibrium to be conserved our Fermi level gradient has to be 0 through the sample. This creates the difference in the energy structure which is called the built-in  potential $\Phi _{bi} = \Phi _n - \Phi _p$(because both of the Fermi levels must adjust to each other), where $\Phi _{n,p}$ is potential connected with the n or p type semiconductors respectively. For this to occur, because of the concentrations gradient between both materials, some of the electrons must go to the p type semiconductor, leaving volumetric positive charge behind. The holes from the p type "behave" the same way. This also explains the built in potential and creates the electric field between two sides called the\textbf{ depletion region}. Because of the equilibrium $n_{n0}p_{n0}=n_{p0}p_{p0}n_i^2$ (the first letter states the side of the sample) we can calculate the built in potential by using the concentration with:
+
+\begin{equation}
+\Psi _{bi} = \frac{kT}{q}ln(\frac{p_{p0}}{p{n0}})=\frac{kT}{q}ln(\frac{n_{n0}}{n{p0}})
+\end{equation}
+
+The width of a depleted region, the sizes for n and p types and potential distribution inside are usually calculated by assuming the box shape of the region. Because the electric field far from the junction must be zero the total negative electric charge density which was created in p-type must be equal to positive charge density in the n type. Therefore we can say that:
+
+\begin{equation}
+N_AW_p=N_DW_n
+\end{equation}
+
+where $N_{A,D}$ are acceptor and donor atoms concentrations and $W_{p,n}$ are lengths of box-approximated parts of the depleted region for p and n typ, see Fig.(\ref{fig:pn}). From Poisson equation we can calculate further each of the quantities \cite{sze}.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.6\textwidth]{ch2/pn}
+\caption{Schematics of space-charge distribution, electric field in the depleted region, potential distribution and energy structure of a p-n junction in thermal equilibrium}
+\label{fig:pn}
+\end{figure}

@@ -459,6 +459,44 @@
       \field{title}{Crystallization and growth of colloidal nanocrystals}
       \field{year}{2012}
     \endentry
+    \entry{Esaki1970}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f611f755b6ac8b16585a269b55d3595a}{%
+           family={Esaki},
+           familyi={E\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ec546fa85b23ee2c263185b8e18948cc}{%
+           family={Tsu},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IBM}%
+      }
+      \strng{namehash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \strng{fullhash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \strng{bibnamehash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \strng{authorbibnamehash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \strng{authornamehash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \strng{authorfullhash}{0f66c76c68c10214a1c4a3674fd03dca}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IBM} Journal of Research and Development}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Superlattice and Negative Differential Conductivity in Semiconductors}
+      \field{volume}{14}
+      \field{year}{1970}
+      \field{pages}{61\bibrangedash 65}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1147/rd.141.0061
+      \endverb
+    \endentry
     \entry{Polymer}{article}{}
       \name{author}{3}{}{%
         {{hash=1b0cbcc2ff1c710edc8bc33f028552f9}{%
@@ -1562,6 +1600,29 @@
       \field{journaltitle}{J. Mater. Chem A.}
       \field{year}{2015}
     \endentry
+    \entry{dotsy}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d5a8a1e9b22d61d25be1f01a10b0af78}{%
+           family={Paul\bibnamedelima Harrison},
+           familyi={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Alex\bibnamedelima Valavanis},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \strng{fullhash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \strng{bibnamehash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \strng{authorbibnamehash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \strng{authornamehash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \strng{authorfullhash}{d5a8a1e9b22d61d25be1f01a10b0af78}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quantum Wells, Wires and Dots Theoretical and Computational Physics of Semiconductor Nanostructures}
+    \endentry
     \entry{popko}{unpublished}{}
       \name{author}{1}{}{%
         {{hash=f2efdef7399d45ab3290caf2867c4b92}{%
@@ -1837,6 +1898,29 @@
       \field{title}{Colloidal quantum dot based solar cells: from materials to devices}
       \field{year}{2017}
     \endentry
+    \entry{sze}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f349932f80e2a572d66ce8bc5d583f93}{%
+           family={Sze},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{f349932f80e2a572d66ce8bc5d583f93}
+      \strng{fullhash}{f349932f80e2a572d66ce8bc5d583f93}
+      \strng{bibnamehash}{f349932f80e2a572d66ce8bc5d583f93}
+      \strng{authorbibnamehash}{f349932f80e2a572d66ce8bc5d583f93}
+      \strng{authornamehash}{f349932f80e2a572d66ce8bc5d583f93}
+      \strng{authorfullhash}{f349932f80e2a572d66ce8bc5d583f93}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physics of the semiconductor devices}
+    \endentry
     \entry{Tian2015}{article}{}
       \name{author}{2}{}{%
         {{hash=f372e195c8bd0b7315ea04ca259b2d85}{%
@@ -1997,6 +2081,29 @@
       \field{journaltitle}{ACS Energy Letters}
       \field{title}{6.5 percent certified sb2se3 solar cells using pbs colloidal quantum dot film as hole transporting layer}
       \field{year}{2017}
+    \endentry
+    \entry{ulrike}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5cf40e4a9a5ddc9e4f7b138751aad96f}{%
+           family={Woggon},
+           familyi={W\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \strng{fullhash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \strng{bibnamehash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \strng{authorbibnamehash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \strng{authornamehash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \strng{authorfullhash}{5cf40e4a9a5ddc9e4f7b138751aad96f}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optical Properties of Semiconductor Quantum Dots}
     \endentry
     \entry{Wu2014}{book}{}
       \name{editor}{2}{}{%
@@ -2447,6 +2554,7 @@
       \field{year}{2013}
     \endentry
   \enddatalist
+  \missing{princeton}
 \endrefsection
 \endinput
 

@@ -14,12 +14,37 @@
 \usepackage{caption}
 \usepackage{subcaption}
 
+\setlength\parindent{0pt}
+\usepackage{sectsty,textcase}
+\allsectionsfont{\MakeTextUppercase}
+
+
 \usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
 \usepackage[english]{babel}
 \usepackage[nottoc]{tocbibind}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%TABLE OF CONTENTS LETTERS CHANGE
+\usepackage{regexpatch}
+\makeatletter
+\xpatchcmd*{\@sect}{\fi#7}{\fi\@nameuse{format#1}{#7}}{}{}
+%%% for sections and subsections we want uppercase
+\protected\def\formatsection{\MakeUppercase}
+\protected\def\formatsubsection{\MakeUppercase}
 
+%%% the other titles are left unchanged
+\let\formatsubsubsection\@firstofone
+\let\formatparagraph\@firstofone
+\let\formatsubparagraph\@firstofone
 
-
+%%% the following is necessary only if hyperref is used
+\AtBeginDocument{%
+  \pdfstringdefDisableCommands{%
+    \let\formatsection\@firstofone
+    \let\formatsubsection\@firstofone
+  }%
+}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{hyperref}
 
  
@@ -55,10 +80,7 @@ I would like to dedicate ...
 \chapter*{DECLARATION}
 
 
-I hereby declare that the present bachelor's thesis was composed
-by myself and that the work contained herein is my own. I also confirm that I have only used the
-specified resources. All formulations and concepts taken verbatim or in substance from printed
-or unprinted material or from the Internet have been cited according to the rules of good
+I hereby declare that the present bachelor's thesis was composed by myself and that the work contained herein is my own. I also confirm that I have only used the specified resources. All formulations and concepts taken verbatim or in substance from printed or unprinted material or from the Internet have been cited according to the rules of good
 scientific practice and indicated by footnotes or other exact references to the original source.
 
 \vline

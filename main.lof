@@ -3,55 +3,71 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Energy sources contribution in world scale \cite {2019}\relax }}{13}{figure.caption.9}% 
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Energy sources contribution in world scale \cite {2019}\relax }}{14}{figure.caption.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Annual yearly sum of Global Horizontal Irradiation \cite {1991-2010}\relax }}{14}{figure.caption.10}% 
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Demonstrations of conductivity behaviour of different types of solids\relax }}{19}{figure.caption.11}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces The broadening of energy levels as atomic orbitals cross each other when they are getting closer\cite {fox}\relax }}{21}{figure.caption.13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Density of states behaviour\cite {DOS}\relax }}{23}{figure.caption.14}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Band diagram for intrinsic semiconductor and Fermi-Dirac function in $T>0K$ - there is a possibility that electron will be excited to higher state \cite {popko}\relax }}{24}{figure.caption.15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces For p-type material(right) we can excite valence band electrons into acceptor state easier so we have holes in the valence band and for n-type material(left) we can extract electrons from the donor level and have carries in the conduction band\cite {hyper}\relax }}{24}{figure.caption.16}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Band diagram for n type semiconductor when in equilibrium(left) and applying field(right)\cite {popko}\relax }}{25}{figure.caption.17}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{27}{figure.caption.19}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{28}{figure.caption.22}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{29}{figure.caption.24}% 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Annual yearly sum of Global Horizontal Irradiation \cite {1991-2010}\relax }}{15}{figure.caption.10}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{38}{figure.caption.26}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Demonstrations of conductivity behaviour of different types of solids\relax }}{20}{figure.caption.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{38}{figure.caption.27}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The broadening of energy levels as atomic orbitals cross each other when they are getting closer\cite {fox}\relax }}{22}{figure.caption.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{39}{figure.caption.29}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Density of states behaviour\cite {DOS}\relax }}{24}{figure.caption.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{39}{figure.caption.28}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Band diagram for intrinsic semiconductor and Fermi-Dirac function in $T>0K$ - there is a possibility that electron will be excited to higher state \cite {popko}\relax }}{25}{figure.caption.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces For p-type material(right) we can excite valence band electrons into acceptor state easier so we have holes in the valence band and for n-type material(left) we can extract electrons from the donor level and have carries in the conduction band\cite {hyper}\relax }}{25}{figure.caption.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Band diagram for n type semiconductor when in equilibrium(left) and applying field(right)\cite {popko}\relax }}{26}{figure.caption.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Schematics of space-charge distribution, electric field in the depleted region, potential distribution and energy structure of a p-n junction in thermal equilibrium\relax }}{29}{figure.caption.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Image that shows the characteristic difference between two types of excitons. Wannier-Mott excitons are not constrained to any atom and can move freely through the material in contrast to the Frenkel excitons which are much less mobile\cite {fox}\relax }}{32}{figure.caption.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Example of few of the processes that are present during photoluminescence\cite {princeton}\relax }}{33}{figure.caption.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Relaxation processes for excitons in the medium\cite {popko}\relax }}{33}{figure.caption.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces The image of a band structure for two band model in direct band semiconductors a). In b) we can see that there are much more discrete states in a nanoparticle than in bulk a) \cite {Klimov}\relax }}{35}{figure.caption.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{37}{figure.caption.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{38}{figure.caption.30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{39}{figure.caption.32}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{40}{figure.caption.30}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{48}{figure.caption.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{41}{figure.caption.31}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{48}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{41}{figure.caption.32}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{49}{figure.caption.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{42}{figure.caption.34}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{49}{figure.caption.35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{42}{figure.caption.36}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{44}{figure.caption.37}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{50}{figure.caption.37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{44}{figure.caption.38}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{51}{figure.caption.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{51}{figure.caption.39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{52}{figure.caption.41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{52}{figure.caption.43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{54}{figure.caption.44}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{54}{figure.caption.45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Laboratory absorption and photoluminescence measuring system \relax }}{56}{figure.caption.49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Second deposition parameters\relax }}{56}{figure.caption.50}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Cell heating\relax }}{57}{figure.caption.51}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

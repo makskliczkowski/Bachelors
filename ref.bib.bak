@@ -873,4 +873,47 @@
   url = {http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/dsem.html},
 }
 
+@Misc{pv,
+  url = {pveducation.org},
+}
+
+@Misc{qd,
+  url = {https://www.wikiwand.com/en/Quantum_dot},
+}
+
+@Misc{coreshell,
+  url = {https://commons.wikimedia.org/wiki/File:Core-shell_types.png},
+}
+
+@Book{sze,
+  title     = {Physics of the semiconductor devices},
+  publisher = {Wiley},
+  author    = {S. M. Sze},
+}
+
+@Article{Esaki1970,
+  author    = {L. Esaki and R. Tsu},
+  title     = {Superlattice and Negative Differential Conductivity in Semiconductors},
+  journal   = {{IBM} Journal of Research and Development},
+  year      = {1970},
+  volume    = {14},
+  number    = {1},
+  pages     = {61--65},
+  month     = {jan},
+  doi       = {10.1147/rd.141.0061},
+  publisher = {{IBM}},
+}
+
+@Book{ulrike,
+  title     = {Optical Properties of Semiconductor Quantum Dots},
+  publisher = {Springer},
+  author    = {Ulrike Woggon},
+}
+
+@Book{dotsy,
+  title     = {Quantum Wells, Wires and Dots Theoretical and Computational Physics of Semiconductor Nanostructures},
+  publisher = {Wiley},
+  author    = {Paul Harrison, Alex Valavanis},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
