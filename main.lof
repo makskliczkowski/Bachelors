@@ -27,47 +27,49 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.9}{\ignorespaces Example of few of the processes that are present during photoluminescence\cite {princeton}\relax }}{33}{figure.caption.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Relaxation processes for excitons in the medium\cite {popko}\relax }}{33}{figure.caption.23}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Relaxation processes for excitons in the medium\cite {popko}\relax }}{34}{figure.caption.23}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.11}{\ignorespaces The image of a band structure for two band model in direct band semiconductors a). In b) we can see that there are much more discrete states in a nanoparticle than in bulk a) \cite {Klimov}\relax }}{35}{figure.caption.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{37}{figure.caption.27}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Quantum efficiency of an ideal silicon solar cell \cite {pv}\relax }}{37}{figure.caption.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{38}{figure.caption.30}% 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{39}{figure.caption.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{39}{figure.caption.32}% 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{40}{figure.caption.35}% 
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{48}{figure.caption.33}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{48}{figure.caption.34}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{49}{figure.caption.36}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{49}{figure.caption.35}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{41}{figure.caption.37}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{50}{figure.caption.37}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Cleaning methods environment\relax }}{50}{figure.caption.38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{51}{figure.caption.38}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Laboratory equipment view\relax }}{50}{figure.caption.39}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{51}{figure.caption.39}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Sputtering deposition device that we were using\relax }}{51}{figure.caption.41}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{52}{figure.caption.41}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sputtering deposition schematics(\url {https://www.wikiwand.com/en/Sputter_deposition})\relax }}{51}{figure.caption.40}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{52}{figure.caption.43}% 
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{54}{figure.caption.44}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Emission spectrum of used PbS QDs \cite {2011}\relax }}{52}{figure.caption.42}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{54}{figure.caption.45}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 3D structure of the first device based on PbS QDs\relax }}{53}{figure.caption.43}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Laboratory absorption and photoluminescence measuring system \relax }}{56}{figure.caption.49}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{54}{figure.caption.46}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Second deposition parameters\relax }}{56}{figure.caption.50}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Energy structure of the first PbS-based QDSC\relax }}{54}{figure.caption.44}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Cell heating\relax }}{57}{figure.caption.51}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{54}{figure.caption.48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Original data from Gigahertz Optik Gmbh\relax }}{56}{figure.caption.49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces IV characteristics for QDSC and commercial cell \relax }}{57}{figure.caption.50}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Laboratory absorption and photoluminescence measuring system \relax }}{58}{figure.caption.54}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Cell heating\relax }}{59}{figure.caption.56}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Second deposition parameters\relax }}{59}{figure.caption.55}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
