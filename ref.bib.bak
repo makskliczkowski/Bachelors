@@ -916,4 +916,33 @@
   author    = {Paul Harrison, Alex Valavanis},
 }
 
+@Article{limit,
+  author  = {W. Shockley and Queisser},
+  title   = {Detailed Balance Limit of Efficiency of p-n Junction Solar Cells},
+  journal = {Journal of Applied Physics},
+  year    = {1961},
+  volume  = {32},
+  pages   = {510-519},
+}
+
+@Book{limit,
+  title     = {Generalized detailed balance theory of solar cells},
+  publisher = {Forschungszentrum Jülich GmbH, Institute of Energy Research (IEF), Photovoltaics (IEF-5)},
+  year      = {2009},
+  author    = {Thomas Kirchartz},
+  volume    = {38},
+  isbn      = {978-3-89336-573-9},
+}
+
+@Misc{am,
+  url = {https://www2.pvlighthouse.com.au/resources/courses/altermatt/The%20Solar%20Spectrum/The%20global%20standard%20spectrum%20(AM1-5g).aspx},
+}
+
+@Misc{swietek,
+  author = {Rafał Świętek},
+  year   = {2020},
+  note   = {Bachelor's thesis},
+  owner  = {Swietek},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -1844,6 +1844,34 @@
       \verb 10.1039/c6cc07998a
       \endverb
     \endentry
+    \entry{limit}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6aec46235cb30a73b613e57e6815b001}{%
+           family={Shockley},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2ffb037a3714c923689997dc94a896af}{%
+           family={Queisser},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \strng{fullhash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \strng{bibnamehash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \strng{authorbibnamehash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \strng{authornamehash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \strng{authorfullhash}{8fd7f4164ff4efe42173d60f8a5e970b}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{title}{Detailed Balance Limit of Efficiency of p-n Junction Solar Cells}
+      \field{volume}{32}
+      \field{year}{1961}
+      \field{pages}{510\bibrangedash 519}
+      \range{pages}{10}
+    \endentry
     \entry{ShujuanHuangb22019}{article}{}
       \name{author}{2}{}{%
         {{hash=243bcf705b393911259da060d53bb7f1}{%
@@ -2555,6 +2583,7 @@
     \endentry
   \enddatalist
   \missing{princeton}
+  \missing{swietek}
 \endrefsection
 \endinput
 
