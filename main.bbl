@@ -57,6 +57,16 @@
       \verb pveducation.org
       \endverb
     \endentry
+    \entry{am}{misc}{}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \verb{urlraw}
+      \verb https://www2.pvlighthouse.com.au/resources/courses/altermatt/The%20Solar%20Spectrum/The%20global%20standard%20spectrum%20(AM1-5g).aspx
+      \endverb
+      \verb{url}
+      \verb https://www2.pvlighthouse.com.au/resources/courses/altermatt/The%20Solar%20Spectrum/The%20global%20standard%20spectrum%20(AM1-5g).aspx
+      \endverb
+    \endentry
     \entry{qd}{misc}{}
       \field{sortinit}{}
       \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}

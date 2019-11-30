@@ -974,4 +974,17 @@
   publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
 }
 
+@Article{Chuang2014,
+  author    = {Chia-Hao M. Chuang and Patrick R. Brown and Vladimir Bulovi{\'{c}} and Moungi G. Bawendi},
+  title     = {Improved performance and stability in quantum~dot solar cells through band alignment~engineering},
+  journal   = {Nature Materials},
+  year      = {2014},
+  volume    = {13},
+  number    = {8},
+  pages     = {796--801},
+  month     = {may},
+  doi       = {10.1038/nmat3984},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
