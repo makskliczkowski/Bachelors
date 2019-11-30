@@ -109,6 +109,28 @@
       \field{title}{Colloidal quantum dot solar cells}
       \field{year}{2015}
     \endentry
+    \entry{green}{book}{}
+      \name{author}{1}{}{%
+        {{hash=875c85cea9e09d36e81a7fe0dbf18403}{%
+           family={Aeberhard},
+           familyi={A\bibinitperiod},
+           given={Urs},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \strng{fullhash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \strng{bibnamehash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \strng{authorbibnamehash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \strng{authornamehash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \strng{authorfullhash}{875c85cea9e09d36e81a7fe0dbf18403}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{IEK-5 Photovoltaik, Forschungszentrum J¨ulich, 52425 J¨ulich, Germany}
+      \field{title}{Quantum-kinetic perspective on photovoltaic device operation in nanostructure-based solar cells}
+      \field{year}{2017}
+    \endentry
     \entry{Balazs2018}{article}{}
       \name{author}{7}{}{%
         {{hash=5c3257364c24cfa75e74f3b401512cff}{%
@@ -289,6 +311,55 @@
       \field{labelnamesource}{author}
       \field{journaltitle}{Chem. Commun}
       \field{year}{2012}
+    \endentry
+    \entry{Chuang2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=94edf155f7bcbcec16982e33c2c6da4f}{%
+           family={Chuang},
+           familyi={C\bibinitperiod},
+           given={Chia-Hao\bibnamedelima M.},
+           giveni={C\bibinithyphendelim H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47e5c130ab5b9dcfc2daf83c4ca978b7}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c6f01943868720c57be0c496889fefd1}{%
+           family={Bulovi{ć}},
+           familyi={B\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=3fd3b7d7c81654f84badac9cd1654071}{%
+           family={Bawendi},
+           familyi={B\bibinitperiod},
+           given={Moungi\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{a72a2df9ed9b5a22ef89c9c16d62a16b}
+      \strng{fullhash}{abe25377a575c3b71e51d3e4aa40c336}
+      \strng{bibnamehash}{a72a2df9ed9b5a22ef89c9c16d62a16b}
+      \strng{authorbibnamehash}{a72a2df9ed9b5a22ef89c9c16d62a16b}
+      \strng{authornamehash}{a72a2df9ed9b5a22ef89c9c16d62a16b}
+      \strng{authorfullhash}{abe25377a575c3b71e51d3e4aa40c336}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{5}
+      \field{number}{8}
+      \field{title}{Improved performance and stability in quantum~dot solar cells through band alignment~engineering}
+      \field{volume}{13}
+      \field{year}{2014}
+      \field{pages}{796\bibrangedash 801}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nmat3984
+      \endverb
     \endentry
     \entry{GavinCon}{article}{}
       \name{author}{1}{}{%
@@ -1644,6 +1715,29 @@
       \field{note}{Politechnika Wroclawska}
       \field{title}{Wykład II Fotoluminescencja}
     \endentry
+    \entry{planck}{article}{}
+      \name{author}{1}{}{%
+        {{hash=279aa12c3326f87c460aa4f31d18a065}{%
+           family={planck},
+           familyi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{279aa12c3326f87c460aa4f31d18a065}
+      \strng{fullhash}{279aa12c3326f87c460aa4f31d18a065}
+      \strng{bibnamehash}{279aa12c3326f87c460aa4f31d18a065}
+      \strng{authorbibnamehash}{279aa12c3326f87c460aa4f31d18a065}
+      \strng{authornamehash}{279aa12c3326f87c460aa4f31d18a065}
+      \strng{authorfullhash}{279aa12c3326f87c460aa4f31d18a065}
+      \field{sortinit}{p}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annalen der Physik}
+      \field{title}{Distribution of energy in the spectrum}
+      \field{volume}{4}
+      \field{year}{1901}
+      \field{pages}{553\bibrangedash 563}
+      \range{pages}{11}
+    \endentry
     \entry{phdsemi}{thesis}{}
       \name{author}{1}{}{%
         {{hash=74d89a1cdedc1f874669ab6f3be81b86}{%
@@ -1925,6 +2019,26 @@
       \field{journaltitle}{Nano Convergence}
       \field{title}{Colloidal quantum dot based solar cells: from materials to devices}
       \field{year}{2017}
+    \endentry
+    \entry{swietek}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8c3298ef722ddef0e4dab3931fe2cb70}{%
+           family={Świętek},
+           familyi={Ś\bibinitperiod},
+           given={Rafał},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \strng{fullhash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \strng{bibnamehash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \strng{authorbibnamehash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \strng{authornamehash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \strng{authorfullhash}{8c3298ef722ddef0e4dab3931fe2cb70}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{note}{Bachelor's thesis}
+      \field{year}{2020}
     \endentry
     \entry{sze}{book}{}
       \name{author}{1}{}{%
@@ -2459,6 +2573,45 @@
       \field{title}{Solvent Engineering for High-Performance PbS Quantum Dots Solar Cells}
       \field{year}{2017}
     \endentry
+    \entry{Zekry1996}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ffe27e1ef6f44db64e433bda825fab41}{%
+           family={Zekry},
+           familyi={Z\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=402139ef2636a0e56acd875eddc61caf}{%
+           family={Al-Mazroo},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={A.Y.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{923b5b248ca6561c09a98e836ad47547}
+      \strng{fullhash}{923b5b248ca6561c09a98e836ad47547}
+      \strng{bibnamehash}{923b5b248ca6561c09a98e836ad47547}
+      \strng{authorbibnamehash}{923b5b248ca6561c09a98e836ad47547}
+      \strng{authornamehash}{923b5b248ca6561c09a98e836ad47547}
+      \strng{authorfullhash}{923b5b248ca6561c09a98e836ad47547}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Electron Devices}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{A distributed {SPICE}-model of a solar cell}
+      \field{volume}{43}
+      \field{year}{1996}
+      \field{pages}{691\bibrangedash 700}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/16.491244
+      \endverb
+    \endentry
     \entry{Zhang2015}{article}{}
       \name{author}{4}{}{%
         {{hash=42707036474ba48d90cb99d5e717d5a2}{%
@@ -2583,7 +2736,6 @@
     \endentry
   \enddatalist
   \missing{princeton}
-  \missing{swietek}
 \endrefsection
 \endinput
 

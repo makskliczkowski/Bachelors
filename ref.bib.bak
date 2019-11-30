@@ -925,7 +925,7 @@
   pages   = {510-519},
 }
 
-@Book{limit,
+@Book{Kirchartz2009,
   title     = {Generalized detailed balance theory of solar cells},
   publisher = {Forschungszentrum Jülich GmbH, Institute of Energy Research (IEF), Photovoltaics (IEF-5)},
   year      = {2009},
@@ -943,6 +943,35 @@
   year   = {2020},
   note   = {Bachelor's thesis},
   owner  = {Swietek},
+}
+
+@Article{planck,
+  author  = {planck},
+  title   = {Distribution of energy in the spectrum},
+  journal = {Annalen der Physik},
+  year    = {1901},
+  volume  = {4},
+  pages   = {553-563},
+}
+
+@Book{green,
+  title  = {Quantum-kinetic perspective on photovoltaic device operation in nanostructure-based solar cells},
+  year   = {2017},
+  author = {Urs Aeberhard},
+  note   = {IEK-5 Photovoltaik, Forschungszentrum J¨ulich, 52425 J¨ulich, Germany},
+}
+
+@Article{Zekry1996,
+  author    = {A. Zekry and A.Y. Al-Mazroo},
+  title     = {A distributed {SPICE}-model of a solar cell},
+  journal   = {{IEEE} Transactions on Electron Devices},
+  year      = {1996},
+  volume    = {43},
+  number    = {5},
+  pages     = {691--700},
+  month     = {may},
+  doi       = {10.1109/16.491244},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

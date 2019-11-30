@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.5)  14 NOV 2019 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.5)  30 NOV 2019 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,13 +1119,6 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                swietek
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
 )
 Package biblatex Info: Reference section=0 on input line 65.
 Package biblatex Info: Reference segment=0 on input line 65.
@@ -1141,9 +1134,15 @@ Package pdftex.def Info: images/logopwr.pdf  used on input line 5.
 logopwr.pdf>]
 File: images/logopwr.pdf Graphic file (type pdf)
 <use images/logopwr.pdf>
-Package pdftex.def Info: images/logopwr.pdf  used on input line 34.
+Package pdftex.def Info: images/logopwr.pdf  used on input line 35.
 (pdftex.def)             Requested size: 426.79134pt x 93.5487pt.
-) [2] [3]
+) [2]
+Overfull \hbox (1.42644pt too wide) in paragraph at lines 80--81
+\OT4/cmr/m/n/12 trak-towanie pracy jako krótkiego przegl¡du obec-nego roz-woju 
+tech-nologii zwiazanych
+ []
+
+[3]
 <images/turtle.png, id=222, 737.75626pt x 501.37312pt>
 File: images/turtle.png Graphic file (type png)
 <use images/turtle.png>
@@ -1155,11 +1154,11 @@ Package pdftex.def Info: images/turtle.png  used on input line 86.
 
 ] [6
 
-]
-(./main.toc
+] (./main.toc
 LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
 2.
- (d:/LATEX/texlive/2019/texmf-dist/tex/latex/polski/omlplm.fd
+
+(d:/LATEX/texlive/2019/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
@@ -1229,23 +1228,19 @@ Chapter 1.
 [12
 
 ]
-<images/global-primary-energy.pdf, id=450, 682.55pt x 481.8pt>
+<images/global-primary-energy.pdf, id=482, 682.55pt x 481.8pt>
 File: images/global-primary-energy.pdf Graphic file (type pdf)
 <use images/global-primary-energy.pdf>
-Package pdftex.def Info: images/global-primary-energy.pdf  used on input line 5
-0.
+Package pdftex.def Info: images/global-primary-energy.pdf  used on input line 4
+9.
 (pdftex.def)             Requested size: 256.0774pt x 180.76277pt.
-<images/annual.png, id=457, 903.375pt x 347.2975pt>
+<images/annual.png, id=489, 903.375pt x 347.2975pt>
 File: images/annual.png Graphic file (type png)
 <use images/annual.png>
-Package pdftex.def Info: images/annual.png  used on input line 78.
+Package pdftex.def Info: images/annual.png  used on input line 77.
 (pdftex.def)             Requested size: 426.79134pt x 164.07773pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13 <./images/global-primary-energy.pdf>]) (./chapters/ch2.tex [14 <./images/an
-nual.png>]
+ [13 <./images/global-primary-energy.pdf>]) (./chapters/ch2.tex [14 <./images/a
+nnual.png>]
 Chapter 2.
 (./chapters/ch2/1.tex [15
 
@@ -1253,104 +1248,104 @@ Chapter 2.
 n.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \begin{equation}
+l.144 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \begin{equation}
+l.144 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \begin{equation}
+l.144 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146 \begin{equation}
+l.144 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \begin{equation}
+l.153 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \begin{equation}
+l.157 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \begin{equation}
+l.157 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \begin{equation}
+l.157 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \begin{equation}
+l.157 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 \begin{equation}
+l.162 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 \begin{equation}
+l.162 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 \begin{equation}
+l.162 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.164 \begin{equation}
+l.162 \begin{equation}
                        [17]pdfTeX warning (ext4): destination with the same ide
 ntifier (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.185 \begin{equation}
+l.183 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.185 \begin{equation}
+l.183 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.185 \begin{equation}
+l.183 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.185 \begin{equation}
+l.183 \begin{equation}
                       ) (./chapters/ch2/2.tex
-<images/Con_temp.pdf, id=529, 597.50786pt x 845.04686pt>
+<images/Con_temp.pdf, id=561, 597.50786pt x 845.04686pt>
 File: images/Con_temp.pdf Graphic file (type pdf)
 <use images/Con_temp.pdf>
 Package pdftex.def Info: images/Con_temp.pdf  used on input line 9.
@@ -1364,8 +1359,28 @@ Overfull \hbox (1.42644pt too wide) in paragraph at lines 18--19
 ely in-stan-ta-neous events
  []
 
-[19 <./images/Con_temp.pdf>] [20]
-<images/ch2/bands.png, id=565, 193.47281pt x 225.84375pt>
+[19 <./images/Con_temp.pdf>] [20]pdfTeX warning (ext4): destination with the sa
+me identifier (name{equation.2.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.2.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \begin{equation}
+                     
+<images/ch2/bands.png, id=597, 193.47281pt x 225.84375pt>
 File: images/ch2/bands.png Graphic file (type png)
 <use images/ch2/bands.png>
 Package pdftex.def Info: images/ch2/bands.png  used on input line 72.
@@ -1390,15 +1405,9 @@ r (name{equation.2.2.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.87 \begin{equation}
-                      [21pdfTeX warning (ext4): destination with the same ident
-ifier (name{equation.2.2.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.89 \end{equation}
-                    <./images/ch2/bands.png>]pdfTeX warning (ext4): destination
- with the same identifier (name{equation.2.2.1}) has been already used, duplica
-te ignored
+                      [21 <./images/ch2/bands.png>]pdfTeX warning (ext4): desti
+nation with the same identifier (name{equation.2.2.1}) has been already used, d
+uplicate ignored
 <to be read again> 
                    \relax 
 l.97 \begin{equation}
@@ -1478,17 +1487,17 @@ er (name{equation.2.2.4}) has been already used, duplicate ignored
                    \relax 
 l.115 \begin{equation}
                        [22]
-<images/ch2/DOS.png, id=580, 451.6875pt x 236.885pt>
+<images/ch2/DOS.png, id=613, 677.53125pt x 355.3275pt>
 File: images/ch2/DOS.png Graphic file (type png)
 <use images/ch2/DOS.png>
 Package pdftex.def Info: images/ch2/DOS.png  used on input line 155.
-(pdftex.def)             Requested size: 298.75262pt x 156.68796pt.
-<images/ch2/intrin.png, id=584, 235.63031pt x 182.93344pt>
+(pdftex.def)             Requested size: 298.75262pt x 156.68073pt.
+<images/ch2/intrin.png, id=617, 235.63031pt x 182.93344pt>
 File: images/ch2/intrin.png Graphic file (type png)
 <use images/ch2/intrin.png>
 Package pdftex.def Info: images/ch2/intrin.png  used on input line 163.
 (pdftex.def)             Requested size: 298.75262pt x 231.94325pt.
-<images/ch2/dban.png, id=587, 376.40625pt x 134.75343pt>
+<images/ch2/dban.png, id=620, 376.40625pt x 134.75343pt>
 File: images/ch2/dban.png Graphic file (type png)
 <use images/ch2/dban.png>
 Package pdftex.def Info: images/ch2/dban.png  used on input line 177.
@@ -1560,7 +1569,7 @@ er (name{equation.2.2.3}) has been already used, duplicate ignored
                    \relax 
 l.209 \begin{equation}
                       
-<images/ch2/afield.png, id=604, 628.59843pt x 280.79906pt>
+<images/ch2/afield.png, id=637, 628.59843pt x 280.79906pt>
 File: images/ch2/afield.png Graphic file (type png)
 <use images/ch2/afield.png>
 Package pdftex.def Info: images/ch2/afield.png  used on input line 217.
@@ -1706,7 +1715,7 @@ er (name{equation.2.2.4}) has been already used, duplicate ignored
                    \relax 
 l.278 \begin{equation}
                       
-<images/ch2/pn.png, id=626, 343.0416pt x 614.7768pt>
+<images/ch2/pn.png, id=658, 343.0416pt x 614.7768pt>
 File: images/ch2/pn.png Graphic file (type png)
 <use images/ch2/pn.png>
 Package pdftex.def Info: images/ch2/pn.png  used on input line 286.
@@ -1785,13 +1794,13 @@ l.71
                                                   \fi \fi 
 l.71 
      ]
-<images/ch2/exciton.png, id=651, 382.42876pt x 204.01219pt>
+<images/ch2/exciton.png, id=683, 382.42876pt x 204.01219pt>
 File: images/ch2/exciton.png Graphic file (type png)
 <use images/ch2/exciton.png>
 Package pdftex.def Info: images/ch2/exciton.png  used on input line 92.
 (pdftex.def)             Requested size: 256.0774pt x 136.61584pt.
  [31 <./images/ch2/exciton.png>]
-<images/ch2/fluorescencediagram.png, id=661, 180.675pt x 271.76532pt>
+<images/ch2/fluorescencediagram.png, id=693, 180.675pt x 271.76532pt>
 File: images/ch2/fluorescencediagram.png Graphic file (type png)
 <use images/ch2/fluorescencediagram.png>
 Package pdftex.def Info: images/ch2/fluorescencediagram.png  used on input line
@@ -1803,7 +1812,7 @@ Underfull \hbox (badness 5217) in paragraph at lines 110--110
 ent dur-ing
  []
 
-<images/ch2/recom.png, id=663, 441.14813pt x 215.30438pt>
+<images/ch2/recom.png, id=695, 441.14813pt x 215.30438pt>
 File: images/ch2/recom.png Graphic file (type png)
 <use images/ch2/recom.png>
 Package pdftex.def Info: images/ch2/recom.png  used on input line 119.
@@ -1870,7 +1879,7 @@ er (name{equation.2.3.2}) has been already used, duplicate ignored
                    \relax 
 l.142 \begin{equation}
                        [33]
-<images/ch2/energies.png, id=677, 492.33937pt x 359.84438pt>
+<images/ch2/energies.png, id=709, 492.33937pt x 359.84438pt>
 File: images/ch2/energies.png Graphic file (type png)
 <use images/ch2/energies.png>
 Package pdftex.def Info: images/ch2/energies.png  used on input line 161.
@@ -1960,142 +1969,159 @@ l.197 \begin{equation}
 
 LaTeX Warning: Reference `pv' on page 35 undefined on input line 1.
 
-[35]
-
-LaTeX Warning: Citation 'planck' on page 36 undefined on input line 30.
-
-<images/ch2/QE.png, id=698, 518.93875pt x 355.3275pt>
+[35]pdfTeX warning (ext4): destination with the same identifier (name{equation.
+2.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.2.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \begin{equation}
+                     
+<images/ch2/QE.png, id=731, 518.93875pt x 355.3275pt>
 File: images/ch2/QE.png Graphic file (type png)
 <use images/ch2/QE.png>
-Package pdftex.def Info: images/ch2/QE.png  used on input line 46.
+Package pdftex.def Info: images/ch2/QE.png  used on input line 51.
 (pdftex.def)             Requested size: 256.0774pt x 175.34818pt.
-[36 <./images/ch2/QE.png (PNG copy)>]pdfTeX warning (ext4): destination with th
-e same identifier (name{equation.2.4.1}) has been already used, duplicate ignor
-ed
+ [36]pdfTeX warning (ext4): destination with the same identifier (name{equation
+.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \begin{equation}
+l.81 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \begin{equation}
+l.81 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \begin{equation}
+l.81 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \begin{equation}
-                      [37]pdfTeX warning (ext4): destination with the same iden
-tifier (name{equation.2.4.2}) has been already used, duplicate ignored
+l.81 \begin{equation}
+                      [37 <./images/ch2/QE.png (PNG copy)>]pdfTeX warning (ext4
+): destination with the same identifier (name{equation.2.4.2}) has been already
+ used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 \begin{equation}
+l.91 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 \begin{equation}
+l.91 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 \begin{equation}
+l.91 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.86 \begin{equation}
+l.91 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \begin{equation}
+l.109 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \begin{equation}
+l.109 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \begin{equation}
+l.109 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104 \begin{equation}
+l.109 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \begin{equation}
+l.115 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \begin{equation}
+l.115 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \begin{equation}
+l.115 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \begin{equation}
+l.115 \begin{equation}
                       
 
-LaTeX Warning: Reference `fig:AM15' on page 38 undefined on input line 114.
+LaTeX Warning: Reference `fig:AM15' on page 38 undefined on input line 119.
 
 [38]
-<images/ch2/am15.png, id=720, 267.24844pt x 172.39406pt>
+<images/ch2/am15.png, id=755, 267.24844pt x 172.39406pt>
 File: images/ch2/am15.png Graphic file (type png)
 <use images/ch2/am15.png>
-Package pdftex.def Info: images/ch2/am15.png  used on input line 118.
+Package pdftex.def Info: images/ch2/am15.png  used on input line 123.
 (pdftex.def)             Requested size: 362.77524pt x 234.03981pt.
 
 
-LaTeX Warning: Reference `am' on page 39 undefined on input line 119.
+LaTeX Warning: Reference `am' on page 39 undefined on input line 124.
 
 
-LaTeX Warning: Reference `am' on page 39 undefined on input line 119.
+LaTeX Warning: Reference `am' on page 39 undefined on input line 124.
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.4.
 1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 \begin{equation}
+l.142 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 \begin{equation}
+l.142 \begin{equation}
                        [39 <./images/ch2/am15.png>]) (./chapters/ch2/6.tex
-<images/ch2/colQD.png, id=728, 963.6pt x 879.285pt>
+<images/ch2/colQD.png, id=763, 963.6pt x 879.285pt>
 File: images/ch2/colQD.png Graphic file (type png)
 <use images/ch2/colQD.png>
 Package pdftex.def Info: images/ch2/colQD.png  used on input line 17.
 (pdftex.def)             Requested size: 170.71393pt x 155.76895pt.
 
 [40 <./images/ch2/colQD.png>]
-<images/ch2/Core_shell_types.png, id=743, 509.905pt x 141.52875pt>
+<images/ch2/Core_shell_types.png, id=777, 509.905pt x 141.52875pt>
 File: images/ch2/Core_shell_types.png Graphic file (type png)
 <use images/ch2/Core_shell_types.png>
 Package pdftex.def Info: images/ch2/Core_shell_types.png  used on input line 38
@@ -2106,22 +2132,17 @@ Package pdftex.def Info: images/ch2/Core_shell_types.png  used on input line 38
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [41]
-<images/ch2/confstru.png, id=759, 1017.8025pt x 379.4175pt>
+<images/ch2/confstru.png, id=793, 1017.8025pt x 379.4175pt>
 File: images/ch2/confstru.png Graphic file (type png)
 <use images/ch2/confstru.png>
 Package pdftex.def Info: images/ch2/confstru.png  used on input line 55.
 (pdftex.def)             Requested size: 426.79134pt x 159.09952pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[42 <./images/ch2/Core_shell_types.png>]
-Overfull \hbox (27.23643pt too wide) in paragraph at lines 70--70
+ [42 <./images/ch2/Core_shell_types.png>] [43 <./images/ch2/confstru.png>]
+Overfull \hbox (27.23643pt too wide) in paragraph at lines 71--71
 []\OT4/cmr/bx/n/14.4 MATERIALS AND PER-FOR-MANCE DE-VEL-OP-MENT
  []
 
-[43 <./images/ch2/confstru.png>] [44] [45] [46] [47])) (./chapters/ch3.tex
-[48]
+[44] [45] [46] [47])) (./chapters/ch3.tex [48]
 Chapter 3.
 (./chapters/ch3/1.tex [49
 
@@ -2131,12 +2152,12 @@ Overfull \hbox (14.86217pt too wide) in paragraph at lines 6--6
  []
 
 (./chapters/ch3/2.tex
-<images/ch3/sono.jpg, id=914, 722.7pt x 963.6pt>
+<images/ch3/sono.jpg, id=948, 722.7pt x 963.6pt>
 File: images/ch3/sono.jpg Graphic file (type jpg)
 <use images/ch3/sono.jpg>
 Package pdftex.def Info: images/ch3/sono.jpg  used on input line 10.
 (pdftex.def)             Requested size: 170.71718pt x 227.6223pt.
-<images/ch3/uv.jpg, id=915, 722.7pt x 963.6pt>
+<images/ch3/uv.jpg, id=949, 722.7pt x 963.6pt>
 File: images/ch3/uv.jpg Graphic file (type jpg)
 <use images/ch3/uv.jpg>
 Package pdftex.def Info: images/ch3/uv.jpg  used on input line 15.
@@ -2146,12 +2167,12 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 8--18
 []$[]$ $[]$ 
  []
 
-<images/ch3/glovebox.jpg, id=916, 722.7pt x 963.6pt>
+<images/ch3/glovebox.jpg, id=950, 722.7pt x 963.6pt>
 File: images/ch3/glovebox.jpg Graphic file (type jpg)
 <use images/ch3/glovebox.jpg>
 Package pdftex.def Info: images/ch3/glovebox.jpg  used on input line 29.
 (pdftex.def)             Requested size: 170.71718pt x 227.6223pt.
-<images/ch3/spincoater.jpg, id=917, 722.7pt x 963.6pt>
+<images/ch3/spincoater.jpg, id=951, 722.7pt x 963.6pt>
 File: images/ch3/spincoater.jpg Graphic file (type jpg)
 <use images/ch3/spincoater.jpg>
 Package pdftex.def Info: images/ch3/spincoater.jpg  used on input line 34.
@@ -2162,12 +2183,12 @@ Overfull \hbox (2.61107pt too wide) in paragraph at lines 27--38
  []
 
 
-Underfull \vbox (badness 1082) has occurred while \output is active []
+Underfull \vbox (badness 1014) has occurred while \output is active []
 
  [50]
 [51 <./images/ch3/sono.jpg> <./images/ch3/uv.jpg> <./images/ch3/glovebox.jpg> <
 ./images/ch3/spincoater.jpg>]
-<images/ch3/sputter.png, id=926, 335.75438pt x 195.73125pt>
+<images/ch3/sputter.png, id=960, 335.75438pt x 195.73125pt>
 File: images/ch3/sputter.png Graphic file (type png)
 <use images/ch3/sputter.png>
 Package pdftex.def Info: images/ch3/sputter.png  used on input line 49.
@@ -2187,7 +2208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--50
 \OT4/cmr/m/n/12 / / www . wikiwand . com / en /
  []
 
-<images/ch3/napylara.jpg, id=929, 722.7pt x 963.6pt>
+<images/ch3/napylara.jpg, id=963, 722.7pt x 963.6pt>
 File: images/ch3/napylara.jpg Graphic file (type jpg)
 <use images/ch3/napylara.jpg>
 Package pdftex.def Info: images/ch3/napylara.jpg  used on input line 57.
@@ -2196,225 +2217,283 @@ Package pdftex.def Info: images/ch3/napylara.jpg  used on input line 57.
 g>]
 Chapter 4.
 (./chapters/ch4/1.tex
-<images/ch5/Pbs-QDs1st_emm.png, id=937, 492.33937pt x 367.3725pt>
+<images/ch5/Pbs-QDs1st_emm.png, id=971, 492.33937pt x 367.3725pt>
 File: images/ch5/Pbs-QDs1st_emm.png Graphic file (type png)
 <use images/ch5/Pbs-QDs1st_emm.png>
-Package pdftex.def Info: images/ch5/Pbs-QDs1st_emm.png  used on input line 8.
-(pdftex.def)             Requested size: 234.73653pt x 175.15399pt.
-
-Underfull \hbox (badness 1009) in paragraph at lines 11--12
-\OT4/cmr/m/n/12 struc-tured so-lar cells, cre-at-ing a
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 11--12
-\OT4/cmr/m/n/12 nu-mer-ous vari-a-tions of junc-tions
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 11--12
-\OT4/cmr/m/n/12 (EDT) were used. Lig-ands from
- []
-
-[53
+Package pdftex.def Info: images/ch5/Pbs-QDs1st_emm.png  used on input line 3.
+(pdftex.def)             Requested size: 298.75262pt x 222.93091pt.
+ [53
 
  <./images/ch5/Pbs-QDs1st_emm.png>]
-<images/ch5/3DStruct.png, id=947, 697.6464pt x 434.1018pt>
-File: images/ch5/3DStruct.png Graphic file (type png)
-<use images/ch5/3DStruct.png>
-Package pdftex.def Info: images/ch5/3DStruct.png  used on input line 20.
-(pdftex.def)             Requested size: 298.75262pt x 185.89839pt.
-<images/ch5/STRUCTURE.png, id=948, 503.9628pt x 375.804pt>
-File: images/ch5/STRUCTURE.png Graphic file (type png)
-<use images/ch5/STRUCTURE.png>
-Package pdftex.def Info: images/ch5/STRUCTURE.png  used on input line 27.
-(pdftex.def)             Requested size: 256.0774pt x 190.96365pt.
+<images/ch5/synth/Abs002.pdf, id=981, 774.895pt x 593.21625pt>
+File: images/ch5/synth/Abs002.pdf Graphic file (type pdf)
+<use images/ch5/synth/Abs002.pdf>
+Package pdftex.def Info: images/ch5/synth/Abs002.pdf  used on input line 18.
+(pdftex.def)             Requested size: 298.75262pt x 228.7103pt.
+<images/ch5/synth/PL002.pdf, id=982, 774.895pt x 593.21625pt>
+File: images/ch5/synth/PL002.pdf Graphic file (type pdf)
+<use images/ch5/synth/PL002.pdf>
+Package pdftex.def Info: images/ch5/synth/PL002.pdf  used on input line 26.
+(pdftex.def)             Requested size: 298.75262pt x 228.7103pt.
+ [54] [55 <./images/ch5/synth/Abs002.pdf> <./images/ch5/synth/PL002.pdf
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54 <./images/ch5/3DStruct.png>]
-<images/ch5/IstSC.jpg, id=955, 2919.90875pt x 1732.4725pt>
+pdfTeX warning: pdflatex.exe (file ./images/ch5/synth/PL002.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>]
+<images/ch5/afm.png, id=1020, 1134.48843pt x 678.28406pt>
+File: images/ch5/afm.png Graphic file (type png)
+<use images/ch5/afm.png>
+Package pdftex.def Info: images/ch5/afm.png  used on input line 47.
+(pdftex.def)             Requested size: 426.79134pt x 255.16318pt.
+<images/ch5/IstSC.jpg, id=1021, 2919.90875pt x 1732.4725pt>
 File: images/ch5/IstSC.jpg Graphic file (type jpg)
 <use images/ch5/IstSC.jpg>
-Package pdftex.def Info: images/ch5/IstSC.jpg  used on input line 37.
-(pdftex.def)             Requested size: 256.0774pt x 151.92406pt.
- [55 <./images/ch5/IstSC.jpg> <./images/ch5/STRUCTURE.png>]
-<images/ch5/bb1stco.png, id=962, 410.2828pt x 304.13625pt>
+Package pdftex.def Info: images/ch5/IstSC.jpg  used on input line 53.
+(pdftex.def)             Requested size: 320.09349pt x 189.91168pt.
+ [56 <./images/ch5/IstSC.jpg> <./images/ch5/afm.png>]
+<images/ch5/bb1stco.png, id=1028, 410.2828pt x 304.13625pt>
 File: images/ch5/bb1stco.png Graphic file (type png)
 <use images/ch5/bb1stco.png>
-Package pdftex.def Info: images/ch5/bb1stco.png  used on input line 47.
-(pdftex.def)             Requested size: 192.0548pt x 142.36395pt.
+Package pdftex.def Info: images/ch5/bb1stco.png  used on input line 64.
+(pdftex.def)             Requested size: 345.69994pt x 256.26163pt.
 
-Underfull \hbox (badness 1127) in paragraph at lines 53--56
-\OT4/cmr/m/n/12 sump-tions were made. From the photo-
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 53--56
-\OT4/cmr/m/n/12 cal-cu-late the $\OML/plm/m/it/12 P[]$\OT4/cmr/m/n/12 -power on
- the de-tec-tor.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
-[56 <./images/ch5/bb1stco.png>]
-<images/ch5/GHZOPT.jpg, id=974, 630.355pt x 521.95pt>
+[57 <./images/ch5/bb1stco.png>]
+<images/ch5/GHZOPT.jpg, id=1036, 630.355pt x 521.95pt>
 File: images/ch5/GHZOPT.jpg Graphic file (type jpg)
 <use images/ch5/GHZOPT.jpg>
-Package pdftex.def Info: images/ch5/GHZOPT.jpg  used on input line 118.
+Package pdftex.def Info: images/ch5/GHZOPT.jpg  used on input line 132.
 (pdftex.def)             Requested size: 341.43436pt x 282.7169pt.
-<images/ch5/istQDiv.png, id=976, 521.69907pt x 387.69844pt>
+ [58 <./images/ch5/GHZOPT.jpg>]
+<images/ch5/istQDiv.png, id=1049, 521.69907pt x 387.69844pt>
 File: images/ch5/istQDiv.png Graphic file (type png)
 <use images/ch5/istQDiv.png>
-Package pdftex.def Info: images/ch5/istQDiv.png  used on input line 139.
+Package pdftex.def Info: images/ch5/istQDiv.png  used on input line 153.
 (pdftex.def)             Requested size: 194.48946pt x 144.53467pt.
-<images/ch5/istVIMiv.png, id=977, 563.85657pt x 386.94562pt>
+<images/ch5/istVIMiv.png, id=1050, 563.85657pt x 386.94562pt>
 File: images/ch5/istVIMiv.png Graphic file (type png)
 <use images/ch5/istVIMiv.png>
-Package pdftex.def Info: images/ch5/istVIMiv.png  used on input line 145.
+Package pdftex.def Info: images/ch5/istVIMiv.png  used on input line 159.
 (pdftex.def)             Requested size: 209.1301pt x 143.51599pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[57 <./images/ch5/GHZOPT.jpg>] [58 <./images/ch5/istQDiv.png> <./images/ch5/ist
-VIMiv.png>]
-<images/ch5/spectra_schem.jpg, id=995, 722.7pt x 963.6pt>
+ [59 <./images/ch5/istQDiv.png> <./images/ch5/istVIMiv.png>]
+<images/ch5/spectra_schem.jpg, id=1062, 722.7pt x 963.6pt>
 File: images/ch5/spectra_schem.jpg Graphic file (type jpg)
 <use images/ch5/spectra_schem.jpg>
-Package pdftex.def Info: images/ch5/spectra_schem.jpg  used on input line 226.
+Package pdftex.def Info: images/ch5/spectra_schem.jpg  used on input line 236.
 (pdftex.def)             Requested size: 213.39566pt x 284.5242pt.
-<images/ch5/steps1.png, id=997, 733.2996pt x 290.5254pt>
-File: images/ch5/steps1.png Graphic file (type png)
-<use images/ch5/steps1.png>
-Package pdftex.def Info: images/ch5/steps1.png  used on input line 234.
-(pdftex.def)             Requested size: 426.79134pt x 169.09001pt.
+ [60 <./images/ch5/spectra_schem.jpg>]
+<images/ch5/STRUCTURE.png, id=1067, 503.9628pt x 375.804pt>
+File: images/ch5/STRUCTURE.png Graphic file (type png)
+<use images/ch5/STRUCTURE.png>
+Package pdftex.def Info: images/ch5/STRUCTURE.png  used on input line 248.
+(pdftex.def)             Requested size: 384.10959pt x 286.43974pt.
+<images/ch5/wygrzewa.jpg, id=1071, 722.7pt x 963.6pt>
+File: images/ch5/wygrzewa.jpg Graphic file (type jpg)
+<use images/ch5/wygrzewa.jpg>
+Package pdftex.def Info: images/ch5/wygrzewa.jpg  used on input line 257.
+(pdftex.def)             Requested size: 234.73653pt x 312.97514pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59 <./images/ch5/spectra_schem.jpg>]
-<images/ch5/wygrzewa.jpg, id=1002, 722.7pt x 963.6pt>
-File: images/ch5/wygrzewa.jpg Graphic file (type jpg)
-<use images/ch5/wygrzewa.jpg>
-Package pdftex.def Info: images/ch5/wygrzewa.jpg  used on input line 243.
-(pdftex.def)             Requested size: 128.0387pt x 170.7204pt.
-)) (./chapters/ch5.tex [60 <./images/ch5/wygrzewa.jpg> <./images/ch5/steps1.png
+ [61 <./images/ch5/STRUCTURE.png>]
+<images/ch5/3DStruct.png, id=1078, 697.6464pt x 434.1018pt>
+File: images/ch5/3DStruct.png Graphic file (type png)
+<use images/ch5/3DStruct.png>
+Package pdftex.def Info: images/ch5/3DStruct.png  used on input line 263.
+(pdftex.def)             Requested size: 384.10959pt x 239.00844pt.
+<images/ch5/PBS-lumi.pdf, id=1080, 817.0525pt x 574.145pt>
+File: images/ch5/PBS-lumi.pdf Graphic file (type pdf)
+<use images/ch5/PBS-lumi.pdf>
+Package pdftex.def Info: images/ch5/PBS-lumi.pdf  used on input line 271.
+(pdftex.def)             Requested size: 384.10959pt x 269.91827pt.
+ [62 <./images/ch5/3DStruct.png> <./images/ch5/wygrzewa.jpg>]
+<images/ch5/steps1.png, id=1086, 733.2996pt x 290.5254pt>
+File: images/ch5/steps1.png Graphic file (type png)
+<use images/ch5/steps1.png>
+Package pdftex.def Info: images/ch5/steps1.png  used on input line 279.
+(pdftex.def)             Requested size: 426.79134pt x 169.09001pt.
+<images/ch5/First ever.pdf, id=1088, 845.1575pt x 598.235pt>
+File: images/ch5/First ever.pdf Graphic file (type pdf)
+<use images/ch5/First ever.pdf>
+Package pdftex.def Info: images/ch5/First ever.pdf  used on input line 288.
+(pdftex.def)             Requested size: 384.10959pt x 271.89612pt.
+<images/ch5/Dark.pdf, id=1089, 845.1575pt x 598.235pt>
+File: images/ch5/Dark.pdf Graphic file (type pdf)
+<use images/ch5/Dark.pdf>
+Package pdftex.def Info: images/ch5/Dark.pdf  used on input line 297.
+(pdftex.def)             Requested size: 354.23758pt x 250.74579pt.
+<images/ch5/Logarithmic Dark.pdf, id=1090, 845.1575pt x 598.235pt>
+File: images/ch5/Logarithmic Dark.pdf Graphic file (type pdf)
+<use images/ch5/Logarithmic Dark.pdf>
+Package pdftex.def Info: images/ch5/Logarithmic Dark.pdf  used on input line 30
+5.
+(pdftex.def)             Requested size: 354.23758pt x 250.74579pt.
+ [63 <./images/ch5/PBS-lumi.pdf> <./images/ch5/steps1.png>]
+<images/ch5/Graph6.pdf, id=1109, 845.1575pt x 598.235pt>
+File: images/ch5/Graph6.pdf Graphic file (type pdf)
+<use images/ch5/Graph6.pdf>
+Package pdftex.def Info: images/ch5/Graph6.pdf  used on input line 317.
+(pdftex.def)             Requested size: 392.64725pt x 277.93906pt.
+
+Overfull \hbox (21.57338pt too wide) in paragraph at lines 326--338
+ [][] 
+ []
+
+<images/ch5/Graph3.pdf, id=1111, 845.1575pt x 598.235pt>
+File: images/ch5/Graph3.pdf Graphic file (type pdf)
+<use images/ch5/Graph3.pdf>
+Package pdftex.def Info: images/ch5/Graph3.pdf  used on input line 343.
+(pdftex.def)             Requested size: 426.79134pt x 302.10172pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./images/ch5/First ever.pdf>] [65 <./images/ch5/Dark.pdf> <./images/ch5/L
+ogarithmic Dark.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/ch5/Logarithmic Dark.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
 >]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [66 <./images/ch5/Graph6.pdf> <./images/ch5/Graph3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./images/ch5/Graph3.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>]
+<images/ch5/Jdens.pdf, id=1199, 845.1575pt x 598.235pt>
+File: images/ch5/Jdens.pdf Graphic file (type pdf)
+<use images/ch5/Jdens.pdf>
+Package pdftex.def Info: images/ch5/Jdens.pdf  used on input line 352.
+(pdftex.def)             Requested size: 426.79134pt x 302.10172pt.
+) (./chapters/ch4/2.tex) [67 <./images/ch5/Jdens.pdf>]) (./chapters/ch6.tex
+[68]
 Chapter 5.
-) (./chapters/ch6.tex [61
+(./chapters/ch6/1.tex)) [69
+
+] [70
 
 ]
-Chapter 6.
-) [62
-
-] [63
-
-]
-Overfull \hbox (7.85205pt too wide) in paragraph at lines 129--129
+Overfull \hbox (7.85205pt too wide) in paragraph at lines 127--127
 []\OT4/cmr/m/n/12 Ryan M. France Matthew O. Reese San-jini U. Nanayakkara Bradl
 ey A. MacLeod
  []
 
 
-Overfull \hbox (18.83606pt too wide) in paragraph at lines 129--129
+Overfull \hbox (18.83606pt too wide) in paragraph at lines 127--127
 []\OT4/cmr/m/it/12 https://ourworldindata.org/energy-production-and-changing-en
 ergy-sources\OT4/cmr/m/n/12 . 2019. 
  []
 
-[64]
-Overfull \hbox (21.40298pt too wide) in paragraph at lines 129--129
+[71]
+Overfull \hbox (21.40298pt too wide) in paragraph at lines 127--127
 \OT4/cmr/m/n/12 Ed-ward H. Sar-gent Mingjian Yuan Hui Li and Yu-liang Li Zhi-we
 n Jin. \  Graphdiyne:
  []
 
-
-Overfull \hbox (3.69969pt too wide) in paragraph at lines 129--129
+[72]
+Overfull \hbox (3.69969pt too wide) in paragraph at lines 127--127
 []\OT4/cmr/m/n/12 Ewa Placzek-Popko. \  Wykªad II Fo-to-lu-mi-nes-cencja". Po-l
 itech-nika Wro-clawska. 
  []
 
-[65] [66]
-Overfull \hbox (26.3312pt too wide) in paragraph at lines 129--129
+[73]
+Overfull \hbox (26.3312pt too wide) in paragraph at lines 127--127
 []\OT4/cmr/m/n/12 Huihui Zhang et al. \  Re-cent ad-vances of crit-i-cal ma-te-
 ri-als in quan-tum dot{sensitized
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-[67]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+[74]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 85D73D296F19003D2DEEB7413CCF6F02;3614.
+(rerunfilecheck)             Checksum: 51C27EC731CB5115D7DE749FC6DFC09E;3647.
 
 
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 28043 strings out of 492166
- 504763 string characters out of 6126303
- 972950 words of memory out of 5000000
- 31795 multiletter control sequences out of 15000+600000
+ 28170 strings out of 492166
+ 507604 string characters out of 6126303
+ 976157 words of memory out of 5000000
+ 31880 multiletter control sequences out of 15000+600000
  544356 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,67p,2290b,2981s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plsc.enc}{d:/LATEX/texli
-ve/2019/texmf-dist/fonts/enc/dvips/pl/plit.enc}{d:/LATEX/texlive/2019/texmf-dis
-t/fonts/enc/dvips/pl/plmi.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips
-/pl/plrm.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-supe
-r-ts1.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plms.enc}{d:/LAT
-EX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plme.enc}<d:/LATEX/texlive/2019/t
-exmf-dist/fonts/type1/public/pl/plbx12.pfb><d:/LATEX/texlive/2019/texmf-dist/fo
-nts/type1/public/pl/plbx8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/pub
-lic/pl/plbxti10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plc
-sc10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plex10.pfb><d:
-/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plmi12.pfb><d:/LATEX/texli
-ve/2019/texmf-dist/fonts/type1/public/pl/plmi6.pfb><d:/LATEX/texlive/2019/texmf
--dist/fonts/type1/public/pl/plmi8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/t
-ype1/public/pl/plr10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/p
-l/plr12.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plr17.pfb><
-d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plr6.pfb><d:/LATEX/texli
-ve/2019/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/LATEX/texlive/2019/texmf-
-dist/fonts/type1/public/pl/plsy10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/t
-ype1/public/pl/plsy8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/p
-l/plti12.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm
-1200.pfb>
-Output written on main.pdf (67 pages, 4348379 bytes).
+ 46i,12n,67p,2947b,2981s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{table.caption.67} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.55} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.68} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.58} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.52} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.49} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.42} has been referenced but does not
+ exist, replaced by a fixed one
+
+{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plsc.enc}{d:/LATEX/texlive
+/2019/texmf-dist/fonts/enc/dvips/pl/plit.enc}{d:/LATEX/texlive/2019/texmf-dist/
+fonts/enc/dvips/pl/plmi.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/p
+l/plrm.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-
+ts1.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plms.enc}{d:/LATEX
+/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plme.enc}<d:/LATEX/texlive/2019/tex
+mf-dist/fonts/type1/public/pl/plbx12.pfb><d:/LATEX/texlive/2019/texmf-dist/font
+s/type1/public/pl/plbx8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/publi
+c/pl/plbxti10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plcsc
+10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plex10.pfb><d:/L
+ATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plmi12.pfb><d:/LATEX/texlive
+/2019/texmf-dist/fonts/type1/public/pl/plmi6.pfb><d:/LATEX/texlive/2019/texmf-d
+ist/fonts/type1/public/pl/plmi8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/typ
+e1/public/pl/plr10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/
+plr12.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plr17.pfb><d:
+/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/plr6.pfb><d:/LATEX/texlive
+/2019/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/LATEX/texlive/2019/texmf-di
+st/fonts/type1/public/pl/plsy10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/typ
+e1/public/pl/plsy8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/pl/
+plti12.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm12
+00.pfb>
+Output written on main.pdf (74 pages, 4918173 bytes).
 PDF statistics:
- 1180 PDF objects out of 1200 (max. 8388607)
- 1002 compressed objects within 11 object streams
- 299 named destinations out of 1000 (max. 500000)
- 578 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1408 PDF objects out of 1440 (max. 8388607)
+ 1209 compressed objects within 13 object streams
+ 327 named destinations out of 1000 (max. 500000)
+ 628 words of extra memory for PDF output out of 10000 (max. 10000000)
 

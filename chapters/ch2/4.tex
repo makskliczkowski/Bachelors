@@ -1,4 +1,4 @@
-In this section we will provide the methods of solar cell characterisation and the quantities which are connected to it. More information can be rad at \ref{pv}
+In this section we will provide the methods of solar cell characterisation and the quantities which are connected to it. More information can be read in \ref{pv}
 
 \subsection{Properties of sunlight}
 
@@ -35,11 +35,16 @@ I_\lambda = \frac{2\pi hc^2}{\lambda^5(e^{\frac{hc}{k\lambda T}}-1)}
 
 \subsection{Solar Cell Operation}
 
-For a solar cell to generate current, the following main processes must be present. First one is the possibility to absorb photons from incident light so we can generate carriers. We must remember that minority carriers are only stable for a minority carrier lifetime before recombination. Therefore, before this time, we need to collect those carriers to spatially disallow carriers to recombine. Ideally, if we create pair in the n region, the electric field sweeps the minority carrier through the junction to the place where it becomes majority carrier. In a short circuit situation, two carriers ideally meet together after flowing through the external circuit. 
+For a solar cell to generate current, the following main processes must be present. First one is the possibility to absorb photons from incident light so we can generate carriers. We must remember that minority carriers are only stable for a minority carrier lifetime before recombination. Therefore, before this time, we need to collect those carriers to spatially disallow carriers to recombine. Ideally, if we create pair in the n region, the electric field sweeps the minority carrier through the junction to the place where it becomes majority carrier. In a short circuit scenario, two carriers ideally meet together after flowing through the external circuit. 
 
 The fact that the carriers must "live" through the distance needed to separate them is described by collection probability, which depends on the diffusion length and surface properties. 
 
-The number of carriers collected in the solar cell compared to the number of incident photons describes the more macroscopic ability of the device. It is called a \textbf{quantum efficiency} $Q.E=\frac{number of carriers collected}{number of incident photons}$. It is strictly dependent also on the absorption so directly on the wavelength of incident photons. 
+The number of carriers collected in the solar cell compared to the number of incident photons describes the more macroscopic ability of the device. It is called a \textbf{quantum efficiency} 
+
+\begin{equation}
+Q.E=\frac{number  of  carriers  collected}{number  of  incident  photons}
+\end{equation}
+It is strictly dependent also on the absorption, so directly on the wavelength of incident photons. 
 
 \begin{figure}
 \centering
@@ -47,7 +52,7 @@ The number of carriers collected in the solar cell compared to the number of inc
 \caption{Quantum efficiency of an ideal silicon solar cell \cite{pv}}
 \end{figure}
 
-It is also possible to describe an external QE, which also includes some optical effect such as reflection. 
+It is also possible to describe an external QE(EQE), which also includes some optical effect such as reflection. 
 
 \subsection{Solar Cell Parameters}
 Here, we will state the most important parameters for solar cell characterisation, we will simply tell what do they stand for and how to measure them. 
@@ -87,7 +92,7 @@ From the FF we can derive another, probably most useful quantity, which has been
 \eta = \frac{V_{oc}I_{sc}FF}{P_{in}}
 \end{equation}
 
-where $\eta$ is the PCE and $P_in$ is the sunlight power. 
+where $\eta$ is the PCE and $P_{in}$ is the sunlight power. 
 
 \subsection{Shockley-Queisser limit}
 
