@@ -103,7 +103,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.2}\formatsubsection {Method's properties}}{50}{subsection.3.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{CHX/Acetonitrirle polar purification.}{50}{section*.42}% 
+\contentsline {subsubsection}{polar/non-polar purification method}{50}{section*.42}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}\formatsection {Depositions parameters and methods}}{50}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
@@ -117,9 +117,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}RESULTS and Conclusion}{53}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}\formatsection {PbS Quantum Dot Solar Cells}}{53}{section.4.1}% 
+\contentsline {section}{\numberline {4.1}\formatsection {$\mathbf {PbS}$ Quantum Dot Solar Cells}}{53}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}\formatsubsection {PbS Quantum Dots produced in our laboratory}}{54}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.1}\formatsubsection {$\mathbf {PbS}$ Quantum Dots produced in our laboratory}}{54}{subsection.4.1.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.2}\formatsubsection {First device deposition}}{54}{subsection.4.1.2}% 
 \defcounter {refsection}{0}\relax 

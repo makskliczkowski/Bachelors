@@ -195,13 +195,13 @@ The whole function now:
 where $\psi(r)$ is the new envelope function for electrons and holes. We now have that(neglecting the other interactions - in single parabolic band approximation):
 
 \begin{equation}
-\hat{H} = \left[ \frac{-\hbar ^2}{2m_e}\nabla _e^2 \frac{-\hbar ^2}{2m_h}\nabla _h^2 \right] + V_e(\mathbf{r}) + V_h(\mathbf{r}) =
+\hat{H} = \left[ \frac{-\hbar ^2}{2m_e}\nabla _e^2 + \frac{-\hbar ^2}{2m_h}\nabla _h^2 \right] + V_e(\mathbf{r}) + V_h(\mathbf{r}) =
 \end{equation}
 
 The envelope function is separable for holes and electrons so the solutions have a shape like:
 
 \begin{equation}
-\Phi _{nlm} ^i(r) = Y_{lm} \sqrt{\frac{2}{R^3}} \frac{J_l(\chi _{nl}\frac{r}{R}}{J_{l+1}(\chi _{nl})}
+\Phi _{nlm} ^i(r) = Y_{lm} \sqrt{\frac{2}{R^3}} \frac{J_l(\chi _{nl}\frac{r}{R})}{J_{l+1}(\chi _{nl})}
 \end{equation}
 
 where $-l \leq m \leq l; l = 0,1,2,3...; n = 1,2,3,...$, $Y_{lm}$ are spherical harmonics and $J_l$ are the Bessel functions and $\chi _{nl}$ is the n-th zero of order l Bessel function. When we put effective masses we can estimate roots and calculate the energy levels for the envelope functions. Then we can calculate the optical properties calculating the overlap of the functions. Nevertheless, this approximation cannot fully explain what happens with the nanoparticles. We have simply neglected all the things that are making them different like Bloch functions, interactions etc. The next step would be to add interactions, mixing, splitting and then process to the other states as has been said at the beginning. This is a rather complex method, and the first thing you can do is to use the so called $k\cdot p$ perturbation theory to approximate some of the things and make calculations easier. As it is not the topic of the thesis, the places where you can read it further are here \cite{Klimov} \cite{ulrike} \cite{fox} \cite{dotsy}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.5)  30 NOV 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.5)  6 DEC 2019 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1136,13 +1136,7 @@ File: images/logopwr.pdf Graphic file (type pdf)
 <use images/logopwr.pdf>
 Package pdftex.def Info: images/logopwr.pdf  used on input line 35.
 (pdftex.def)             Requested size: 426.79134pt x 93.5487pt.
-) [2]
-Overfull \hbox (1.42644pt too wide) in paragraph at lines 80--81
-\OT4/cmr/m/n/12 trak-towanie pracy jako krótkiego przegl¡du obec-nego roz-woju 
-tech-nologii zwiazanych
- []
-
-[3]
+) [2] [3]
 <images/turtle.png, id=222, 737.75626pt x 501.37312pt>
 File: images/turtle.png Graphic file (type png)
 <use images/turtle.png>
@@ -1154,11 +1148,11 @@ Package pdftex.def Info: images/turtle.png  used on input line 86.
 
 ] [6
 
-] (./main.toc
+]
+(./main.toc
 LaTeX Font Info:    Trying to load font information for OML+plm on input line 1
 2.
-
-(d:/LATEX/texlive/2019/texmf-dist/tex/latex/polski/omlplm.fd
+ (d:/LATEX/texlive/2019/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
@@ -1245,102 +1239,102 @@ Chapter 2.
 n.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.144 \begin{equation}
+l.143 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.144 \begin{equation}
+l.143 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.144 \begin{equation}
+l.143 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.144 \begin{equation}
+l.143 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.152 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.152 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.152 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \begin{equation}
+l.152 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.157 \begin{equation}
+l.156 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.157 \begin{equation}
+l.156 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.157 \begin{equation}
+l.156 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.157 \begin{equation}
+l.156 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 \begin{equation}
+l.161 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 \begin{equation}
+l.161 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 \begin{equation}
+l.161 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.162 \begin{equation}
+l.161 \begin{equation}
                        [17]pdfTeX warning (ext4): destination with the same ide
 ntifier (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \begin{equation}
+l.182 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \begin{equation}
+l.182 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \begin{equation}
+l.182 \begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
 er (name{equation.2.1.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \begin{equation}
+l.182 \begin{equation}
                       ) (./chapters/ch2/2.tex
 <images/Con_temp.pdf, id=563, 597.50786pt x 845.04686pt>
 File: images/Con_temp.pdf Graphic file (type pdf)
@@ -1712,11 +1706,11 @@ er (name{equation.2.2.4}) has been already used, duplicate ignored
                    \relax 
 l.278 \begin{equation}
                       
-<images/ch2/pn.png, id=660, 343.0416pt x 614.7768pt>
+<images/ch2/pn.png, id=660, 342.5598pt x 619.3539pt>
 File: images/ch2/pn.png Graphic file (type png)
 <use images/ch2/pn.png>
 Package pdftex.def Info: images/ch2/pn.png  used on input line 286.
-(pdftex.def)             Requested size: 256.0774pt x 458.93327pt.
+(pdftex.def)             Requested size: 256.0774pt x 463.02109pt.
  [27] [28 <./images/ch2/pn.png>]pdfTeX warning (ext4): destination with the sam
 e identifier (name{equation.2.2.5}) has been already used, duplicate ignored
 <to be read again> 
@@ -2196,6 +2190,18 @@ Package pdftex.def Info: images/ch3/napylara.jpg  used on input line 57.
 )) (./chapters/ch4.tex [52 <./images/ch3/napylara.jpg> <./images/ch3/sputter.pn
 g>]
 Chapter 4.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <17.28> on input line 3.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3.
+
 (./chapters/ch4/1.tex
 <images/ch5/Pbs-QDs1st_emm.png, id=976, 492.33937pt x 367.3725pt>
 File: images/ch5/Pbs-QDs1st_emm.png Graphic file (type png)
@@ -2205,6 +2211,19 @@ Package pdftex.def Info: images/ch5/Pbs-QDs1st_emm.png  used on input line 3.
  [53
 
  <./images/ch5/Pbs-QDs1st_emm.png>]
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 12.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 12.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 12.
+
 <images/ch5/synth/Abs002.pdf, id=986, 774.895pt x 593.21625pt>
 File: images/ch5/synth/Abs002.pdf Graphic file (type pdf)
 <use images/ch5/synth/Abs002.pdf>
@@ -2215,7 +2234,7 @@ File: images/ch5/synth/PL002.pdf Graphic file (type pdf)
 <use images/ch5/synth/PL002.pdf>
 Package pdftex.def Info: images/ch5/synth/PL002.pdf  used on input line 26.
 (pdftex.def)             Requested size: 298.75262pt x 228.7103pt.
- [54] [55 <./images/ch5/synth/Abs002.pdf> <./images/ch5/synth/PL002.pdf
+[54] [55 <./images/ch5/synth/Abs002.pdf> <./images/ch5/synth/PL002.pdf
 
 pdfTeX warning: pdflatex.exe (file ./images/ch5/synth/PL002.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
@@ -2414,13 +2433,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 28163 strings out of 492166
- 507551 string characters out of 6126303
- 976190 words of memory out of 5000000
- 31879 multiletter control sequences out of 15000+600000
- 544356 words of font info for 51 fonts, out of 8000000 for 9000
+ 28184 strings out of 492166
+ 507818 string characters out of 6126303
+ 976191 words of memory out of 5000000
+ 31894 multiletter control sequences out of 15000+600000
+ 549009 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,12n,67p,2947b,2981s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,67p,2955b,2981s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips/pl/plsc.enc}{d:/LATEX/texli
 ve/2019/texmf-dist/fonts/enc/dvips/pl/plit.enc}{d:/LATEX/texlive/2019/texmf-dis
 t/fonts/enc/dvips/pl/plmi.enc}{d:/LATEX/texlive/2019/texmf-dist/fonts/enc/dvips
@@ -2442,7 +2461,7 @@ dist/fonts/type1/public/pl/plsy10.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/t
 ype1/public/pl/plsy8.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/p
 l/plti12.pfb><d:/LATEX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm
 1200.pfb>
-Output written on main.pdf (74 pages, 4919522 bytes).
+Output written on main.pdf (74 pages, 4968342 bytes).
 PDF statistics:
  1407 PDF objects out of 1440 (max. 8388607)
  1207 compressed objects within 13 object streams
