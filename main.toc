@@ -33,11 +33,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{QUASI-FERMI LEVELS}{26}{section*.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.7}\formatsubsection {SEMICONDUCTOR JUNCTIONS}}{27}{subsection.2.2.7}% 
+\contentsline {subsection}{\numberline {2.2.7}\formatsubsection {SEMICONDUCTOR JUNCTIONS}}{26}{subsection.2.2.7}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{P-N JUNCTION}{27}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}\formatsection {LIGHT WITH MATTER INTERACTION}}{29}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}\formatsection {LIGHT WITH MATTER INTERACTION}}{27}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.1}\formatsubsection {Interband absorption}}{30}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
@@ -55,15 +55,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Photon flux}{35}{section*.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Spectral Irradiance}{36}{section*.27}% 
+\contentsline {subsubsection}{Spectral Irradiance}{35}{section*.27}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Blackbody radiation}{36}{section*.28}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.2}\formatsubsection {Solar Cell Operation}}{36}{subsection.2.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.3}\formatsubsection {Solar Cell Parameters}}{36}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.3}\formatsubsection {Solar Cell Parameters}}{37}{subsection.2.4.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Short-Circuit Current}{36}{section*.30}% 
+\contentsline {subsubsection}{Short-Circuit Current}{37}{section*.30}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Open-Circuit Voltage}{37}{section*.31}% 
 \defcounter {refsection}{0}\relax 
@@ -89,11 +89,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5.3}\formatsubsection {CQD SUPER-CRYSTAL}}{41}{subsection.2.5.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further reading for CQDs}{41}{section*.40}% 
+\contentsline {subsubsection}{Further reading for CQDs}{42}{section*.40}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.5.4}\formatsubsection {PRINCIPLES OF QDSCS}}{42}{subsection.2.5.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5.5}\formatsubsection {MATERIALS AND PERFORMANCE DEVELOPMENT OF QDSSC - A REVIEW}}{44}{subsection.2.5.5}% 
+\contentsline {subsection}{\numberline {2.5.5}\formatsubsection {MATERIALS AND PERFORMANCE DEVELOPMENT OF QDSSC - A REVIEW}}{43}{subsection.2.5.5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}PREPARATION, DEPOSITION AND OTHER EXPERIMENTAL METHODS}{49}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
@@ -123,7 +123,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.2}\formatsubsection {First device deposition}}{54}{subsection.4.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Device fabrication}{54}{section*.49}% 
+\contentsline {subsubsection}{Device fabrication}{56}{section*.49}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Results}{57}{section*.52}% 
 \defcounter {refsection}{0}\relax 
@@ -131,7 +131,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1.3}\formatsubsection {Second device manufacture}}{61}{subsection.4.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.4}\formatsubsection {Conclusion and outlook}}{67}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.4}\formatsubsection {Conclusion and outlook}}{68}{subsection.4.1.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}FUTURE POSSIBILITIES}{69}{chapter.5}% 
 \defcounter {refsection}{0}\relax 

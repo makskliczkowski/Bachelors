@@ -31,15 +31,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.11}{\ignorespaces The image of a band structure for two band model in direct band semiconductors a). In b) we can see that there are much more discrete states in a nanoparticle than in bulk a) \cite {Klimov}\relax }}{34}{figure.caption.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Quantum efficiency of an ideal silicon solar cell \cite {pv}\relax }}{37}{figure.caption.29}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Quantum efficiency of an ideal silicon solar cell \cite {pv}\relax }}{36}{figure.caption.29}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.13}{\ignorespaces AM1.5 irradiation at Earth surface\cite {am} and AM0 at Earth's orbit\relax }}{39}{figure.caption.34}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.14}{\ignorespaces Image of ideal CQD composed of selenide with passivation with oleic acid, oleyl amine and hydroxyl ligands \cite {qd}\relax }}{40}{figure.caption.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{42}{figure.caption.39}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Types of Core-Shell CQDs(blue color is core energy structure), we can see that in the first type both electrons(smallest energy in CB) and holes(biggest energy in VB) are confined beneath the core. \cite {coreshell}\relax }}{41}{figure.caption.39}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{43}{figure.caption.41}% 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Schematic illustration of configurations and band structures of QD solar cells: a) QD-sensitized b) hybrid QD-polymer c) Schottky junction d) p-n hetero-junction e) p-n homo-junction \cite {HuashangRao2018}\relax }}{42}{figure.caption.41}% 
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
@@ -57,9 +57,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Optical measurements of QDs synthesized by \cite {swietek} and the procedure is described right there. It is worth to mention that the injection has been made at 80$\qopname \relax o{deg}C$. Graphs were included with kind acceptance of the former thesis author\relax }}{55}{figure.caption.48}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our lab\relax }}{56}{figure.caption.51}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces First device and PbS Quantum-Dots produced in our laboratory\relax }}{56}{figure.caption.51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces AFM picture of deposited ZnMgO layer. It has been done on the ITO glass contact. We can clearly see the border between two materials. The width of the layer is estimated to be 0,04$\mu m$ taking the average line.\relax }}{56}{figure.caption.50}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces AFM picture of deposited ZnMgO layer b) and it's cross section a)\relax }}{56}{figure.caption.50}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of Black Body photon counts and that of our light source\relax }}{57}{figure.caption.53}% 
 \defcounter {refsection}{0}\relax 
@@ -75,15 +75,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.10}{\ignorespaces Cell heating\relax }}{62}{figure.caption.61}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Photoluminescence of purified QDs. Althought they aren't perfect in the subject of the width of the peak and two distinct peaks, the greater peak is placed at suitable wavelength. Those were the only PbS QDs available at the time as well. \relax }}{63}{figure.caption.63}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Photoluminescence of purified QDs\relax }}{63}{figure.caption.63}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.13}{\ignorespaces Second deposition parameters and number of depositions made\relax }}{63}{figure.caption.64}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.14}{\ignorespaces First results from dark IV characteristics\relax }}{64}{figure.caption.65}% 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Dark IV graph for the second device\relax }}{64}{figure.caption.65}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Dark IV graph for the second device\relax }}{65}{figure.caption.66}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces First results from dark IV characteristics\relax }}{65}{figure.caption.66}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Bright IV characteristics. Note that the destructed device characteristics is not used(weird things begin to happen there) and the values displayed are for the first test\relax }}{66}{figure.caption.67}% 
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Bright IV characteristics. Note that the destructed device characteristics is not used and the values displayed are for the first test\relax }}{66}{figure.caption.67}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.17}{\ignorespaces Power plotted for the first and second bright test. Maximal values of are plotted on the graph as well\relax }}{66}{figure.caption.69}% 
 \defcounter {refsection}{0}\relax 

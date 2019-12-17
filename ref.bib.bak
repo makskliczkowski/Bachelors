@@ -987,4 +987,52 @@
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Book{solartech,
+  title     = {Solar Energy Fundamentals, Technology and Systems},
+  publisher = {DelftUniversityofTechnology},
+  year      = {2014},
+  author    = {Klaus Jäger, Olindo Isabella, Arno H. M. Smets, René A. C. M. M. van Swaaij, Miro Zeman},
+}
+
+@Booklet{harv,
+  title = {How Much Solar Energy Can We Harvest?},
+  url   = {http://home.iprimus.com.au/nielsens/solen.html},
+}
+
+@Article{Gao2018,
+  author    = {Wenhui Gao and Guangmei Zhai and Caifeng Zhang and Zhimeng Shao and Lulu Zheng and Yong Zhang and Yongzhen Yang and Xuemin Li and Xuguang Liu and Bingshe Xu},
+  title     = {Towards understanding the initial performance improvement of {PbS} quantum dot solar cells upon short-term air exposure},
+  journal   = {{RSC} Advances},
+  year      = {2018},
+  volume    = {8},
+  number    = {27},
+  pages     = {15149--15157},
+  doi       = {10.1039/c8ra01422a},
+  publisher = {Royal Society of Chemistry ({RSC})},
+}
+
+@Article{Balazs2015,
+  author    = {Daniel M. Balazs and Dmitry N. Dirin and Hong-Hua Fang and Loredana Protesescu and Gert H. ten Brink and Bart J. Kooi and Maksym V. Kovalenko and Maria Antonietta Loi},
+  title     = {Counterion-Mediated Ligand Exchange for {PbS} Colloidal Quantum Dot Superlattices},
+  journal   = {{ACS} Nano},
+  year      = {2015},
+  volume    = {9},
+  number    = {12},
+  pages     = {11951--11959},
+  month     = {nov},
+  doi       = {10.1021/acsnano.5b04547},
+  publisher = {American Chemical Society ({ACS})},
+}
+
+@Article{synthesis,
+  author  = {Mark C. Weidman, Megan E. Beck, Rachel S. Hoffman Ferry Prins and Tisdale, William A.},
+  title   = {Monodisperse air-stable PbS nanocrystals via precursor stoichiometry control},
+  journal = {ACS Nano},
+  year    = {2014},
+}
+
+@Misc{vimun,
+  url = {http://www.vimun.cn/en/index.asp},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -1,23 +1,24 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[91] biber-MSWIN32:315> INFO - === 
-[135] Biber.pm:375> INFO - Reading 'main.bcf'
-[456] Biber.pm:905> INFO - Found 93 citekeys in bib section 0
-[494] Biber.pm:4196> INFO - Processing section 0
-[502] Utils.pm:75> INFO - Globbing data source 'ref.bib'
-[523] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
-[549] Biber.pm:4373> INFO - Looking for bibtex format file 'ref.bib' for section 0
-[565] bibtex.pm:1462> INFO - LaTeX decoding ...
-[804] bibtex.pm:1281> INFO - Found BibTeX data source 'ref.bib'
-[850] Utils.pm:300> WARN - year field '(1991-2010)' in entry '1991-2010' is not an integer - this will probably not sort properly.
-[922] Utils.pm:300> WARN - month field 'jan' in entry 'Esaki1970' is not an integer - this will probably not sort properly.
-[1404] Utils.pm:300> WARN - month field 'may' in entry 'Zekry1996' is not an integer - this will probably not sort properly.
-[1415] Utils.pm:300> WARN - month field 'may' in entry 'Chuang2014' is not an integer - this will probably not sort properly.
-[1426] Utils.pm:300> WARN - I didn't find a database entry for 'princeton' (section 0)
-[1607] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1608] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1608] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[1609] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[1780] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1869] bbl.pm:751> INFO - Output to main.bbl
-[1871] Biber.pm:110> INFO - WARNINGS: 5
+[88] biber-MSWIN32:315> INFO - === 
+[126] Biber.pm:375> INFO - Reading 'main.bcf'
+[439] Biber.pm:905> INFO - Found 98 citekeys in bib section 0
+[470] Biber.pm:4196> INFO - Processing section 0
+[475] Utils.pm:75> INFO - Globbing data source 'ref.bib'
+[494] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
+[516] Biber.pm:4373> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[531] bibtex.pm:1462> INFO - LaTeX decoding ...
+[757] bibtex.pm:1281> INFO - Found BibTeX data source 'ref.bib'
+[793] Utils.pm:300> WARN - year field '(1991-2010)' in entry '1991-2010' is not an integer - this will probably not sort properly.
+[855] Utils.pm:300> WARN - month field 'jan' in entry 'Esaki1970' is not an integer - this will probably not sort properly.
+[1302] Utils.pm:300> WARN - month field 'nov' in entry 'Balazs2015' is not an integer - this will probably not sort properly.
+[1321] Utils.pm:300> WARN - month field 'may' in entry 'Zekry1996' is not an integer - this will probably not sort properly.
+[1331] Utils.pm:300> WARN - month field 'may' in entry 'Chuang2014' is not an integer - this will probably not sort properly.
+[1341] Utils.pm:300> WARN - I didn't find a database entry for 'princeton' (section 0)
+[1529] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1530] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1531] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1532] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[1707] bbl.pm:648> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1795] bbl.pm:751> INFO - Output to main.bbl
+[1798] Biber.pm:110> INFO - WARNINGS: 6
